@@ -13,13 +13,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frameworks/Django.md",
+                "file": "Frameworks/Django/1 - Setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd9c6198464d3de8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frameworks/Django/1 - Setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fd00616cea08489",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frameworks/Django/1 - Setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c00612badb7337f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frameworks/Django/3 - Templates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d274a9e0aa7b328",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Libraries/Bootstrap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67684a024d162152",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frameworks/Django/3 - Templates.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frameworks/Django.md",
+                "file": "Frameworks/Django/3 - Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frameworks/Django.md",
+                "file": "Frameworks/Django/3 - Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frameworks/Django.md"
+                "file": "Frameworks/Django/3 - Templates.md"
               }
             }
           }
@@ -136,6 +197,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "95b9748c49d17fbd",
-  "lastOpenFiles": []
+  "active": "67684a024d162152",
+  "lastOpenFiles": [
+    "Frameworks/Django/4 - Static.md",
+    "Libraries/Bootstrap.md",
+    "Frameworks/Django/3 - Templates.md",
+    "VSCode.md",
+    "Frameworks/Django/2 - Routes.md",
+    "Frameworks/Django/1 - Setup.md"
+  ]
 }
