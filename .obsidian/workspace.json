@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django.md",
+                "file": "Frameworks/Django.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django.md",
+                "file": "Frameworks/Django.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django.md",
+                "file": "Frameworks/Django.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django.md"
+                "file": "Frameworks/Django.md"
               }
             }
           }
@@ -136,6 +136,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d9ff01d4e87a683c",
+  "active": "95b9748c49d17fbd",
   "lastOpenFiles": []
 }
