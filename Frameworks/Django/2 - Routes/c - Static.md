@@ -11,6 +11,10 @@ At top of document
 
 CSS
 ```html
+<link rel="stylesheet" type="text/css" href="{% static 'blog/main.css' %}">
+```
 
-    <link rel="stylesheet" type="text/css" href="{% static 'blog/main.css' %}">
+Route
+```html
+<a class="ml-2" href="{% url 'register' %}">Sign Up Now</a>
 ```

@@ -85,3 +85,24 @@ def home(request):
 
 # Post requests
 
+# Restricting Route Access
+
+import login required decorator
+
+```python
+from django.contrib.auth.decorators import login_required
+
+@login_required
+def profile(request):
+    return render(request, 'users/profile.html')
+```
+
+Change login route for django of settings.py
+
+```python
+LOGIN_URL = 'login'
+```
+
+Django will hold info on attempted page to go to after login
+
+Does not work for class based views

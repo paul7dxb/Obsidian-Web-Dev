@@ -27,9 +27,7 @@ Load into form
 
 ```html
 {% extends "blog/base.html" %}
-
 {% load crispy_forms_tags %}
-
     {% block content %}
 
         <div class="content-section">
