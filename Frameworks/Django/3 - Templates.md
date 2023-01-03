@@ -1,6 +1,6 @@
 
-Create folder 'templates' in app folder
-Create folder in templates named the same as the app (django convention)
+**Create folder 'templates' in app folder
+Create folder in templates named the same as the app (django convention)**
 
 Add app (blog) configuration to INSTALLED_APPS in settings.py. Class name is taken from apps.py in app folder
 
@@ -33,6 +33,15 @@ def home(request):
 {% if %}
 	<h1> {{ item.title }} </h1>
 {% endif %}
+```
+
+## Date filter
+
+[Date filter docs](https://docs.djangoproject.com/en/4.1/ref/templates/builtins/#date)
+
+Example: Full month, date number, 4 digit Year
+```
+<small class="text-muted">{{ post.date_posted|date:"F d Y"}}</small>
 ```
 
 # Base.html

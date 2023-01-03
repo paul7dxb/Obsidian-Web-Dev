@@ -1,7 +1,7 @@
 [Tutorial Series Django by Corey Schafer](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&index=1)
 
 
-## Setup
+# Setup
 
 Setup virtual python environment
 
@@ -10,7 +10,7 @@ Install Django
 pip install django
 ```
 
-## Commands
+# Commands
 
 VSCode start environment
 	command pallette (ctrl + shift + p)
@@ -31,7 +31,8 @@ Start django project from venv
 django-admin startproject django_example
 ```
 
-### Running
+
+## Run Server
 
 From project folder
 
