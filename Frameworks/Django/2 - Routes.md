@@ -62,7 +62,10 @@ urlpatterns = [
 ]
 ```
 
+Or import URL directly to urls.py
+``` python
 
+```
 
 # Linking to DB data
 
@@ -79,4 +82,6 @@ def home(request):
     return render(request, 'blog/home.html', context)
 
 ```
+
+# Post requests
 
