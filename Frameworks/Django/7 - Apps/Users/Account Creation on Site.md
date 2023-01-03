@@ -1,6 +1,6 @@
 # Create App and route
 
-[[2 - Routes]]
+[[a - Routes]]
 
 # Create Registration Form
 
@@ -12,7 +12,7 @@ Django registration form
 
 ## Create templates folder and file
 
-[[3 - Templates]]
+[[b - Templates]]
 
 Add form
 

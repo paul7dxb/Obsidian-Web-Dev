@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frameworks/Django/1 - Setup.md",
+                "file": "Frameworks/Django/1 - Setup/Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frameworks/Django/2 - Routes.md",
+                "file": "Frameworks/Django/2 - Routes/a - Routes.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frameworks/Django/2 - Routes.md",
+                "file": "Frameworks/Django/2 - Routes/a - Routes.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frameworks/Django/7 - Account Creation on Site.md",
+                "file": "Frameworks/Django/7 - Apps/Users/Account Creation on Site.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,12 +59,8 @@
             "id": "3b91b7d5dce59d0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frameworks/Django/Z - Thrid Party Apps.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -73,14 +69,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frameworks/Django/Z - Third Party Apps/Crispy Forms.md",
+                "file": "Frameworks/Django/5 - Administrator/SuperUser Admin.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "daa4f00d69142796",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frameworks/Django/6 - Database/a - Database Creation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b1ae2490e96d6ca",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -146,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frameworks/Django/Z - Third Party Apps/Crispy Forms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +178,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frameworks/Django/Z - Third Party Apps/Crispy Forms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +199,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Frameworks/Django/Z - Third Party Apps/Crispy Forms.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -207,17 +219,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f81d88edbf377bc",
+  "active": "95b9748c49d17fbd",
   "lastOpenFiles": [
-    "Frameworks/Django/7 - Account Creation on Site.md",
     "Frameworks/Django/Z - Django Template Pages.md",
-    "Frameworks/Django/Z - Thrid Party Apps.md",
-    "Frameworks/Django/Z - Third Party Apps/Crispy Forms.md",
-    "Frameworks/Django/3 - Templates.md",
-    "Frameworks/Django/6 - Database.md",
     "Frameworks/Django/Z - Django Imports.md",
-    "Frameworks/Django/2 - Routes.md",
-    "Frameworks/Django/1 - Setup.md",
-    "Libraries/Bootstrap.md"
+    "Frameworks/Django/7 - Apps/Users/Account Creation on Site.md",
+    "Frameworks/Django/6 - Database/b - Database Interaction.md",
+    "Frameworks/Django/6 - Database/a - Database Creation.md",
+    "Frameworks/Django/5 - Administrator/SuperUser Admin.md",
+    "Frameworks/Django/2 - Routes/c - Static.md",
+    "Frameworks/Django/2 - Routes/b - Templates.md",
+    "Frameworks/Django/2 - Routes/a - Routes.md",
+    "Frameworks/Django/1 - Setup/Setup.md"
   ]
 }

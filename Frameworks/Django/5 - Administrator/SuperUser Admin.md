@@ -1,6 +1,6 @@
 # Create Database
 
-[[6 - Database|Create DB and make migrations]]
+[[a - Database Creation|Create DB and make migrations]]
 
 # Create new admin user
 
