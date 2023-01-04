@@ -8,111 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de2b89a9cc4f9d97",
+            "id": "05fa9f42dff7ecd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frameworks/Django/1 - Setup/Setup.md",
+                "file": "Frameworks/Django/7 - Apps/Users/c - Profile Page.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a5770e0d592e086d",
+            "id": "99a9f3e2555a47ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frameworks/Django/2 - Routes/a - Routes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72c4d78b9816010d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frameworks/Django/2 - Routes/a - Routes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65aafb56ff1e2a3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frameworks/Django/7 - Apps/Users/a - Account Creation on Site.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b91b7d5dce59d0f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6f81d88edbf377bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frameworks/Django/5 - Administrator/SuperUser Admin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "daa4f00d69142796",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frameworks/Django/6 - Database/a - Database Creation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b1ae2490e96d6ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frameworks/Django/7 - Apps/Users/b - Login & Logout.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fceaff5b4055169b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frameworks/Django/2 - Routes/a - Routes.md",
+                "file": "Frameworks/Django/7 - Apps/Users/d - Profile Pictures.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frameworks/Django/2 - Routes/a - Routes.md",
+                "file": "Frameworks/Django/7 - Apps/Users/d - Profile Pictures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frameworks/Django/2 - Routes/a - Routes.md",
+                "file": "Frameworks/Django/7 - Apps/Users/d - Profile Pictures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frameworks/Django/2 - Routes/a - Routes.md"
+                "file": "Frameworks/Django/7 - Apps/Users/d - Profile Pictures.md"
               }
             }
           }
@@ -239,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fceaff5b4055169b",
+  "active": "99a9f3e2555a47ff",
   "lastOpenFiles": [
+    "Frameworks/Django/2 - Routes/d - signals.md",
     "Frameworks/Django/7 - Apps/Users/c - Profile Page.md",
-    "Frameworks/Django/2 - Routes/a - Routes.md",
-    "Frameworks/Django/7 - Apps/Users/b - Login & Logout.md",
+    "Frameworks/Django/7 - Apps/Users/d - Profile Pictures.md",
     "Frameworks/Django/2 - Routes/c - Static.md",
-    "Frameworks/Django/Z - Third Party Apps/Crispy Forms.md",
-    "Libraries/Bootstrap.md",
-    "Frameworks/Django/7 - Apps/Users/a - Account Creation on Site.md",
-    "Frameworks/Django/Z - Thrid Party Apps.md",
-    "Frameworks/Django/Z - Django Template Pages.md",
-    "Frameworks/Django/Z - Django Imports.md"
+    "Frameworks/Django/Z - Django Imports.md",
+    "Frameworks/Django/6 - Database/b - Database Interaction.md",
+    "Frameworks/Django/1 - Setup/Setup.md",
+    "Frameworks/Django/5 - Administrator/SuperUser Admin.md",
+    "Frameworks/Django/6 - Database/a - Database Creation.md",
+    "Frameworks/Django/2 - Routes/a - Routes.md"
   ]
 }

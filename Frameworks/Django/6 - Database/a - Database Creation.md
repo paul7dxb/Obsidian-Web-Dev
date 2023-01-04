@@ -13,8 +13,9 @@ Migrations allow you to make changes a working database model
 When you change models you need to make migrations. Detects changes
 
 ```python
-python mananage.py makemigrations
+python manage.py makemigrations
 
+# Update databases
 python manage.py migrate
 ```
 

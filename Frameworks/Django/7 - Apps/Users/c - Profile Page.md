@@ -4,4 +4,7 @@
 - Add link to nav bar
 - Restrict access to page
 	- [[a - Routes#Restricting Route Access]]
-- 
+
+# Automatically Create Profile When User Created
+
+Signals
