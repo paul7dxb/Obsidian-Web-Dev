@@ -7,6 +7,14 @@
 - Matches first part to app (e.g /blog)
 - Uses `include` to send remaining request (taking away blog) to app url.py
 
+## Type of Views
+
+- Function Based Views
+	- URL pattern directed to view, which is a function
+	- handles logic for route and then renders template
+- Class based view
+	- More built in functionality
+
 # Setting Up Routes
 Create new app within website (e.g blog)
 Seperates part of project
@@ -130,3 +138,71 @@ LOGIN_URL = 'login'
 Django will hold info on attempted page to go to after login
 
 Does not work for class based views
+
+# Class Based Views
+
+- Types
+	- List
+		- Blogs
+		- Youtube subscription
+	- Detail
+		- Blog page
+		- Youtube video page
+	- Create
+	- Update
+	- Delete
+
+Class based Views just need to assign variables compared to function which requires calling functions
+
+
+Default `<app>/<model>_<viewtype>.html` e.g blog/post_list.html
+
+## Create an equivalent ListView
+
+```python
+from django.shortcuts import render
+from django.views.generic import ListView # For class based views
+from .models import Post
+
+def home(request):
+    context = {
+        'posts': Post.objects.all()
+    }
+    return render(request, 'blog/home.html', context)
+
+# Is the same as
+
+class PostListView(ListView):
+    model = Post
+    template_name = 'blog/home.html'     # <app>/<model>_<viewtype>.html is default
+    context_object_name = 'posts'
+```
+
+## Add to app's urls.py
+
+```python
+from .views import PostListView
+from . import views
+
+urlpatterns = [
+    path('', PostListView.as_view(), name='blog-home'),
+```
+
+
+## Conventional Class Based DetailView
+
+### Create DetailView
+```python
+class PostDetailView(DetailView):
+    model = Post
+```
+
+### Create Route For specific post
+
+URL pattern that contains a variable
+
+urls.py
+
+```python
+    path('post/<int:pk>/', PostDetailView.as_view(), name='post-detail'), # pk is primary key, post-detail is the default view name
+```

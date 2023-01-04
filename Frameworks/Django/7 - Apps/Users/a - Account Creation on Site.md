@@ -1,6 +1,6 @@
 # Create App and route
 
-[[a - Routes]]
+[[a - Routes & Views]]
 
 # Create Registration Form
 

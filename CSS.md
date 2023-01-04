@@ -22,12 +22,6 @@ parentEle childEle{
 button, p{
 }
 
-/**/
-
-/**/
-
-/**/
-
 
 ```
 

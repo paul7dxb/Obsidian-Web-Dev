@@ -3,7 +3,7 @@
 - Add request method to User app's views.py
 - Add link to nav bar
 - Restrict access to page
-	- [[a - Routes#Restricting Route Access]]
+	- [[a - Routes & Views#Restricting Route Access]]
 
 # Automatically Create Profile When User Created
 

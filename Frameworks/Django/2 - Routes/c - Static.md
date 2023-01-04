@@ -16,9 +16,21 @@ CSS
 
 Route
 ```html
+<!-- register loooked up in urls.py -->
 <a class="ml-2" href="{% url 'register' %}">Sign Up Now</a>
 ```
 
+Using Variables in Routes
+```python
+    path('post/<int:pk>/', PostDetailView.as_view(), name='post-detail'), # pk is primary key, post-detail is the default view name
+```
+
+```html
+<a class="ml-2" href="{% url 'register' %}">Sign Up Now</a>
+
+<!-- Accessing /post/4 where 4 is the post primary key id -->
+<h2><a class="article-title" href="{% url 'post-detail' post.id %}"> {{ post.title }}</a></h2>
+```
 
 # Set Location for Uploaded Media
 
