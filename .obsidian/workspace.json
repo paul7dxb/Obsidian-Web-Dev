@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frameworks/Django/7 - Apps/Users/d - Profile Pictures.md",
+                "file": "Frameworks/Django/7 - Apps/Users/a - Account Creation on Site.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e224730421a94df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frameworks/Django/Z - Packages/Pillow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa570d21a016ae7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frameworks/Django/Z - Packages/Pillow.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frameworks/Django/7 - Apps/Users/d - Profile Pictures.md",
+                "file": "Frameworks/Django/Z - Packages/Pillow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frameworks/Django/7 - Apps/Users/d - Profile Pictures.md",
+                "file": "Frameworks/Django/Z - Packages/Pillow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frameworks/Django/7 - Apps/Users/d - Profile Pictures.md"
+                "file": "Frameworks/Django/Z - Packages/Pillow.md"
               }
             }
           }
@@ -159,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99a9f3e2555a47ff",
+  "active": "2e224730421a94df",
   "lastOpenFiles": [
+    "Frameworks/Django/7 - Apps/Users/e - Update Profile.md",
+    "Frameworks/Django/7 - Apps/Users/d - Profile Pictures.md",
+    "Frameworks/Django/Z - Packages/Pillow.md",
+    "Frameworks/Django/2 - Routes/a - Routes.md",
+    "Frameworks/Django/7 - Apps/Users/a - Account Creation on Site.md",
+    "Frameworks/Django/7 - Apps/Users/b - Login & Logout.md",
+    "Frameworks/Django/2 - Routes/c - Static.md",
     "Frameworks/Django/2 - Routes/d - signals.md",
     "Frameworks/Django/7 - Apps/Users/c - Profile Page.md",
-    "Frameworks/Django/7 - Apps/Users/d - Profile Pictures.md",
-    "Frameworks/Django/2 - Routes/c - Static.md",
-    "Frameworks/Django/Z - Django Imports.md",
-    "Frameworks/Django/6 - Database/b - Database Interaction.md",
-    "Frameworks/Django/1 - Setup/Setup.md",
-    "Frameworks/Django/5 - Administrator/SuperUser Admin.md",
-    "Frameworks/Django/6 - Database/a - Database Creation.md",
-    "Frameworks/Django/2 - Routes/a - Routes.md"
+    "Frameworks/Django/Z - Django Imports.md"
   ]
 }

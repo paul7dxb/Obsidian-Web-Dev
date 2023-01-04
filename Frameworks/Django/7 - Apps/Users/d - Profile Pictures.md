@@ -1,3 +1,5 @@
+# Setup
+
 ## Extend existing user model from django
 
 In App's models.py
@@ -17,11 +19,7 @@ class Profile(models.Model):
 
 ## Install Pillow
 
-Library for working with images in Python
-
-```
-pip install pillow
-```
+[[Pillow#Installation|Pillow installation]]
 
 ## Do Migrations
 
@@ -98,3 +96,4 @@ class UsersConfig(AppConfig):
     def ready(self):
         import users.signals
 ```
+

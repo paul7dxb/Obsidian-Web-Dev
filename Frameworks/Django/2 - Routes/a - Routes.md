@@ -83,7 +83,31 @@ def home(request):
 
 ```
 
-# Post requests
+# POST requests
+
+## Taking Form POST data
+
+```python
+from django.shortcuts import render, redirect
+from django.contrib.auth.forms import UserCreationForm # Django User Creation Form
+from django.contrib import messages #Flash messages library
+
+def register(request):
+    if request.method == 'POST':
+        form = UserCreationForm(request.POST)
+        #Check form is valid
+        if form.is_valid():
+            form.save()
+            username = form.cleaned_data.get('username')
+            messages.success(request, f'Account created for {username}!')
+            #Redirect user to home page after successful account create
+            return redirect('blog-home')
+  
+    else:
+        form = UserCreationForm()
+    return render(request, 'users/register.html', { 'form' : form })
+```
+
 
 # Restricting Route Access
 
