@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "567a199db3de9e72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frameworks/Django/7 - Apps/Users/h - Pagination.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8915087f9aa5ba8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frameworks/Django/7 - Apps/Users/i - User Specific Posts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3789c5e0d4068ecc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frameworks/Django/7 - Apps/Users/j - Email & Password Reset.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frameworks/Django/2 - Routes/a - Routes & Views.md",
+                "file": "Frameworks/Django/7 - Apps/Users/j - Email & Password Reset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frameworks/Django/2 - Routes/a - Routes & Views.md",
+                "file": "Frameworks/Django/7 - Apps/Users/j - Email & Password Reset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frameworks/Django/2 - Routes/a - Routes & Views.md"
+                "file": "Frameworks/Django/7 - Apps/Users/j - Email & Password Reset.md"
               }
             }
           }
@@ -146,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d55dfd6a5871df6f",
+  "active": "3789c5e0d4068ecc",
   "lastOpenFiles": [
+    "Frameworks/Django/7 - Apps/Users/i - User Specific Posts.md",
+    "Frameworks/Django/7 - Apps/Users/h - Pagination.md",
+    "Frameworks/Django/2 - Routes/a - Routes & Views.md",
     "Frameworks/Django/7 - Apps/Users/g - Update, Create, Delete.md",
     "Frameworks/Django/7 - Apps/Users/f - Post View Page.md",
-    "Frameworks/Django/2 - Routes/a - Routes & Views.md",
     "Frameworks/Django/2 - Routes/d - Signals.md",
     "Frameworks/Django/2 - Routes/c - Static.md",
     "Frameworks/Django/2 - Routes/b - Templates.md",
     "Frameworks/Django/Z - Packages/Pillow.md",
-    "Frameworks/Django/7 - Apps/Users/c - Profile Page.md",
-    "Frameworks/Django/7 - Apps/Users/a - Account Creation on Site.md",
-    "Frameworks/Django/6 - Database/b - Database Interaction.md"
+    "Frameworks/Django/7 - Apps/Users/c - Profile Page.md"
   ]
 }
