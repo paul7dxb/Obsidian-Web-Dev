@@ -1,6 +1,11 @@
 Used to store variables locally so they do not get shared in repositories
 
+# Generate secret key
 
+```python
+import secrets
+secrets.token_hex(24)
+```
 
 # Setting on Windows
 
@@ -34,4 +39,10 @@ db_password = os.environ.get('DB_PASS')
 
 print(db_user)
 print(db_password)
+```
+
+## Changing environment variable to Boolean
+
+```python
+DEBUG = (os.environ.get('DEBUG_VALUE') == 'True')
 ```
