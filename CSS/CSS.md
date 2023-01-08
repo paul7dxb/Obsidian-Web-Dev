@@ -34,3 +34,10 @@ button{
 	color: inherit;
 }
 ```
+
+
+# Transforms
+
+```css
+transform: [rotate] [skew] [scale] [translate] [perspective]
+```

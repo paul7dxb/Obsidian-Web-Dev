@@ -1,4 +1,12 @@
+
+
+# Nginx, gunicorn, django configurations
+
+Also include HTTPS
+https://realpython.com/django-nginx-gunicorn/
+
 https://www.linode.com/docs/guides/deploy-django-applications-using-uwsgi-and-nginx-on-ubuntu-14-04/
+
 
 # TODO In Progress need to complete
 [

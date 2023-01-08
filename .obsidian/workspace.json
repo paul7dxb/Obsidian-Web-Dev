@@ -11,24 +11,16 @@
             "id": "c045c1d227cf2a03",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "675e2ce48c493fd2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technologies to Look At.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -37,14 +29,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/Semantic Markup.md",
+                "file": "CSS/CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e033aa1b5a9b7d8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ccf1e38891e7bc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/Transitions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c64ef93baca5b83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/Transitions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -110,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/Semantic Markup.md",
+                "file": "CSS/Transitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/Semantic Markup.md",
+                "file": "CSS/Transitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/Semantic Markup.md"
+                "file": "CSS/Transitions.md"
               }
             }
           }
@@ -171,17 +199,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "490c10002c9b0179",
+  "active": "4c64ef93baca5b83",
   "lastOpenFiles": [
+    "CSS/CSS.md",
     "Technologies to Look At.md",
-    "Notes.md",
-    "Git.md",
-    "Python/Environment Variables.md",
-    "Deployments/Heroku/Heroku Web Server.md",
-    "Frameworks/Django/8 - File hosting/a - AWS File Storage.md",
-    "Deployments/AWS/S3 Buckets.md",
+    "CSS/Variable.md",
+    "CSS/Transitions.md",
+    "Deployments/Web Proxy/Nginx.md",
     "Deployments/Linode/Linode Web Server.md",
-    "Gmail App Password.md",
-    "Deployments/Linode/Misc.md"
+    "JS/Classes.md",
+    "Notes.md",
+    "HTML/Semantic Markup.md",
+    "Git.md"
   ]
 }
