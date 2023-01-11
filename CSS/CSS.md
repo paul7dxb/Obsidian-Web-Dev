@@ -81,8 +81,45 @@ box-shadow: xOffset yOffset Blur Spread
 
 # Background Image
 ```css
-{
 	background-image = url(<URL>)
 	background-size: cover, contain, auto
 	background-position: bottom;
 ```
+
+#Flex Box
+Layout items in a box of contents. Get items to go from inline with even spacing to stacked.
+Able to change how items are layed out as the screen space changes.
+
+## Two axis
+- Main axis (Left to Right)
+- Cross axies ( Top to bottom)
+
+Flex direction: Decide axis (defualt row (L to R), row-reverse (R to L), column (top to bottom), column-reverse (bottom to top))
+
+## justify-content
+- flex-start (dependant on flex direction, default: left)
+- flex-end
+- center
+- space-between (distribute space between elements but not the edge elements to container)
+- space-around
+- space-evenly
+
+## flex-wrap
+Wheter elements wrap on the main-axis to a new line
+- wrap
+- wrap-reverse (cross axis reversed)
+- no-wrap (default)
+
+## align-items
+Distribute sapce along cross axis
+- flex-start
+- baseline (aligns to bottom of text)
+
+## align-content
+Distribute space along the cross axis with multiple rows/columns wrapping
+Same properties as justify-content
+Requires flex-wrap property to be set to some value
+
+## align-self
+assigned to individual elements
+Change alignment on cross axis for single element
