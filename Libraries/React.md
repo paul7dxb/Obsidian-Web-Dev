@@ -65,3 +65,27 @@ function Square(props){
 }
 ```
 
+# Chil Unique Elements
+
+https://reactjs.org/tutorial/tutorial.html#picking-a-key
+
+Keys tell React about the identity of each component which allows React to maintain state between re-renders. If a component’s key changes, the component will be destroyed and re-created with a new state.
+
+Keys do not need to be globally unique; they only need to be unique between components and their siblings.
+
+
+```js
+    const moves = history.map((step, move) => {
+      const desc = move ?
+        'Go to move #' + move :
+        'Go to game start';
+      return (
+        <li key={move}>
+          <button onClick={() => this.jumpTo(move)}>{desc}</button>
+        </li>
+      );
+    });
+```
+
+
+
