@@ -1,3 +1,6 @@
+Sandbox React app at
+https://codesandbox.io/s/react-new
+
 JavaScript library for building user interfaces.
 
 isolated pieces of code called “components”.
@@ -65,7 +68,7 @@ function Square(props){
 }
 ```
 
-# Chil Unique Elements
+# Child Unique Elements
 
 https://reactjs.org/tutorial/tutorial.html#picking-a-key
 

@@ -11,8 +11,6 @@
 
 - Angular JS - one page web  
 
-- react - responsive UI  
-
 - Node.js - framework
 
 - A noSQL database

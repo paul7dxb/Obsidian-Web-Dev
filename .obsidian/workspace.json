@@ -8,71 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c045c1d227cf2a03",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "675e2ce48c493fd2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "490c10002c9b0179",
+            "id": "0f31003a85b28f1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/CSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e033aa1b5a9b7d8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/CSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ccf1e38891e7bc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/Transitions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c64ef93baca5b83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/Transitions.md",
+                "file": "Libraries/React.js/2 - React App.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/Transitions.md",
+                "file": "Libraries/React.js/2 - React App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/Transitions.md",
+                "file": "Libraries/React.js/2 - React App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/Transitions.md"
+                "file": "Libraries/React.js/2 - React App.md"
               }
             }
           }
@@ -199,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c64ef93baca5b83",
+  "active": "0f31003a85b28f1e",
   "lastOpenFiles": [
-    "CSS/CSS.md",
-    "Technologies to Look At.md",
-    "CSS/Variable.md",
-    "CSS/Transitions.md",
-    "Deployments/Web Proxy/Nginx.md",
     "Deployments/Linode/Linode Web Server.md",
-    "JS/Classes.md",
-    "Notes.md",
-    "HTML/Semantic Markup.md",
-    "Git.md"
+    "SSH.md",
+    "Libraries/React.js/2 - React App.md",
+    "Libraries/React.js/1 - Creating Components.md",
+    "Technologies to Look At.md",
+    "Libraries/React.js/React Tutorial.md",
+    "Libraries/React.js/Images.md",
+    "Libraries/Bootstrap.md",
+    "CSS/Transitions.md",
+    "CSS/CSS.md"
   ]
 }
