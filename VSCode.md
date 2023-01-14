@@ -18,3 +18,8 @@ __pycache__/
 
 [[https://geo-jobe.com/mapthis/git-good-with-visual-studio-code/|Git branches]]
 Swith back to master and then merge from other branch
+
+# Emmet in JS file
+
+- Select Javascript from status bar at bottom
+- Use react language

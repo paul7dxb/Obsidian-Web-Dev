@@ -21,3 +21,42 @@ console.log(getFee(false));
 console.log(getFee(null));
 // Expected output: "$10.00"
 ```
+
+
+# Destructuring Arrays
+
+Access component variable by key instead of using props.parameter
+
+E.g
+
+```JSX
+root.render(
+  <React.StrictMode>
+    <App library="react"/>
+  </React.StrictMode>
+);
+
+
+function App({library}) {
+  return (
+    <div className="App">
+      <h1>Hello there from {library}</h1>
+    </div>
+  );
+}
+
+export default App;
+
+```
+
+Array Destructuing
+
+- Assign variable name based on the position in an array
+
+```js
+const [firstCity, secondCity, thirdCity] = ["London", "Tokyo", "Berlin"];
+
+console.log(firstCity); //London
+console.log(secondCity); //Tokyo
+console.log(thirdCity); //Berlin
+```

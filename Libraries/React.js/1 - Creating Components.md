@@ -228,7 +228,7 @@ return (
 
 Having to wrap React rendering can lead to large DOM trees (lots of nested divs) before reaching the content.
 Instead you can use
-```js
+```jsx
 function App() {
 return (
   <React.Fragment>
@@ -239,3 +239,5 @@ return (
 );
 }
 ```
+
+

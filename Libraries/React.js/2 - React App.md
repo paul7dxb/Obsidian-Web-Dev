@@ -19,9 +19,17 @@ Check Version:
 node -v
 npm -v
 npx create-react-app react-app
+```
+
+# Starting the server
+``` bash
 cd react-app
 npm start
 
 ```
 
-open on localhost:3000
+opens on localhost:3000
+
+React.Strictmode highlights problems in your code. Only runs in development
+
+Functions are exported
