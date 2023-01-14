@@ -78,3 +78,65 @@ function App() {
   );
 }
 ```
+
+# useRef Hook
+
+Used in Forms
+Reaches out to a UI element and gets its value
+
+```JSX
+import { useRef } from "react";
+
+```
+
+[[4 - Forms]]
+
+# Custom Hook
+
+As forms often have same interaction (initial value -> user sets value -> form handles value on submit), it is useful to create custom hook to deal with these actions
+
+- Is a function
+- start with use
+- expand on a normal hook
+
+```JSX
+
+function useInput(initialValue) {
+  const [value, setValue] = useState(initialValue);
+  return [
+    { value, onChange: (e) => setValue(e.target.value) },
+    () => setValue(initialValue),
+  ];
+}
+
+function App() {
+  const [titleProps, resetTitle] = useInput("");
+  const [colorProps, resetColor] = useInput("#000000");
+
+  const submit = (e) => {
+    e.preventDefault();
+    console.log(`${titleProps.value}, ${colorProps.value}`);
+    //Reset values after change
+    resetTitle();
+    resetColor();
+  };
+
+  return (
+    <div className="App">
+      <form onSubmit={submit}>
+        <input
+          {...titleProps}
+          type="text"
+          placeholder="Color Title..."
+        />
+        <input
+          {...colorProps}
+          type="color"
+        />
+        <button>Add</button>
+      </form>
+    </div>
+  );
+}
+
+```
