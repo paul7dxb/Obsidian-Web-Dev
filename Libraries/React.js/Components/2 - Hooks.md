@@ -68,6 +68,7 @@ This can be helped by using the useReducer hook
 import { useReducer } from "react";
 
 function App() {
+	//useReducer( functionToBeCalled, intitialValue)
   const [checked, setChecked] = useReducer((checked) => !checked, false);
 
   return (
@@ -89,7 +90,7 @@ import { useRef } from "react";
 
 ```
 
-[[4 - Forms]]
+[[3 - Forms]]
 
 # Custom Hook
 

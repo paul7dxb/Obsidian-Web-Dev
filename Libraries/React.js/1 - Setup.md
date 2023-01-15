@@ -33,3 +33,29 @@ opens on localhost:3000
 React.Strictmode highlights problems in your code. Only runs in development
 
 Functions are exported
+
+# React Router
+
+## React Router Installation
+
+```bash
+cd react-app
+
+npm install react-router-dom  
+
+
+
+```
+
+# Updating a package
+```bash
+npm uninstall react-scripts
+
+npm install react-scripts
+```
+
+# Build Application
+
+```bash
+npm run build
+```

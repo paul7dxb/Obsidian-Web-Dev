@@ -1,4 +1,4 @@
-Can be used with [[3 - Hooks#useRef Hook|useRef Hook]]
+Can be used with [[2 - Hooks#useRef Hook|useRef Hook]]
 
 
 
@@ -32,7 +32,7 @@ function App() {
 
 Controlled forms with useState
 
-[[3 - Hooks#useState Hook]]
+[[2 - Hooks#useState Hook]]
 
 Same example with useState:
 ```JSX
@@ -69,7 +69,7 @@ function App() {
 }
 ```
 
-Or use [[3 - Hooks#Custom Hook]]
+Or use [[2 - Hooks#Custom Hook]]
 
 # Predefined forms
 
