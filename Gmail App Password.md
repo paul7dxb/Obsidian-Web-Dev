@@ -1,6 +1,6 @@
 2FA set up
 
-go to google app passowords
+go to google app passwords
 
 Register device
 
