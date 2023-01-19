@@ -60,3 +60,28 @@ console.log(firstCity); //London
 console.log(secondCity); //Tokyo
 console.log(thirdCity); //Berlin
 ```
+
+# Add HTML element to document
+```js
+function myFunction() {  
+  var element = document.getElementById("myDIV");  
+  element.classList.add("mystyle");  
+}
+```
+
+
+# for...in
+
+```js
+const object = { a: 1, b: 2, c: 3 };
+
+for (const property in object) {
+  console.log(`${property}: ${object[property]}`);
+}
+
+// Expected output:
+// "a: 1"
+// "b: 2"
+// "c: 3"
+
+```

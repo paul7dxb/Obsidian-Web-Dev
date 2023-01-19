@@ -98,7 +98,7 @@ Replace YOURUSER and YOURPROJECT using
 ```bash
 sed -i 's/original/new/g' django_project.conf
 
-sudo sed -i 's/YOURUSER/mcpapapps/g' django_project.conf  
+sudo sed -i 's/YOURUSER/username/g' django_project.conf  
 sudo sed -i 's/YOURPROJECT/django_example/g' django_project.conf  
 
 ```
