@@ -3,6 +3,10 @@
 | Command | Description |
 | --- | --- |
 | Ctrl + Shift + arrow | duplicate in direction
+| Ctrl + ' | Open terminal |
+| Ctrl + Shift + f | Prettier reformat |
+
+
 
 
 
@@ -14,3 +18,4 @@
 # Addons
 
 ## Prettier
+- Format document

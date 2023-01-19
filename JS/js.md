@@ -22,8 +22,24 @@ console.log(getFee(null));
 // Expected output: "$10.00"
 ```
 
+# Destructuring
 
-# Destructuring Arrays
+[Udemy Lecture Destructuring](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/8211798#overview)
+
+- Extract array elements or object properties and store them in variables
+- Single elements or properties
+
+```js
+//Array Destructuring
+[a,b] = ["Hello", "Max"]
+console.log(a) // Hello
+
+//Object Destructuring
+{name} = {name: "Max", age: 28}
+console.log(name) //Max
+```
+
+## Destructuring Arrays
 
 Access component variable by key instead of using props.parameter
 
@@ -61,6 +77,7 @@ console.log(secondCity); //Tokyo
 console.log(thirdCity); //Berlin
 ```
 
+
 # Add HTML element to document
 ```js
 function myFunction() {  
@@ -84,4 +101,32 @@ for (const property in object) {
 // "b: 2"
 // "c: 3"
 
+```
+
+
+# Reference & Primitive Types
+
+- Storing a variable in anohter variable copies the value
+- Assigning some values may only copy pointer
+	- Arrays
+	- Objects
+	- Copy in an immutabel way by copying with spread
+		- Deep versus shallow copying (child items may only be references)
+
+```js
+const person = {
+	name: "Max"
+};
+const secondPerson = person;
+person.name = "Manu"
+
+console.log(secondPerson) // Manu due to copied pointer
+```
+
+# JS Date Formatting
+
+```js
+    const month = date.toLocaleString('en-US', {month: 'long'}); //June
+    const day = date.toLocaleString('en-US', {day: '2-digit'}); //12
+    const year = date.getFullYear(); //2022
 ```

@@ -8,31 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "da842f271b75d152",
+            "id": "4a246d2ebb350a03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/js.md",
+                "file": "Libraries/React.js/Udemy Course/Components.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b573dc0d262c68e7",
+            "id": "8c39f3bc3dad7baa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deployments/Web Proxy/Apache.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deployments/Web Proxy/Apache.md",
+                "file": "Libraries/React.js/Udemy Course/Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deployments/Web Proxy/Apache.md",
+                "file": "Libraries/React.js/Udemy Course/Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deployments/Web Proxy/Apache.md"
+                "file": "Libraries/React.js/Udemy Course/Components.md"
               }
             }
           }
@@ -159,17 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b573dc0d262c68e7",
+  "active": "4a246d2ebb350a03",
   "lastOpenFiles": [
-    "Deployments/Web Proxy/Gunicorn.md",
-    "Deployments/Web Proxy/Nginx.md",
-    "Deployments/Web Proxy/WSGI.md",
-    "Deployments/Web Proxy/Apache.md",
-    "Deployments/Netlify/Deploy React Application.md",
-    "Deployments/AWS/S3 Buckets.md",
-    "Deployments/Heroku/Heroku Web Server.md",
-    "Deployments/Linode/Misc.md",
-    "Deployments/Linode/Linode Web Server.md",
-    "SSH.md"
+    "JS/Next Gen Features.md",
+    "Libraries/React.js/Udemy Course/Components.md",
+    "Libraries/React.js/LinkedIn Learning/1 - Creating Components.md",
+    "JS/JS.md",
+    "Libraries/React.js/Resources/React Tutorial.md",
+    "Libraries/React.js/1 - React.js.md",
+    "Libraries/React.js/Testing.md",
+    "JS/Array Functions.md",
+    "VSCode.md",
+    "Libraries/React.js/2 - Setup.md"
   ]
 }

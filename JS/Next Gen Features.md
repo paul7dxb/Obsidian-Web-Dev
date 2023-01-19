@@ -151,6 +151,7 @@ const newObject = [...oldObject, newProp: 5] //newProp can be used to overwrite 
 
 ## Rest
 
+- Used in a function
 - Used to merge a list of funtion arguments into an array
 
 ```js
@@ -158,3 +159,4 @@ function sortArgs(...args){
 	return args.sort()
 }
 ```
+
