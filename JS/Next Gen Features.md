@@ -65,3 +65,80 @@ import { clean as clen } from './utility.js'
 // Bundle in to one JS object
 import * as bundled from './utility.js'
 ```
+
+# Classes
+
+# Construction
+
+## Old Construction
+
+```js
+class Human {
+	constructor(){
+		this.gender = 'Male'
+	}
+
+	printGender(){
+		console.log(this.gender)
+	}
+}
+
+class Person extends Human {
+	constructor(){
+		super(); // Executes parent constructor
+		this.name = 'Max';
+	}
+	
+	printName(){
+		console.log(this.name)
+	}
+}
+
+const person = new Person();
+person.printName(); //Max
+person.printGender(); //Male
+```
+
+## New Generation Construction
+
+- Requires babel
+- Assign value
+- Arrow functions
+	- Controls access
+
+```js
+class Human {
+	gender = 'Male';
+	printGender = () => {
+		console.log(this.gender)
+	}
+}
+
+class Person extends Human {
+	name = 'Max';
+	
+	printName = () => {
+		console.log(this.name)
+	}
+}
+
+const person = new Person();
+person.printName(); //Max
+person.printGender(); //Male
+```
+
+## Inheritence
+
+```js
+class Person extends Master
+```
+
+# Spread & Rest Operators
+
+## Spread
+	- Split up array elements or object properties
+
+
+
+## Rest
+	- 

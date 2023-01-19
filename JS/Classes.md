@@ -1,3 +1,7 @@
+# Creating Classes
+
+Use the [[Next Gen Features#New Generation Construction|New Generation Class Construction]] (requires Babel)
+
 # Add Class
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
@@ -19,5 +23,4 @@ const Rectangle = class {
   }
 };
 ```
-
 
