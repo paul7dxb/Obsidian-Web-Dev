@@ -1,4 +1,4 @@
-# let / Const
+# let / const
 
 - let is the new var
 - const for constant value
@@ -135,10 +135,26 @@ class Person extends Master
 
 # Spread & Rest Operators
 
-## Spread
-	- Split up array elements or object properties
+[Udemy Lecture Spread & Rest](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/8211796#overview)
 
+- Safely copy objects
+- 
+## Spread
+
+- Split up array elements or object properties
+
+```js
+const newArray = [...oldArray, 1, 2]
+const newObject = [...oldObject, newProp: 5] //newProp can be used to overwrite old value
+```
 
 
 ## Rest
-	- 
+
+- Used to merge a list of funtion arguments into an array
+
+```js
+function sortArgs(...args){
+	return args.sort()
+}
+```

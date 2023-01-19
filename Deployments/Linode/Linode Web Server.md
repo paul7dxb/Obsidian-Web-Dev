@@ -11,13 +11,13 @@
 # Add limited User
 
 ```bash
-adduser mcpapapps
+adduser username
 ```
 
 ## Add sudo to user
 
 ```bash
-adduser mcpapapps sudo
+adduser username sudo
 ```
 
 ## Update Server
@@ -52,7 +52,7 @@ Add in IP
 ## log back in as limited user
 
 ```bash
-ssh mcpapapps@139.162.193.12
+ssh username@139.162.193.12
 ```
 
 # SSH key Setup
@@ -99,7 +99,7 @@ cd /mnt/d
 
 # Move venv out of project fodler if neccessary
 
-scp -r django_example/ mcpapapps@139.162.193.12:~/
+scp -r django_example/ username@139.162.193.12:~/
 ```
 
 # Run Server

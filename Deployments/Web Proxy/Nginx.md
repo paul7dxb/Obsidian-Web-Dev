@@ -57,7 +57,7 @@ sudo pip install uwsgi
 1.  Be sure that you’re in the `django` user’s home directory and create the virtual environment for the application:
     
     ```
-    cd /home/mcpapapps && mkvirtualenv sample
+    cd /home/username && mkvirtualenv sample
     ```
     
     After executing this command your prompt will change to something like `(sample)django@example.com:~$` indicating that you are using the sample virtual environment. To quit the virtual environment, enter `deactivate`.

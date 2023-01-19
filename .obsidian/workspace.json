@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Next Gen Features.md",
+                "file": "Deployments/Web Proxy/Apache.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Next Gen Features.md",
+                "file": "Deployments/Web Proxy/Apache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Next Gen Features.md",
+                "file": "Deployments/Web Proxy/Apache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/Next Gen Features.md"
+                "file": "Deployments/Web Proxy/Apache.md"
               }
             }
           }
@@ -161,15 +161,15 @@
   },
   "active": "b573dc0d262c68e7",
   "lastOpenFiles": [
-    "JS/Classes.md",
-    "JS/Next Gen Features.md",
-    "Technologies to Look At.md",
-    "JS/js.md",
-    "VSCode.md",
-    "Git.md",
-    "SSH.md",
-    "Notes.md",
-    "Gmail App Password.md",
-    "Python/Environment Variables.md"
+    "Deployments/Web Proxy/Gunicorn.md",
+    "Deployments/Web Proxy/Nginx.md",
+    "Deployments/Web Proxy/WSGI.md",
+    "Deployments/Web Proxy/Apache.md",
+    "Deployments/Netlify/Deploy React Application.md",
+    "Deployments/AWS/S3 Buckets.md",
+    "Deployments/Heroku/Heroku Web Server.md",
+    "Deployments/Linode/Misc.md",
+    "Deployments/Linode/Linode Web Server.md",
+    "SSH.md"
   ]
 }

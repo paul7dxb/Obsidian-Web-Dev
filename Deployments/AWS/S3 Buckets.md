@@ -53,7 +53,7 @@ https://us-east-1.console.aws.amazon.com/iamv2/home?region=us-east-1#/users
 ```
 expot AWS_ACCESS_KEY_ID="AKIA6NCS8JHDES4OMPX7"
 export AWS_SECRET_ACCESS_KEY="+qMf7KK13JQJ7dBf8eSdeFV030joNAcop/lep5"
-export AWS_STORAGE_BUCKET_NAME="django-blog-files-mcpapapps"
+export AWS_STORAGE_BUCKET_NAME="django-blog-files-username"
 ```
 
 

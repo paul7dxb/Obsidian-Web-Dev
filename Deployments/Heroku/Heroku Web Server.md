@@ -19,12 +19,12 @@ pip freeze > requirements.txt
 # Create Heroku app
 
 ```cmd
-create djangoherokumcpapapps
+create djangoherokuusername
 heroku open
 ```
 
 ```
-https://djangoherokumcpapapps.herokuapp.com/ | https://git.heroku.com/djangoherokumcpapapps.git
+https://djangoherokuusername.herokuapp.com/ | https://git.heroku.com/djangoherokuusername.git
 ```
 
 # Set Static Route
@@ -53,7 +53,7 @@ git push heroku master
 ## Setting Remote Heroku App
 
 ```
-heroku git:remote -a djangoherokumcpapapps
+heroku git:remote -a djangoherokuusername
 ```
 
 # View error logs
@@ -73,7 +73,7 @@ web: gunicorn django_example.wsgi
 # DisallowedHost at /
 
 ```
-ALLOWED_HOSTS = ['djangoherokumcpapapps.herokuapp.com']
+ALLOWED_HOSTS = ['djangoherokuusername.herokuapp.com']
 ```
 
 # Make secret key
@@ -87,7 +87,7 @@ heroku config:set DEBUG_VALUE="True"
 
 heroku config:set AWS_ACCESS_KEY_ID="AKIAAKJKJHASDJKHASDWFD"
 heroku config:set AWS_SECRET_ACCESS_KEY="f5R/34kjhg2jhvga8das8gf7sdfVx9Uj"
-heroku config:set AWS_STORAGE_BUCKET_NAME="django-blog-files-mcpapapps"
+heroku config:set AWS_STORAGE_BUCKET_NAME="django-blog-files-username"
 
 heroku config:set EMAIL_PASS="hebdcghjdjaosmnfgjhd"
 heroku config:set EMAIL_USER="email@gmail.com"
