@@ -1,6 +1,20 @@
+
+# Deployments
 - Used to push code to [[Heroku Web Server]]
 
-# Merging back to main
+# gitignore
+
+Ignore folders. Add to gitignore ending /
+
+Ignore all __pycache__ folders
+```
+__pycache__/
+```
+
+# Branches
+
+[[https://geo-jobe.com/mapthis/git-good-with-visual-studio-code/|Git branches]]
+Swith back to master and then merge from other branch
 
 
 # Restoring

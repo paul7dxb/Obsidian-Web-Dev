@@ -1,7 +1,5 @@
 # Topics
 
-- Arrow functions
-
 - Unit testing
 	- https://www.youtube.com/watch?v=6tNS--WetLI
 
@@ -18,10 +16,11 @@
 ## JS Animation
 
 - GSAP
-	- 
 	- https://greensock.com/gsap/
 	- Example
 		- https://codepen.io/GreenSock/pen/XWzRraJ
+
+# Testing
 
 - Continuouise integration/delivery: repositories to check in code where tests can be run
 	- Automated with Jenkins / Travis ci
