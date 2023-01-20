@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0096c0ea6e474267",
+        "id": "cf8359c80e98882e",
         "type": "tabs",
         "children": [
           {
-            "id": "4a246d2ebb350a03",
+            "id": "b47fe3930bb3094a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libraries/React.js/Udemy Course/Components.md",
+                "file": "Libraries/React.js/Udemy Course/2 - States.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "8c39f3bc3dad7baa",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libraries/React.js/Udemy Course/Components.md",
+                "file": "Libraries/React.js/Udemy Course/2 - States.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Libraries/React.js/Udemy Course/Components.md",
+                "file": "Libraries/React.js/Udemy Course/2 - States.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Libraries/React.js/Udemy Course/Components.md"
+                "file": "Libraries/React.js/Udemy Course/2 - States.md"
               }
             }
           }
@@ -154,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a246d2ebb350a03",
+  "active": "b47fe3930bb3094a",
   "lastOpenFiles": [
-    "JS/Next Gen Features.md",
-    "Libraries/React.js/Udemy Course/Components.md",
-    "Libraries/React.js/LinkedIn Learning/1 - Creating Components.md",
-    "JS/JS.md",
-    "Libraries/React.js/Resources/React Tutorial.md",
-    "Libraries/React.js/1 - React.js.md",
+    "Libraries/React.js/Listeners.md",
+    "HTML/Semantic Markup.md",
+    "Libraries/React.js/Udemy Course/2 - States.md",
+    "Libraries/React.js/Udemy Course/1 - Components.md",
+    "Git.md",
+    "Libraries/Bootstrap.md",
     "Libraries/React.js/Testing.md",
-    "JS/Array Functions.md",
-    "VSCode.md",
-    "Libraries/React.js/2 - Setup.md"
+    "JS/Classes.md",
+    "JS/JS.md",
+    "Libraries/React.js/Images.md"
   ]
 }

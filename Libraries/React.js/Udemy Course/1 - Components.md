@@ -1,5 +1,3 @@
-[Course Git Notes and Code](https://github.com/academind/react-complete-guide-code/tree/03-react-basics-working-with-components)
-
 # Components
 
 - Capital letters like in a class name
@@ -144,3 +142,8 @@ function Card(props){
 	...
 }
 ```
+
+# Resources
+
+- [[1 - Creating Components|Linked In Learning Components]]
+- [Udemy Course Git Notes and Code](https://github.com/academind/react-complete-guide-code/tree/03-react-basics-working-with-components)

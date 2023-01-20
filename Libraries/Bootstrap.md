@@ -5,7 +5,7 @@
 ## Text
 | Class | Description |
 |---|---|
-| text-muted | Text that doesn't stand out (already have an account?)
+| text-muted | Text that doesn't stand out (e.g "already have an account?")
 
 
 ## Dimensions
