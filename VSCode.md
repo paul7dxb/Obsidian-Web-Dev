@@ -5,6 +5,8 @@
 | Ctrl + Shift + arrow | duplicate in direction
 | Ctrl + ' | Open terminal |
 | Ctrl + Shift + f | Prettier reformat |
+| Ctrl + / | Comment toggle selection |
+
 
 
 

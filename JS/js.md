@@ -199,3 +199,12 @@ const expenseData = {
 
 - + vs parseInt() [discussion on SO](https://stackoverflow.com/questions/17106681/parseint-vs-unary-plus-when-to-use-which/17106701#17106701)
 
+# Template Literal
+
+- Created with backtick \`
+- Constructs a string
+- Allows javascript expression to be inserted with `${}`
+
+```jsx
+<div className={`form-control ${!isValid ? 'invalid' : ''}`}>
+```
