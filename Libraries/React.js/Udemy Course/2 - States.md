@@ -195,3 +195,25 @@ const ExpenseForm = (props) => {
     </form>
   );
 ```
+
+# Lifting the State Up
+
+- Passing data between siblings
+- Used via the closest shared parent component
+- Use [[#Pass data from Child to Parent (Bottom-Up)|Bottom-UP]] to get data to parent and then pass down through props to required component
+
+# Managing States
+
+## Controlled Components
+
+- When a parent controls a child component and child passes data back
+	- aka statefull component
+- Uses two way binding [[2 - States#Two Way Binding]]
+- Stateless component
+	- Only output
+	- aka dumb component
+	- aka presentation component
+
+# Resources
+
+- [Module Git code and slides](https://github.com/academind/react-complete-guide-code/tree/04-react-state-events)

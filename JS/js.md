@@ -22,6 +22,14 @@ console.log(getFee(null));
 // Expected output: "$10.00"
 ```
 
+# JS && "Trick"
+
+- You can use the && in a statement to return the second value when the first condition is met
+
+```JS
+filteredExpenses.length === 0 && <p> No expenses found! </p>
+```
+
 # Destructuring
 
 [Udemy Lecture Destructuring](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/8211798#overview)
@@ -130,3 +138,64 @@ console.log(secondPerson) // Manu due to copied pointer
     const day = date.toLocaleString('en-US', {day: '2-digit'}); //12
     const year = date.getFullYear(); //2022
 ```
+
+# Array Methods
+
+## Map()
+
+[MDN docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+
+- Creates a new array based on another array
+- Tranforms each element on the original array using a function
+- Function is the argument to the map method
+
+```JS
+
+```
+
+## Filter()
+
+- Create a shallow copy of a portion of a given array
+
+Matching year example:
+```JS
+  const filteredArray = fullArray.filter((expense) => {
+    return expense.date.getFullYear().toString() === filteredYear;
+  });
+```
+
+
+## Math.max() for an Array
+
+- Math.max() expects individual values as the arguments
+- For an array use the [[Next Gen Features#Spread| spread operator]] to get the max value in an array
+
+For an array of objects
+```JS
+//Map array object to get an array on wanted values
+const dataPointValues = props.dataPoints.map(dataPoint => dataPoint.value)
+//Spread the array into the Math.max() function
+const totalMaximum = Math.max(...dataPointValues);
+```
+
+
+# Enforce a number conversion
+
+If a value is being stored as a string
+
+```js
+onst expenseData = {
+  amount: enteredAmount,
+};
+```
+
+Use `+` to ensure it is stored as a number:
+
+```JS
+const expenseData = {
+  amount: +enteredAmount,
+};
+```
+
+- + vs parseInt() [discussion on SO](https://stackoverflow.com/questions/17106681/parseint-vs-unary-plus-when-to-use-which/17106701#17106701)
+
