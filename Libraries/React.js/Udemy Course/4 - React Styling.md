@@ -312,3 +312,17 @@ const FormControl = styled.div`
 	<input type="text" onChange={goalInputChangeHandler} />
   </FormControl>
 ```
+
+## CSS Modules
+
+- See [[CSS Modules]]
+
+## Dynamic Classes with CSS modules
+
+- Use backtick syntax: [[JS#Template Literal|template literal]]
+- Use & JS trick for conditional return: [[JS#JS && "Trick"|&& conditional trick]]
+
+Example add invalid style is input is not valid
+```JSX
+<div className={`${styles['form-control']} ${!isValid && styles.invalid}`}>
+```

@@ -49,6 +49,16 @@ console.log(name) //Max
 
 ## Destructuring Arrays
 
+- Assign variable name based on the position in an array
+
+```js
+const [firstCity, secondCity, thirdCity] = ["London", "Tokyo", "Berlin"];
+
+console.log(firstCity); //London
+console.log(secondCity); //Tokyo
+console.log(thirdCity); //Berlin
+```
+
 Access component variable by key instead of using props.parameter
 
 E.g
@@ -71,18 +81,6 @@ function App({library}) {
 
 export default App;
 
-```
-
-Array Destructuing
-
-- Assign variable name based on the position in an array
-
-```js
-const [firstCity, secondCity, thirdCity] = ["London", "Tokyo", "Berlin"];
-
-console.log(firstCity); //London
-console.log(secondCity); //Tokyo
-console.log(thirdCity); //Berlin
 ```
 
 

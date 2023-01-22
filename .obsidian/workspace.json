@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83366b1a552c45fc",
+            "id": "b52e8c1742fa2025",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/JS.md",
+                "file": "CSS/Responsive.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b52e8c1742fa2025",
+            "id": "194c839ba1373ae4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libraries/React.js/Udemy Course/4 - React Styling.md",
+                "file": "CSS/Responsive.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libraries/React.js/Udemy Course/4 - React Styling.md",
+                "file": "CSS/Responsive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Libraries/React.js/Udemy Course/4 - React Styling.md",
+                "file": "CSS/Responsive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Libraries/React.js/Udemy Course/4 - React Styling.md"
+                "file": "CSS/Responsive.md"
               }
             }
           }
@@ -159,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b52e8c1742fa2025",
+  "active": "194c839ba1373ae4",
   "lastOpenFiles": [
-    "JS/JS.md",
     "Libraries/React.js/Udemy Course/4 - React Styling.md",
-    "VSCode.md",
-    "JS/User Inputs.md",
-    "Git.md",
-    "Libraries/React.js/Udemy Course/2 - States.md",
-    "Libraries/React.js/Udemy Course/3 - Lists & Conditional Content.md",
-    "JS/JSX.md",
-    "JS/Next Gen Features.md",
-    "Libraries/React.js/2 - Setup.md"
+    "JS/JS.md",
+    "CSS/CSS Modules.md",
+    "Deployments/Web Proxy/Nginx.md",
+    "Deployments/Web Proxy/WSGI.md",
+    "Deployments/Web Proxy/Gunicorn.md",
+    "Deployments/Web Proxy/Apache.md",
+    "SSH.md",
+    "Notes.md",
+    "Gmail App Password.md"
   ]
 }
