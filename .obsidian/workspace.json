@@ -13,26 +13,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/Responsive.md",
+                "file": "Libraries/React.js/Udemy Course/3 - Lists & Conditional Content.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "194c839ba1373ae4",
+            "id": "66892293024c436b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/Responsive.md",
+                "file": "Libraries/React.js/Custom Components/Card.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "51fadc9223353a1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Libraries/React.js/Custom Components/ErrorModal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b082095f219025b6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/Responsive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/Responsive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CSS/Responsive.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,17 +175,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "194c839ba1373ae4",
+  "active": "b082095f219025b6",
   "lastOpenFiles": [
+    "Libraries/React.js/Custom Components/Card.md",
+    "Libraries/React.js/Custom Components/ErrorModal.md",
+    "Libraries/React.js/Custom Components/CustomButton.md",
     "Libraries/React.js/Udemy Course/4 - React Styling.md",
-    "JS/JS.md",
-    "CSS/CSS Modules.md",
-    "Deployments/Web Proxy/Nginx.md",
-    "Deployments/Web Proxy/WSGI.md",
-    "Deployments/Web Proxy/Gunicorn.md",
-    "Deployments/Web Proxy/Apache.md",
-    "SSH.md",
-    "Notes.md",
-    "Gmail App Password.md"
+    "Libraries/React.js/Udemy Course/3 - Lists & Conditional Content.md",
+    "CSS/CSS.md",
+    "Libraries/React.js/Udemy Course/1 - Components.md",
+    "Libraries/React.js/Udemy Course/2 - States.md",
+    "CSS/Responsive.md",
+    "JS/JS.md"
   ]
 }

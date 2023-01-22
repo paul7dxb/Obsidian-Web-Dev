@@ -101,16 +101,6 @@ export default ExpenseItem;
 - Content between opening and closing tags of component
 - Add classNames to custom component by reaching into props
 
-ExpenseItem.js
-```JSX
-import Card from './Card';
-
-function ExpenseItem(props) {
-
-  return (
-    <Card className='expense-item'>
-```
-
 Card.js
 ```jsx
 import './Card.css'
@@ -123,6 +113,16 @@ function Card(props){
 }
 
 export default Card;
+```
+
+ExpenseItem.js
+```JSX
+import Card from './Card';
+
+function ExpenseItem(props) {
+
+  return (
+    <Card className='expense-item'>
 ```
 
 # Arrow Function
