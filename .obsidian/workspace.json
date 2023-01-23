@@ -8,51 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b52e8c1742fa2025",
+            "id": "c177f4af1afd214e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libraries/React.js/Udemy Course/3 - Lists & Conditional Content.md",
+                "file": "Libraries/React.js/Udemy Course/Fragment.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "66892293024c436b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Libraries/React.js/Custom Components/Card.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51fadc9223353a1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Libraries/React.js/Custom Components/ErrorModal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b082095f219025b6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tern",
+                "query": "reactdom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Libraries/React.js/Udemy Course/Fragment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Libraries/React.js/Udemy Course/Fragment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Libraries/React.js/Udemy Course/Fragment.md"
+              }
             }
           }
         ]
@@ -175,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b082095f219025b6",
+  "active": "c177f4af1afd214e",
   "lastOpenFiles": [
-    "Libraries/React.js/Custom Components/Card.md",
-    "Libraries/React.js/Custom Components/ErrorModal.md",
-    "Libraries/React.js/Custom Components/CustomButton.md",
-    "Libraries/React.js/Udemy Course/4 - React Styling.md",
-    "Libraries/React.js/Udemy Course/3 - Lists & Conditional Content.md",
-    "CSS/CSS.md",
+    "Deployments/Web Proxy/Nginx.md",
+    "Libraries/React.js/Udemy Course/Fragment.md",
+    "Libraries/React.js/LinkedIn Learning/7 - React Router.md",
+    "Libraries/React.js/LinkedIn Learning/1 - Creating Components.md",
+    "Libraries/React.js/LinkedIn Learning/2 - Hooks.md",
+    "Libraries/React.js/Resources/React Tutorial.md",
     "Libraries/React.js/Udemy Course/1 - Components.md",
-    "Libraries/React.js/Udemy Course/2 - States.md",
-    "CSS/Responsive.md",
-    "JS/JS.md"
+    "Libraries/React.js/Custom Components/Wrapper.md",
+    "Libraries/React.js/Udemy Course/4 - React Styling.md",
+    "CSS/CSS.md"
   ]
 }
