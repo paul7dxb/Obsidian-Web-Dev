@@ -138,3 +138,64 @@ const ErrorModal = (props) => {
 };
 ```
 
+# Refs
+
+- For reading values without wanting to change anything refs are better than [[2 - States#useState|useState]] as they are lighter weight and less code
+- Access DOM elements and work with them
+- Managing data instead of using useState()
+
+- First time React gets to the DOM element it will set the value to the current DOM element
+
+```JSX
+import React, { useRef } from "react";
+
+const NewUser = (props) => {
+  const nameInputRef = useRef();
+  const ageInputRef = useRef();
+
+  const addUserHandler = (event) => {
+    event.preventDefault();
+    const enteredUsername = nameInputRef.current.value;
+    const enteredAge = ageInputRef.current.value;
+
+    props.onAddUser({
+      id: Math.random().toString(),
+      username: enteredUsername,
+      age: enteredAge,
+    });
+
+    nameInputRef.current.value = "";
+    ageInputRef.current.value = "";
+  };
+  
+  return (
+  <Card className="input">
+	<form onSubmit={addUserHandler}>
+	  <label>Username</label>
+	  <input ref={nameInputRef} type="text" placeholder="username" />
+	  <label>Age (in years)</label>
+	  <input ref={ageInputRef} type="text" placeholder="Age" />
+	  <Button type="submit">Add User</Button>
+	</form>
+  </Card>
+  );
+};
+```
+
+- The useRef() will be an onject with the current prop which will hold the DOM node. NOT A REFERENCE.
+- This means that you can directly manipulate the DOM although it is not recommended to do it outside.
+- Access values with variableName.current.value
+
+- If you need to manipulate the DOM (resetting input value)
+
+
+# Uncontrolled Components
+
+**Uncontrolled**
+- Internal state not controlled by React
+	- E.g setting value using a useRef()
+
+Controlled
+- Internal state controlled by React
+	- E.g using useState to track keystrokes and update the value of the input field
+	- All managed by react without accessing DOM elements and setting directly

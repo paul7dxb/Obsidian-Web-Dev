@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libraries/React.js/Udemy Course/Fragment.md",
+                "file": "Libraries/React.js/Udemy Course/5 - Fragment, Portal, Refs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8def92d13795b625",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Libraries/React.js/Udemy Course/6 - Effects, Reducers & Context.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libraries/React.js/Udemy Course/Fragment.md",
+                "file": "Libraries/React.js/Udemy Course/6 - Effects, Reducers & Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Libraries/React.js/Udemy Course/Fragment.md",
+                "file": "Libraries/React.js/Udemy Course/6 - Effects, Reducers & Context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Libraries/React.js/Udemy Course/Fragment.md"
+                "file": "Libraries/React.js/Udemy Course/6 - Effects, Reducers & Context.md"
               }
             }
           }
@@ -146,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c177f4af1afd214e",
+  "active": "8def92d13795b625",
   "lastOpenFiles": [
+    "Libraries/React.js/Udemy Course/5 - Fragment, Portal, Refs.md",
+    "Libraries/React.js/Udemy Course/2 - States.md",
     "Deployments/Web Proxy/Nginx.md",
-    "Libraries/React.js/Udemy Course/Fragment.md",
     "Libraries/React.js/LinkedIn Learning/7 - React Router.md",
     "Libraries/React.js/LinkedIn Learning/1 - Creating Components.md",
     "Libraries/React.js/LinkedIn Learning/2 - Hooks.md",
     "Libraries/React.js/Resources/React Tutorial.md",
     "Libraries/React.js/Udemy Course/1 - Components.md",
     "Libraries/React.js/Custom Components/Wrapper.md",
-    "Libraries/React.js/Udemy Course/4 - React Styling.md",
-    "CSS/CSS.md"
+    "Libraries/React.js/Udemy Course/4 - React Styling.md"
   ]
 }
