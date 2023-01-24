@@ -83,6 +83,13 @@ export default App;
 
 ```
 
+## Destructuring Objects
+
+-  Get an element from an object and give is an alias name
+
+```js
+const {isValid: emailIsValid } = objectWithIsValidProperty
+```
 
 # Add HTML element to document
 ```js
@@ -206,3 +213,10 @@ const expenseData = {
 ```jsx
 <div className={`form-control ${!isValid ? 'invalid' : ''}`}>
 ```
+
+# Debouncing
+
+- Use a timer to limit the rate a funciton is called
+	- E.g on user input check after they stop typing for a small amount of time instead of firing on every key entry
+	- Clear other timers when starting a new one
+	- Example see [[7 - useEffect()#Debouncing|debouncing useEffect()]]

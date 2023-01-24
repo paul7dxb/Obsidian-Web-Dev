@@ -1,6 +1,7 @@
+# Fragment
 
 - Renders empty [[Wrapper|Wrapper Component]]
-
+- Reduces unnecessary divs (div soup)
 
 ```JSX
 import React from "react";
