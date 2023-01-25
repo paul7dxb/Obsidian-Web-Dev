@@ -13,26 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libraries/React.js/Udemy Course/8 - useReducer().md",
+                "file": "Libraries/React.js/Udemy Course/9 - React Context.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "70f575eb8682feeb",
+            "id": "0093a7df3dfa39e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libraries/React.js/Udemy Course/9 - React Context.md",
+                "file": "Libraries/React.js/Udemy Course/10 - Hooks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7e8449c1b983610",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Libraries/React.js/Udemy Course/5 - Fragment, Portal, Refs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reactdom",
+                "query": "useref",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libraries/React.js/Udemy Course/9 - React Context.md",
+                "file": "Libraries/React.js/Udemy Course/5 - Fragment, Portal, Refs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Libraries/React.js/Udemy Course/9 - React Context.md",
+                "file": "Libraries/React.js/Udemy Course/5 - Fragment, Portal, Refs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Libraries/React.js/Udemy Course/9 - React Context.md"
+                "file": "Libraries/React.js/Udemy Course/5 - Fragment, Portal, Refs.md"
               }
             }
           }
@@ -159,17 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70f575eb8682feeb",
+  "active": "a7e8449c1b983610",
   "lastOpenFiles": [
-    "Libraries/React.js/Udemy Course/8 - useReducer().md",
-    "Libraries/React.js/Udemy Course/6 - Effects, Reducers & Context.md",
-    "JS/JS.md",
     "Libraries/React.js/Udemy Course/7 - useEffect().md",
-    "Z - Images/Pasted image 20230104205959.png",
-    "Z - Images/Pasted image 20230122083415.png",
-    "Z - Images/Image_React_useReducer.png",
+    "Libraries/React.js/Udemy Course/6 - Effects, Reducers & Context.md",
+    "Libraries/React.js/Udemy Course/10 - Hooks.md",
     "Libraries/React.js/Udemy Course/5 - Fragment, Portal, Refs.md",
-    "Libraries/React.js/Udemy Course/2 - States.md",
-    "Deployments/Web Proxy/Nginx.md"
+    "Libraries/React.js/Udemy Course/11 - useRef().md",
+    "Libraries/React.js/Udemy Course/9 - React Context.md",
+    "VSCode.md",
+    "Libraries/React.js/Udemy Course/8 - useReducer().md",
+    "JS/JS.md",
+    "Z - Images/Pasted image 20230104205959.png"
   ]
 }

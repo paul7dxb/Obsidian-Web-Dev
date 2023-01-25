@@ -189,6 +189,41 @@ const NewUser = (props) => {
 
 - If you need to manipulate the DOM (resetting input value)
 
+## Focus on Element using useRef()
+
+Parnet
+```JSX
+const emailInputRef = useRef();
+emailInputRef.current.focus();
+
+...
+
+<Input
+  ref={emailInputRef}
+```
+
+Make focus available to parent from child using useImperativeHandle
+
+Child
+```JSX
+import React, { useRef, useImperativeHandle } from 'react';
+
+const Input = React.forwardRef((props, ref) => {
+  const inputRef = useRef();
+
+  const activate = () => {
+    inputRef.current.focus();
+  };
+
+  useImperativeHandle(ref, () => {
+    return {
+      focus: activate,
+    };
+  });
+```
+
+- ref is the ref from the parent  allow binding
+- forwardRef allows React to link to a ref
 
 # Uncontrolled Components
 
