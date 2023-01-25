@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b52e8c1742fa2025",
+            "id": "8def92d13795b625",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "66892293024c436b",
+            "id": "0093a7df3dfa39e0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -24,23 +24,15 @@
             }
           },
           {
-            "id": "51fadc9223353a1c",
+            "id": "a7e8449c1b983610",
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b082095f219025b6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tern",
+                "query": "useref",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,17 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b082095f219025b6",
+  "active": "a7e8449c1b983610",
   "lastOpenFiles": [
-    "Libraries/React.js/Custom Components/Card.md",
-    "Libraries/React.js/Custom Components/ErrorModal.md",
-    "Libraries/React.js/Custom Components/CustomButton.md",
-    "Libraries/React.js/Udemy Course/4 - React Styling.md",
-    "Libraries/React.js/Udemy Course/3 - Lists & Conditional Content.md",
-    "CSS/CSS.md",
-    "Libraries/React.js/Udemy Course/1 - Components.md",
-    "Libraries/React.js/Udemy Course/2 - States.md",
-    "CSS/Responsive.md",
-    "JS/JS.md"
+    "Libraries/React.js/Udemy Course/5 - Fragment, Portal, Refs.md",
+    "Libraries/React.js/Udemy Course/7 - useEffect().md",
+    "Libraries/React.js/Udemy Course/6 - Effects, Reducers & Context.md",
+    "Libraries/React.js/Udemy Course/10 - Hooks.md",
+    "Libraries/React.js/Udemy Course/11 - useRef().md",
+    "Libraries/React.js/Udemy Course/9 - React Context.md",
+    "VSCode.md",
+    "Libraries/React.js/Udemy Course/8 - useReducer().md",
+    "JS/JS.md",
+    "Z - Images/Pasted image 20230104205959.png"
   ]
 }
