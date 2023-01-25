@@ -1,4 +1,7 @@
 Take an app from prototype to production
+- Optimises code
+
+https://github.com/facebook/create-react-app
 
 Includes:
 - react
@@ -21,7 +24,7 @@ npm -v
 npx create-react-app react-app
 ```
 
-# Starting the server
+# Starting the development server
 ``` bash
 cd react-app
 npm start

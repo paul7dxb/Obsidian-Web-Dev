@@ -85,8 +85,8 @@ ALLOWED_HOSTS = ['djangoherokuusername.herokuapp.com']
 ```
 heroku config:set DEBUG_VALUE="True"
 
-heroku config:set AWS_ACCESS_KEY_ID="AKIAAKJKJHASDJKHASDWFD"
-heroku config:set AWS_SECRET_ACCESS_KEY="f5R/34kjhg2jhvga8das8gf7sdfVx9Uj"
+heroku config:set AWS_ACCESS_KEY_ID="AKIAAKJKsomeidDJKHASDWFD"
+heroku config:set AWS_SECRET_ACCESS_KEY="f5R/34kjhg2somekeya8das8gf7sdfVx9Uj"
 heroku config:set AWS_STORAGE_BUCKET_NAME="django-blog-files-username"
 
 heroku config:set EMAIL_PASS="hebdcghjdjaosmnfgjhd"

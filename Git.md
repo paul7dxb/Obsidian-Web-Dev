@@ -12,10 +12,9 @@ __pycache__/
 ```
 
 # Branches
+[Git Branches](https://geo-jobe.com/mapthis/git-good-with-visual-studio-code/)
 
-[[https://geo-jobe.com/mapthis/git-good-with-visual-studio-code/|Git branches]]
 Swith back to master and then merge from other branch
-
 
 # Restoring
 

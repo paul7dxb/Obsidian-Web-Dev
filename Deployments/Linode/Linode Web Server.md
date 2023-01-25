@@ -44,7 +44,7 @@ nano /etc/hosts
 Add in IP
 
 ```
-139.162.193.12 django-server
+156.142.163.12 django-server
 ```
 
 
@@ -52,7 +52,7 @@ Add in IP
 ## log back in as limited user
 
 ```bash
-ssh username@139.162.193.12
+ssh username@156.142.163.12
 ```
 
 # SSH key Setup
@@ -99,7 +99,7 @@ cd /mnt/d
 
 # Move venv out of project fodler if neccessary
 
-scp -r django_example/ username@139.162.193.12:~/
+scp -r django_example/ username@156.142.163.12:~/
 ```
 
 # Run Server
@@ -133,7 +133,7 @@ sudo nano django_example/settings.py
 ```
 
 ```python
-ALLOWED_HOSTS = ['139.162.193.12']    
+ALLOWED_HOSTS = ['156.142.163.12']    
 
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')      
 STATIC_URL = 'static/'   
@@ -150,7 +150,7 @@ python manage.py collectstatic
 python manage.py runserver 0.0.0.0:8000
 ```
 
-View site at http://139.162.193.12:8000/ to test functionality then stop server
+View site at http://156.142.163.12:8000/ to test functionality then stop server
 
 # Install Web Proxy
 

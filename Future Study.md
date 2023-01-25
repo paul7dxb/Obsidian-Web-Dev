@@ -7,7 +7,7 @@
 
 - Typescript
 
-- Angular JS - one page web  
+- Angular JS - one page web app
 
 - Node.js - framework
 

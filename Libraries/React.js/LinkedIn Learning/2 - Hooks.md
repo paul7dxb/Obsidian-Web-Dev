@@ -1,5 +1,5 @@
 
-Makes use of [[js#Destructuring Arrays|Destructuring Arrays]]
+Makes use of [[JS#Destructuring Arrays|Destructuring Arrays]]
 
 # useState Hook
 
