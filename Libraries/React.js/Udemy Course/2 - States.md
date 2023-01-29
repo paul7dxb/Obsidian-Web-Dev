@@ -7,6 +7,8 @@
 		- add click listenter
 	- Use special `on` props (e.g onClick)
 
+- [[12 - React under the hood#State Rendering|How state works with rendering]]
+
 # Button Clicks
 
 - Use onClick prop

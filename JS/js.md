@@ -22,6 +22,12 @@ console.log(getFee(null));
 // Expected output: "$10.00"
 ```
 
+## Alternating Class name
+
+```JS
+  someElement.className = `container ${index % 2 ?  'right' :  'left'} `;
+```
+
 # JS && "Trick"
 
 - You can use the && in a statement to return the second value when the first condition is met
@@ -189,3 +195,17 @@ Force 2 decimal places in [[#Template Literal]]
 const price = `£${price.toFixed(2)}`
 ```
 
+# Bind
+
+- preconfigures arguments for future execution
+
+```JS
+      {cartCtx.items.map((item) => (
+        <CartItem
+          key={item.id}
+          ...
+          onRemove = {cartItemRemoveHandler.bind(null, item.id)}
+          onAdd = {cartItemAddHandler.bind(null,item)}
+        />
+	  ))}
+```
