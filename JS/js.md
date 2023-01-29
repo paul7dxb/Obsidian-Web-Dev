@@ -22,6 +22,12 @@ console.log(getFee(null));
 // Expected output: "$10.00"
 ```
 
+## Alternating Class name
+
+```JS
+  someElement.className = `container ${index % 2 ?  'right' :  'left'} `;
+```
+
 # JS && "Trick"
 
 - You can use the && in a statement to return the second value when the first condition is met
@@ -144,45 +150,6 @@ console.log(secondPerson) // Manu due to copied pointer
     const year = date.getFullYear(); //2022
 ```
 
-# Array Methods
-
-## Map()
-
-[MDN docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
-
-- Creates a new array based on another array
-- Tranforms each element on the original array using a function
-- Function is the argument to the map method
-
-```JS
-
-```
-
-## Filter()
-
-- Create a shallow copy of a portion of a given array
-
-Matching year example:
-```JS
-  const filteredArray = fullArray.filter((expense) => {
-    return expense.date.getFullYear().toString() === filteredYear;
-  });
-```
-
-
-## Math.max() for an Array
-
-- Math.max() expects individual values as the arguments
-- For an array use the [[Next Gen Features#Spread| spread operator]] to get the max value in an array
-
-For an array of objects
-```JS
-//Map array object to get an array on wanted values
-const dataPointValues = props.dataPoints.map(dataPoint => dataPoint.value)
-//Spread the array into the Math.max() function
-const totalMaximum = Math.max(...dataPointValues);
-```
-
 
 # Enforce a number conversion
 
@@ -220,3 +187,25 @@ const expenseData = {
 	- E.g on user input check after they stop typing for a small amount of time instead of firing on every key entry
 	- Clear other timers when starting a new one
 	- Example see [[7 - useEffect()#Debouncing|debouncing useEffect()]]
+
+# Number Formatting
+
+Force 2 decimal places in [[#Template Literal]]
+```JS
+const price = `£${price.toFixed(2)}`
+```
+
+# Bind
+
+- preconfigures arguments for future execution
+
+```JS
+      {cartCtx.items.map((item) => (
+        <CartItem
+          key={item.id}
+          ...
+          onRemove = {cartItemRemoveHandler.bind(null, item.id)}
+          onAdd = {cartItemAddHandler.bind(null,item)}
+        />
+	  ))}
+```

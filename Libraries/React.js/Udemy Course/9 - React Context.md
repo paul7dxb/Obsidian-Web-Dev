@@ -7,7 +7,7 @@
 - Set default state
 	- Usually an object
 
-![[Image_React_Context_Structure.png]]
+![[Z - Images/Image_React_Context_Structure.png]]
 
 auth-context.js:
 ```JS
@@ -226,3 +226,86 @@ const Navigation = () => {
 	- Using state would be better for flexibility in unctionality
 - Not optimised for high frequency changes
 	- For app wide high frequency use Redux
+
+
+# Example Cart
+
+Example used in: [React food order demo](https://github.com/paul7dxb/react-udemy-course/tree/master/react-food-order-app)
+
+## Non Dynamic setup
+
+- Add store folder
+![[Image_React_Context_Structure 1.png]]
+![[Image_React_Context_Structure_cart.png]]
+- Create cart-context.js
+- values are just placeholders for autocompletion
+
+```JS
+import React from "react";
+
+const CartContext = React.createContext({
+  items: [],
+  totalAmount: 0,
+  addItem: () => {},
+  removeItem: () => {},
+});
+
+export default CartContext;
+```
+
+- Create Provider to hold context functions and dynamic data eventually
+
+CartProvider.js
+```JSX
+import CartContext from "./cart-context";
+
+const CartProvider = (props) => {
+  const addItemHandler = (item) => {};
+  const removeItemHandler = (id) => {};
+
+  const cartContext = {
+    items: [],
+    totalAmount: 0,
+    addItem: addItemHandler,
+    removeItem: removeItemHandler,
+  };
+
+  return (
+    <CartContext.Provider value={cartContext}>
+      {props.children}
+    </CartContext.Provider>
+  );
+};
+
+export default CartProvider;
+
+```
+
+- Wrap context needing components
+
+App.js
+```JSX
+  return (
+    <CartProvider>
+      {cartIsShown && <Cart onClose={hideCartHandler} />}
+      <Header onShowCart={showCartHandler} />
+      <main>
+        <Meals />
+      </main>
+    </CartProvider>
+  );
+}
+```
+
+## Count cart items
+
+- Use useContext() to get closest provider
+- Use [[Array Functions#Array.reduce()|reduce()]] to total up the amount of each item
+
+```JS
+const HeaderCartButton = (props) => {
+  //Gets provider used by closest provider
+  const cartCtx = useContext(CartContext);
+  const numberOfCartItems = cartCtx.items.reduce((curNumber, item) => {}, 0);1
+```
+

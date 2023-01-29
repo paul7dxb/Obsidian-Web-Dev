@@ -222,8 +222,13 @@ const Input = React.forwardRef((props, ref) => {
   });
 ```
 
+## Forward Ref
+
 - ref is the ref from the parent  allow binding
 - forwardRef allows React to link to a ref
+- Always access forward ref from parent component using `refVarName.current.value`
+	- Always returns a string
+	- Can convert with preceding +
 
 # Uncontrolled Components
 

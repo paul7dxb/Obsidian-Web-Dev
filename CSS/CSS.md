@@ -87,3 +87,9 @@ box-shadow: xOffset yOffset Blur Spread
 ```
 
 
+# Borders
+
+One line
+```CSS
+border-bottom: 1px solid #ccc;
+```

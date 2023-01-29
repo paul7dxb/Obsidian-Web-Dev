@@ -3,6 +3,8 @@
 - let is the new var
 - const for constant value
 
+- In essence, blocks are finally treated as scopes in ES6, but only if you declare variables with `let` or `const`
+
 # Arrow Functions
 
 - shorter sytax

@@ -20,10 +20,25 @@
 
 # Emmet in JS file
 
-- Select Javascript from status bar at bottom
-- Use react language
+-   Open Command Palette (Ctrl + Shift + P)
+-   Open Settings (JSON)
+-   Add to the end:
+	- "emmet.includeLanguages": { "javascript": "html" }
 
 # Addons
 
 ## Prettier
 - Format document
+
+## Arrow Function Snippets
+
+
+```JS
+// afeea
+  (arg) => {
+    █
+  }
+```
+
+https://marketplace.visualstudio.com/items?itemName=deinsoftware.arrow-function-snippets
+

@@ -13,12 +13,19 @@
 
 - A noSQL database
 
+
 ## JS Animation
 
 - GSAP
 	- https://greensock.com/gsap/
 	- Example
 		- https://codepen.io/GreenSock/pen/XWzRraJ
+
+# Styling
+
+- SVG
+	- Animating SVG
+	- Masking with SVG
 
 # Testing
 

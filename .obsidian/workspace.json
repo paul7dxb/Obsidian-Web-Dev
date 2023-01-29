@@ -4,47 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "9685bce7ca685747",
+        "id": "1387d18924c06b42",
         "type": "tabs",
         "children": [
           {
-            "id": "8def92d13795b625",
+            "id": "63e10dd970fade84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libraries/React.js/Udemy Course/9 - React Context.md",
+                "file": "Libraries/React.js/1 - React.js.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0093a7df3dfa39e0",
+            "id": "7bd805b6a1112ff2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libraries/React.js/Udemy Course/10 - Hooks.md",
+                "file": "Libraries/React.js/Udemy Course/3 - Lists & Conditional Content.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a7e8449c1b983610",
+            "id": "5268964a9efcab0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libraries/React.js/Udemy Course/5 - Fragment, Portal, Refs.md",
+                "file": "Libraries/React.js/Udemy Course/12 - React under the hood.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "568b0bbf57885703",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Libraries/React.js/Udemy Course/12 - React under the hood.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0774f0e3905bfc9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f5e2a1456f5c8a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Libraries/React.js/Udemy Course/12 - React under the hood.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -73,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "useref",
+                "query": "map",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libraries/React.js/Udemy Course/5 - Fragment, Portal, Refs.md",
+                "file": "Libraries/React.js/Udemy Course/12 - React under the hood.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Libraries/React.js/Udemy Course/5 - Fragment, Portal, Refs.md",
+                "file": "Libraries/React.js/Udemy Course/12 - React under the hood.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Libraries/React.js/Udemy Course/5 - Fragment, Portal, Refs.md"
+                "file": "Libraries/React.js/Udemy Course/12 - React under the hood.md"
               }
             }
           }
@@ -171,17 +207,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7e8449c1b983610",
+  "active": "3f5e2a1456f5c8a2",
   "lastOpenFiles": [
-    "Libraries/React.js/Udemy Course/7 - useEffect().md",
-    "Libraries/React.js/Udemy Course/6 - Effects, Reducers & Context.md",
-    "Libraries/React.js/Udemy Course/10 - Hooks.md",
-    "Libraries/React.js/Udemy Course/5 - Fragment, Portal, Refs.md",
-    "Libraries/React.js/Udemy Course/11 - useRef().md",
-    "Libraries/React.js/Udemy Course/9 - React Context.md",
-    "VSCode.md",
-    "Libraries/React.js/Udemy Course/8 - useReducer().md",
+    "Libraries/React.js/Udemy Course/2 - States.md",
+    "Libraries/React.js/Udemy Course/12 - React under the hood.md",
+    "Libraries/React.js/Udemy Course/13 - useCallback().md",
     "JS/JS.md",
-    "Z - Images/Pasted image 20230104205959.png"
+    "JS/Functions.md",
+    "JS/Closures.md",
+    "JS/Next Gen Features.md",
+    "Libraries/React.js/Udemy Course/3 - Lists & Conditional Content.md",
+    "Libraries/React.js/3 - More React Theory.md",
+    "Libraries/React.js/1 - React.js.md"
   ]
 }
