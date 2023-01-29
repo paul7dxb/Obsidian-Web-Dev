@@ -48,3 +48,4 @@ export default React.memo(ComponentName);
 		- useEffect will rerun for each state change as another solution to this problem
 - Scheduling may also batch updates together before re render
 	- E.g two state updating functions on consecutive lines
+
