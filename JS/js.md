@@ -210,6 +210,7 @@ const price = `£${price.toFixed(2)}`
 	  ))}
 ```
 
+https://academind.com/tutorials/function-bind-event-execution/
 
 # JS to JSON
 

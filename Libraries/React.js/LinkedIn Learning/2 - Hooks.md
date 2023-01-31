@@ -23,8 +23,12 @@ function App() {
 
 # useEffect Hook
 
-First argument functiont to happen
+First argument function to happen
 Second, when effect is to be called. Can listen for changes in the array
+
+```JS
+  useEffect(functionToCall, [dependencies])
+```
 
 ```JSX
   const [emotion, setEmotion] = useState("happy");
