@@ -86,15 +86,20 @@ function App() {
 
 # useRef Hook
 
-Used in Forms
-Reaches out to a UI element and gets its value
+- Often used in Forms
+- Reaches out to a UI element and gets its value
 
 ```JSX
 import { useRef } from "react";
-
 ```
 
 [[3 - Forms]]
+
+- Access through the current property
+```JS
+const nameInputRef = useRef();
+const enteredValue = nameInputRef.current.value
+```
 
 # Custom Hook
 

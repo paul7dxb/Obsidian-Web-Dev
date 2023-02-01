@@ -11,13 +11,17 @@
 	- Just the logic is shared, not the concrete state
 - You can return states from the custom hook back to the calling component
 
+# Remember
+
+- Monitor which states are passed between the hook and component in terms of what will be rendered
+
 # Where to Store
 
 ![[Image_React_Custom_Hooks_Directory.png]]
 
 - Create a hooks folder under src
 
-# Example
+# HTTP Hook Example
 
 - Example code:
 	- https://github.com/paul7dxb/react-udemy-course/tree/master/react-custom-hooks
@@ -64,3 +68,8 @@ const counter = useCounter(true);
 
 export default ForwardCounter;
 ```
+
+# Passing functions
+
+
+# 
