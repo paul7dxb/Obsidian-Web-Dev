@@ -8,6 +8,8 @@ https://learntheweb.courses/topics/html-semantics-cheat-sheet/
 	- Disabled by `event.preventDefault();`
 		- See [[Listeners]]
 
-````html
 
-```
+# xmln
+
+- XML Namespaces provide a method to avoid element name conflicts.
+- [W3 schools link](https://www.w3schools.com/xml/xml_namespaces.asp)
