@@ -23,4 +23,4 @@ className={styles['class-with-hyphens']}
 
 - Will create a unique identifier at compilation to avoid CSS clashes
 
-![[Pasted image 20230122083415.png]]
+![[Image_React_Module_Class_Naming.png]]

@@ -1,0 +1,2 @@
+- My Github hosted images
+	- https://paul7dxb.github.io/hosted-assets/

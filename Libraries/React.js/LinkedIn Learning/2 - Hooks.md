@@ -23,8 +23,12 @@ function App() {
 
 # useEffect Hook
 
-First argument functiont to happen
+First argument function to happen
 Second, when effect is to be called. Can listen for changes in the array
+
+```JS
+  useEffect(functionToCall, [dependencies])
+```
 
 ```JSX
   const [emotion, setEmotion] = useState("happy");
@@ -82,15 +86,20 @@ function App() {
 
 # useRef Hook
 
-Used in Forms
-Reaches out to a UI element and gets its value
+- Often used in Forms
+- Reaches out to a UI element and gets its value
 
 ```JSX
 import { useRef } from "react";
-
 ```
 
 [[3 - Forms]]
+
+- Access through the current property
+```JS
+const nameInputRef = useRef();
+const enteredValue = nameInputRef.current.value
+```
 
 # Custom Hook
 

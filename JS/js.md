@@ -209,3 +209,19 @@ const price = `£${price.toFixed(2)}`
         />
 	  ))}
 ```
+
+https://academind.com/tutorials/function-bind-event-execution/
+
+# JS to JSON
+
+- use stringify()
+
+```JS
+fetch('https://react-http-6a1db-default-rtdb.firebaseio.com/movies.json', {
+  method: 'POST',
+  body: JSON.stringify(movie),
+  headers: {
+	'Content-Type': 'application/json'
+  }
+});
+```

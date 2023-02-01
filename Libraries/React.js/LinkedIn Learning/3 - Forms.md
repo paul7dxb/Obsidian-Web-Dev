@@ -1,7 +1,6 @@
 Can be used with [[2 - Hooks#useRef Hook|useRef Hook]]
 
 
-
 ```JSX
 function App() {
 
@@ -76,12 +75,17 @@ Or use [[2 - Hooks#Custom Hook]]
 - [Formik Docs](https://formik.org/)
 - [React hook form](https://react-hook-form.com/)
 - [useHooks() - not forms specific](https://usehooks.com)
-- 
-
-
-
-
 
 React hook form
 
 use hooks (not form specifric)
+
+# Balance to validation
+
+- Check on submission
+- Check on element out of focus (finished input moved onto next)
+- Check on each keystroke
+
+# Client Side Validation
+
+![[Image_React_How_To_Validate.png]]

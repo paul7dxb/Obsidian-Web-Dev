@@ -1,0 +1,5 @@
+- Use Hooks to generalise the actions of the form input
+	- Holding value
+	- Change handler
+	- Change focus handler
+	- Validation of value

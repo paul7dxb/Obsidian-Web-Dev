@@ -21,6 +21,10 @@ export default React.memo(ComponentName);
 
 - When passing function references in props [[13 - useCallback()]] is needed to keep the function on re render preventing the reference needing to change
 
+- objects are references so arrays will have the same issue as function references
+	- Do not use on everything as there is a cost to using useMemo()
+	- Sorting is expensive so solution is to use [[14 - useMemo()|useMemo()]] hook
+
 # State
 
 ## State Rendering

@@ -14,6 +14,27 @@
 
 ![[Image_React_useReducer.png]]
 
+# Syntax
+
+```JS
+const myReducer = (previousState, actionPassedIn) => {
+	if (action.type === 'INPUT_VALUE'){
+		return{
+			newStateSnapshot
+		}
+	}
+	...
+}
+
+...
+
+//Reducer Function
+  const [valueState, dispatchFunction] = useReducer(emailReducer, {initialState} );
+
+//Call dispath function
+dispatchFunction({ type: "USER_ACTION", val: event.target.value });
+```
+
 # Example
 ```JSX
 import React, { useEffect, useReducer, useState } from "react";
