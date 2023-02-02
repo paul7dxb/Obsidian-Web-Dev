@@ -41,6 +41,42 @@
   }
 ```
 
+## Performing the Async function on load
+
+- Uses [[13 - useCallback()|useCallback()]] and [[7 - useEffect()|useEffect()]]
+
+```JS
+  const fetchMoviesHandler = useCallback(async () => {
+    setIsLoading(true);
+    setError(null);
+    try {
+      const response = await fetch('https://react-http-6a1db-default-rtdb.firebaseio.com/movies.json');
+      if (!response.ok) {
+        throw new Error('Something went wrong!');
+      }
+
+      const data = await response.json();
+
+       const transformedMovies = data.results.map((movieData) => {
+         return {
+           id: movieData.episode_id,
+           title: movieData.title,
+           openingText: movieData.opening_crawl,
+           releaseDate: movieData.release_date,
+         };
+       });
+      setMovies(loadedMovies);
+    } catch (error) {
+      setError(error.message);
+    }
+    setIsLoading(false);
+  }, []);
+  
+  useEffect(() => {
+    fetchMoviesHandler();
+  }, [fetchMoviesHandler]);
+```
+
 # Loading Screen
 
 - Use a useState for holding "isLoading"

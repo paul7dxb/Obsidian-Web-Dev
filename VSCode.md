@@ -8,7 +8,7 @@
 | Ctrl + / | Comment toggle selection |
 | Alt + click | Multiple Cursors |
 | multi-cursor | [[#Multi Cursor]] |
-
+| alt + arrow | Move line up / down |
 
 # Multi Cursor
 

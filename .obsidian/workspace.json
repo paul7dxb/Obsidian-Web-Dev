@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SVG/Path.md",
+                "file": "JS/Next Gen Features.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "usered",
+                "query": "spread",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SVG/Path.md",
+                "file": "JS/Next Gen Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SVG/Path.md",
+                "file": "JS/Next Gen Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SVG/Path.md"
+                "file": "JS/Next Gen Features.md"
               }
             }
           }
@@ -148,15 +149,15 @@
   },
   "active": "b4ff373abea28d04",
   "lastOpenFiles": [
-    "SVG/SVG.md",
-    "SVG/Path.md",
-    "SVG/Polyline.md",
-    "HTML/Semantic Markup.md",
-    "Libraries/React.js/Custom Hooks/Form Validation.md",
-    "Future Study.md",
-    "Notes.md",
-    "Random Links.md",
+    "JS/Array Functions.md",
+    "Libraries/React.js/Udemy Course/2 - States.md",
+    "Libraries/React.js/Udemy Course/16 - HTTP Requests.md",
     "VSCode.md",
-    "Git.md"
+    "Libraries/React.js/Udemy Course/3 - Lists & Conditional Content.md",
+    "Database/Firebase.md",
+    "Database/Firebase Realtime.md",
+    "Libraries/React.js/Udemy Course/13 - useCallback().md",
+    "Libraries/React.js/Udemy Course/7 - useEffect().md",
+    "SVG/Path.md"
   ]
 }
