@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7063c29adf7574c4",
+        "id": "0d196f152836fcba",
         "type": "tabs",
         "children": [
           {
-            "id": "b4ff373abea28d04",
+            "id": "354d28b55460559e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Next Gen Features.md",
+                "file": "React.js/Udemy Course/18 - Redux.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Next Gen Features.md",
+                "file": "React.js/Udemy Course/18 - Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Next Gen Features.md",
+                "file": "React.js/Udemy Course/18 - Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/Next Gen Features.md"
+                "file": "React.js/Udemy Course/18 - Redux.md"
               }
             }
           }
@@ -147,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4ff373abea28d04",
+  "active": "354d28b55460559e",
   "lastOpenFiles": [
+    "React.js/Udemy Course/17 - Custom Hooks.md",
+    "React.js/Udemy Course/9 - React Context.md",
+    "React.js/Udemy Course/18 - Redux.md",
+    "Z - Images/Image_React_State.png",
+    "Z - Images/Image_React_Context_Disadvantages.png",
+    "React.js/Udemy Course/2 - States.md",
+    "JS/Next Gen Features.md",
     "JS/Array Functions.md",
-    "Libraries/React.js/Udemy Course/2 - States.md",
-    "Libraries/React.js/Udemy Course/16 - HTTP Requests.md",
-    "VSCode.md",
-    "Libraries/React.js/Udemy Course/3 - Lists & Conditional Content.md",
-    "Database/Firebase.md",
-    "Database/Firebase Realtime.md",
-    "Libraries/React.js/Udemy Course/13 - useCallback().md",
-    "Libraries/React.js/Udemy Course/7 - useEffect().md",
-    "SVG/Path.md"
+    "React.js/Udemy Course/16 - HTTP Requests.md",
+    "VSCode.md"
   ]
 }

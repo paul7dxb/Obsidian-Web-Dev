@@ -1,3 +1,6 @@
+
+
+![[Image_React_State.png]]
 ![[Image_React_Context_Diagram.png]]
 
 - Helps avoid having to use props being sent through multiple components
@@ -35,6 +38,12 @@ App.js:
   );
 }
 ```
+
+# Disadvantages
+
+![[Image_React_Context_Disadvantages.png]]
+
+- For high frequency changes use a flux based system like [[18 - Redux|Redux]]
 
 # Consuming
 

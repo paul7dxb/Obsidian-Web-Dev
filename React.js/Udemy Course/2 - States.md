@@ -9,6 +9,7 @@
 
 - [[12 - React under the hood#State Rendering|How state works with rendering]]
 
+
 # Button Clicks
 
 - Use onClick prop
