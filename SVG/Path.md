@@ -27,6 +27,12 @@
 	-  (x1, y1): curve start control point
 	-  (x2, y2): curve end control point
 	- (x, y): Where the line should end
+- S: Several cubic Bezier curves strung together
+
+- Q: Quadratic curve
+	- Only has one control point
+	- Q x1 y1, x y
+- T: Several cubic bezier curves strung together
 
 # Examples
 

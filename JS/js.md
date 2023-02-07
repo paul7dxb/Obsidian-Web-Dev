@@ -225,3 +225,11 @@ fetch('https://react-http-6a1db-default-rtdb.firebaseio.com/movies.json', {
   }
 });
 ```
+
+# Reducer Function
+
+![[Image_JS_Reducer_Function.png]]
+
+- Should be a pure function
+	- Same input produces same output type
+	- No side effects in function (HTTP requests)

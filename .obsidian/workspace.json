@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "SVG/Path.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2882c79da30ee4b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "React.js/Udemy Course/18 - Redux.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "d5c6401eefbac8ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React.js/Udemy Course/19 - Redux Toolkit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "159bde0fa279a804",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Libraries/Redux/Redux Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React.js/Udemy Course/18 - Redux.md",
+                "file": "React.js/Udemy Course/19 - Redux Toolkit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React.js/Udemy Course/18 - Redux.md",
+                "file": "React.js/Udemy Course/19 - Redux Toolkit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React.js/Udemy Course/18 - Redux.md"
+                "file": "React.js/Udemy Course/19 - Redux Toolkit.md"
               }
             }
           }
@@ -146,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "354d28b55460559e",
+  "active": "d5c6401eefbac8ac",
   "lastOpenFiles": [
-    "React.js/Udemy Course/17 - Custom Hooks.md",
-    "React.js/Udemy Course/9 - React Context.md",
     "React.js/Udemy Course/18 - Redux.md",
-    "Z - Images/Image_React_State.png",
-    "Z - Images/Image_React_Context_Disadvantages.png",
-    "React.js/Udemy Course/2 - States.md",
-    "JS/Next Gen Features.md",
+    "React.js/Udemy Course/9 - React Context.md",
     "JS/Array Functions.md",
-    "React.js/Udemy Course/16 - HTTP Requests.md",
-    "VSCode.md"
+    "React.js/Udemy Course/19 - Redux Toolkit.md",
+    "Libraries/Redux/Redux Introduction.md",
+    "JS/JS.md",
+    "VSCode.md",
+    "SVG/Path.md",
+    "SVG/Polyline.md",
+    "SVG/SVG.md"
   ]
 }

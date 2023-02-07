@@ -9,6 +9,13 @@
 | Alt + click | Multiple Cursors |
 | multi-cursor | [[#Multi Cursor]] |
 | alt + arrow | Move line up / down |
+| Ctrl + Shift + K | Delete current line |
+| Ctrl + \` | Toggle Terminal |
+| Ctrl + L | Select Current Line |
+| F2 | Rename a component and replace |
+
+# Links:
+https://cult.honeypot.io/reads/20-vs-code-shortcuts-developers/
 
 # Multi Cursor
 
