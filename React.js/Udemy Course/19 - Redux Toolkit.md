@@ -187,6 +187,9 @@ export default store;
 
 ```
 
+
+![[Image_React_Redux_Store_Files.png]]
+
 - Can split by slice to each file
 - Take initial state and actions to seperate file
 - From new slice files:

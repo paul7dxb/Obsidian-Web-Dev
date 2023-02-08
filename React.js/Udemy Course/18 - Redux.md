@@ -2,6 +2,8 @@
 - For basic information on Redux see [[Redux Introduction]]
 - Use react-redux to make connecting components to store simpler
 
+![[Image_React_Redux_Reducers.png]]
+
 # Setup
 
 # Create Store in App
