@@ -4,28 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "0d196f152836fcba",
+        "id": "d609d254ba398531",
         "type": "tabs",
         "children": [
           {
-            "id": "d5c6401eefbac8ac",
+            "id": "83791fbf2b439b75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React.js/Udemy Course/18 - Redux.md",
+                "file": "React.js/Udemy React Course/21 - React Router.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "75ebf95b956da6bc",
+            "id": "af0239cef7808689",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React.js/Udemy Course/18 - Redux.md",
+                "file": "React.js/Udemy React Course/21 - React Router.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a57a1d738ee45014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React.js/React-Router.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React.js/Udemy Course/18 - Redux.md",
+                "file": "React.js/Udemy React Course/21 - React Router.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React.js/Udemy Course/18 - Redux.md",
+                "file": "React.js/Udemy React Course/21 - React Router.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React.js/Udemy Course/18 - Redux.md"
+                "file": "React.js/Udemy React Course/21 - React Router.md"
               }
             }
           }
@@ -159,17 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75ebf95b956da6bc",
+  "active": "af0239cef7808689",
   "lastOpenFiles": [
-    "React.js/Udemy Course/19 - Redux Toolkit.md",
-    "React.js/Udemy Course/20 - Redux Side Effects.md",
-    "React.js/Udemy Course/18 - Redux.md",
-    "React.js/Udemy Course/9 - React Context.md",
-    "JS/Array Functions.md",
-    "Libraries/Redux/Redux Introduction.md",
-    "JS/JS.md",
-    "VSCode.md",
-    "SVG/Path.md",
-    "SVG/Polyline.md"
+    "Welcome.md",
+    "React.js/Udemy React Course/21 - React Router.md",
+    "React.js/React-Router.md",
+    "Z - Images/Image_React_router_Old_Routes.png",
+    "Z - Images/Image_React_router_structure.png",
+    "Z - Images/Image_Single_Page_App.png",
+    "React.js/Testing.md",
+    "React.js/Security.md",
+    "React.js/Project Layout.md",
+    "React.js/Listeners.md"
   ]
 }

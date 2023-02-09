@@ -133,7 +133,7 @@ store.dispatch({ type: "decrement" }); //Output { counter: 0 }
 ```
 
 
-# React Redux
+# Using Redux With React
 
 - Makes connecting react to redux simpler
 	- Components to Store subscription
@@ -141,3 +141,8 @@ store.dispatch({ type: "decrement" }); //Output { counter: 0 }
 ```bash
 npm install react-redux
 ```
+
+- More details and examples found from React Udemy Course notes:
+	- [[18 - Redux]]
+	- [[19 - Redux Toolkit]]
+	- [[20 - Redux Side Effects]]

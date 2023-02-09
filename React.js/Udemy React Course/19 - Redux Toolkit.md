@@ -15,6 +15,11 @@ npm install @reduxjs/toolkit
 ```
 
 - Can remove redux from package.json as redux is included in redux toolkit
+- Also still require react-redux
+
+```bash
+npm install react-redux
+```
 
 # createSlice() 
 
@@ -72,6 +77,10 @@ const store = configureStore({
     reducer: counterSlice.reducer
 })
 ```
+
+# Get Data
+
+- See [[18 - Redux#Get data with useSelector()|useSelector() Redux]]
 
 # Dispatch Actions
 

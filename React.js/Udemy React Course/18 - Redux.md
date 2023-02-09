@@ -1,12 +1,12 @@
 
-- For basic information on Redux see [[Redux Introduction]]
+- For basic information on Redux see [[1 - Redux Introduction]]
 - Use react-redux to make connecting components to store simpler
 
 ![[Image_React_Redux_Reducers.png]]
 
 # Setup
 
-# Create Store in App
+# Create Store in Src Folder
 
 ![[Image_React_Redux_Store_Structure.png]]
 
@@ -57,6 +57,8 @@ root.render(<Provider store={store}> <App /></Provider>);
 
 # React-Redux Hooks
 
+## Get data with useSelector()
+
 - Custom hooks provided by react-redux to reach in to redux store
 - useSelector()
 	- Used to get data
@@ -68,6 +70,8 @@ root.render(<Provider store={store}> <App /></Provider>);
 
 E.g to get counter
 ```JS
+import { useSelector } from "react-redux";
+
 const counter = useSelector(state => state.counter);
 //Can now reference counter in component
 ```
