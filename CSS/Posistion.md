@@ -1,0 +1,6 @@
+-   `static`
+-   `relative`
+	- Relative to normal postition
+-   `fixed`
+-   `absolute`
+-   `sticky`

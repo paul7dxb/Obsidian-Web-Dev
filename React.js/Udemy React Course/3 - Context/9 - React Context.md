@@ -10,7 +10,7 @@
 - Set default state
 	- Usually an object
 
-![[Z - Images/Image_React_Context_Structure.png]]
+![[Image_React_Context_Structure.png]]
 
 auth-context.js:
 ```JS

@@ -4,79 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "d609d254ba398531",
+        "id": "7cd763691364385e",
         "type": "tabs",
         "children": [
           {
-            "id": "83791fbf2b439b75",
+            "id": "9c340c0bb70132f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React.js/Udemy React Course/21 - React Router.md",
+                "file": "VSCode.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "af0239cef7808689",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "75c047085d83e301",
+            "id": "8539c7cb5c4398e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React.js/Udemy React Course/22 - React Router Loading.md",
+                "file": "CSS/CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d286597a9d85e49a",
+            "id": "842a968e5db03866",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React.js/Udemy React Course/23 - Error Handling With Custom Errors.md",
+                "file": "Deployments/Firebase Hosting/Static Hosting.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "83278b5d8f4d8af7",
+            "id": "590bb9ecd5fe98a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React.js/Udemy React Course/24 - React Router Dynamic Route Loader.md",
+                "file": "Deployments/Firebase Hosting/Static Hosting.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a57a1d738ee45014",
+            "id": "803dd8726e1dd8aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React.js/React-Router.md",
+                "file": "React.js/Custom Components/Input.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8688ee8c8a5ce8a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/Posistion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -105,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spread",
+                "query": "map",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 221.5
   },
   "right": {
     "id": "8105f6945468661d",
@@ -142,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React.js/Udemy React Course/24 - React Router Dynamic Route Loader.md",
+                "file": "CSS/Posistion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React.js/Udemy React Course/24 - React Router Dynamic Route Loader.md",
+                "file": "CSS/Posistion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React.js/Udemy React Course/24 - React Router Dynamic Route Loader.md"
+                "file": "CSS/Posistion.md"
               }
             }
           }
@@ -203,17 +207,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83278b5d8f4d8af7",
+  "active": "8688ee8c8a5ce8a0",
   "lastOpenFiles": [
-    "React.js/Udemy React Course/23 - Error Handling With Custom Errors.md",
-    "README.md",
-    "React.js/Udemy React Course/22 - React Router Loading.md",
-    "Welcome.md",
-    "React.js/Udemy React Course/21 - React Router.md",
-    "React.js/React-Router.md",
-    "Z - Images/Image_React_router_Old_Routes.png",
-    "Z - Images/Image_React_router_structure.png",
-    "Z - Images/Image_Single_Page_App.png",
-    "React.js/Testing.md"
+    "React.js/Custom Components/Input.md",
+    "CSS/Posistion.md",
+    "React.js/Custom Components/CustomButton.md",
+    "Deployments/Firebase Hosting/Domain Linking.md",
+    "Deployments/Firebase Hosting/Static Hosting.md",
+    "React.js/Udemy React Course/31 - Deployments.md",
+    "Libraries/GSAP.md",
+    "Libraries/Fortawesome.md",
+    "CSS/will-change.md",
+    "CSS/CSS.md",
+    "CSS/Sass.md",
+    "Libraries/loaders.css.md",
+    "Libraries/EmailIJS.md"
   ]
 }
