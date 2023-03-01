@@ -32,22 +32,10 @@ https://cult.honeypot.io/reads/20-vs-code-shortcuts-developers/
 -   Add to the end:
 	- "emmet.includeLanguages": { "javascript": "html" }
 
-# Addons
 
 ## Prettier
 - Format document
 
-## Arrow Function Snippets
-
-
-```JS
-// afeea
-  (arg) => {
-    █
-  }
-```
-
-https://marketplace.visualstudio.com/items?itemName=deinsoftware.arrow-function-snippets
 
 # Diff Checker
 https://vscode.one/diff-vscode/#:~:text=There%27s%20two%20primary%20types%20of%20diffs%20you%20can,diff%20panel%20appear%20once%20you%27ve%20completed%20these%20steps%3A

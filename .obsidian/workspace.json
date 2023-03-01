@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7cd763691364385e",
+        "id": "b043cfe98ca6a6b6",
         "type": "tabs",
         "children": [
           {
-            "id": "9c340c0bb70132f8",
+            "id": "2bc89b988aa99539",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VSCode.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8539c7cb5c4398e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/CSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "842a968e5db03866",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deployments/Firebase Hosting/Static Hosting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "590bb9ecd5fe98a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deployments/Firebase Hosting/Static Hosting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "803dd8726e1dd8aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React.js/Custom Components/Input.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8688ee8c8a5ce8a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/Posistion.md",
+                "file": "Next.js/5 - Pre Rendering.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "map",
+                "query": "useeff",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/Posistion.md",
+                "file": "Next.js/5 - Pre Rendering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/Posistion.md",
+                "file": "Next.js/5 - Pre Rendering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/Posistion.md"
+                "file": "Next.js/5 - Pre Rendering.md"
               }
             }
           }
@@ -207,20 +146,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8688ee8c8a5ce8a0",
+  "active": "2bc89b988aa99539",
   "lastOpenFiles": [
-    "React.js/Custom Components/Input.md",
-    "CSS/Posistion.md",
-    "React.js/Custom Components/CustomButton.md",
-    "Deployments/Firebase Hosting/Domain Linking.md",
+    "Z - Images/NextJS_Parameter_File_Name.png",
+    "Z - Images/NextJS_Pre_Rendering.png",
+    "Next.js/5 - Pre Rendering.md",
+    "Next.js/3 - Routes.md",
+    "Next.js/4 - _app.js.md",
+    "React.js/LinkedIn Learning/2 - Hooks.md",
+    "Next.js/2 - Getting Started.md",
+    "Next.js/1 - Intro.md",
+    "Z - Images/NextJS_Routing.png",
+    "VSCode/VSCode.md",
+    "VSCode/Extensions.md",
+    "VSCode",
     "Deployments/Firebase Hosting/Static Hosting.md",
+    "Deployments/Firebase Hosting/Domain Linking.md",
     "React.js/Udemy React Course/31 - Deployments.md",
-    "Libraries/GSAP.md",
-    "Libraries/Fortawesome.md",
-    "CSS/will-change.md",
-    "CSS/CSS.md",
-    "CSS/Sass.md",
-    "Libraries/loaders.css.md",
-    "Libraries/EmailIJS.md"
+    "SVG/Path.md",
+    "SCSS/Programatic Creation.md",
+    "SCSS/1 - Intro.md",
+    "React.js/Udemy React Course/4 - APIs/16 - HTTP Requests.md",
+    "SCSS",
+    "React.js/Udemy React Course/2 - Hooks/4 - React Styling.md",
+    "React.js/Udemy React Course/1 - Basics/15 - Class Based Components.md",
+    "React.js/Udemy React Course/2 - Hooks/3 - Lists & Conditional Content.md",
+    "React.js/Udemy React Course/2 - Hooks/5 - Fragment, Portal, Refs.md",
+    "React.js/Udemy React Course/2 - Hooks/6 - Effects, Reducers & Context.md",
+    "React.js/Udemy React Course/2 - Hooks/7 - useEffect().md",
+    "React.js/Udemy React Course/2 - Hooks/8 - useReducer().md",
+    "React.js/Udemy React Course/2 - Hooks/10 - Hooks.md",
+    "React.js/Udemy React Course/2 - Hooks/13 - useCallback().md",
+    "React.js/Udemy React Course/2 - Hooks/14 - useMemo().md"
   ]
 }
