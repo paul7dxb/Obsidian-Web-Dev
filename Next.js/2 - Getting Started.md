@@ -37,3 +37,10 @@ npm install
 npm run dev
 ```
 
+# Building a Project
+
+```bash
+npm run build
+```
+
+- Creates a .next folder

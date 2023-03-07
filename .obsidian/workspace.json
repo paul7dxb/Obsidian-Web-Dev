@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2bc89b988aa99539",
+            "id": "1b980ff15b6f4a59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next.js/5 - Pre Rendering.md",
+                "file": "React.js/Udemy React Course/9 - Authentication/37 - Using Login Tokens.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cca17552e282878c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React.js/Hooks.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 339.5
   },
   "right": {
     "id": "8105f6945468661d",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next.js/5 - Pre Rendering.md",
+                "file": "React.js/Udemy React Course/9 - Authentication/37 - Using Login Tokens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next.js/5 - Pre Rendering.md",
+                "file": "React.js/Udemy React Course/9 - Authentication/37 - Using Login Tokens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next.js/5 - Pre Rendering.md"
+                "file": "React.js/Udemy React Course/9 - Authentication/37 - Using Login Tokens.md"
               }
             }
           }
@@ -146,37 +158,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bc89b988aa99539",
+  "active": "1b980ff15b6f4a59",
   "lastOpenFiles": [
+    "React.js/Udemy React Course/9 - Authentication/36 - Validation Errors.md",
+    "React.js/Udemy React Course/9 - Authentication/35 - Login, Signup Action.md",
+    "React.js/Udemy React Course/9 - Authentication/38 - Logout with React-Router.md",
+    "React.js/Udemy React Course/9 - Authentication/40 - Route Protection.md",
+    "React.js/Udemy React Course/9 - Authentication/37 - Using Login Tokens.md",
+    "React.js/Udemy React Course/9 - Authentication/33 - Authentication.md",
+    "React.js/Udemy React Course/9 - Authentication/34 - Query Parameters.md",
+    "React.js/Hooks.md",
+    "React.js/Udemy React Course/9 - Authentication/39 - UI based on Token.md",
+    "JS/JS.md",
+    "React.js/Udemy React Course/6 - React Router/26 - React Router Submitting Data.md",
+    "Next.js/6 - API routes.md",
+    "React.js/Udemy React Course/8 - Optimisation",
+    "React.js/Udemy React Course/7 - Deployments",
+    "React.js/Udemy React Course/9 - Authentication",
+    "Next.js/8 - Deployment.md",
+    "Next.js/7 - Head Metadata.md",
+    "Next.js/9 - Fallback Pages.md",
+    "Deployments/Vercel/Vercel.md",
+    "Next.js/2 - Getting Started.md",
+    "Next.js/1 - Intro.md",
+    "Database/Firebase.md",
+    "Deployments/Vercel",
+    "Database/MongoDB.md",
+    "Next.js/5 - Pre Rendering.md",
     "Z - Images/NextJS_Parameter_File_Name.png",
     "Z - Images/NextJS_Pre_Rendering.png",
-    "Next.js/5 - Pre Rendering.md",
     "Next.js/3 - Routes.md",
     "Next.js/4 - _app.js.md",
     "React.js/LinkedIn Learning/2 - Hooks.md",
-    "Next.js/2 - Getting Started.md",
-    "Next.js/1 - Intro.md",
     "Z - Images/NextJS_Routing.png",
     "VSCode/VSCode.md",
     "VSCode/Extensions.md",
     "VSCode",
-    "Deployments/Firebase Hosting/Static Hosting.md",
-    "Deployments/Firebase Hosting/Domain Linking.md",
-    "React.js/Udemy React Course/31 - Deployments.md",
-    "SVG/Path.md",
-    "SCSS/Programatic Creation.md",
-    "SCSS/1 - Intro.md",
-    "React.js/Udemy React Course/4 - APIs/16 - HTTP Requests.md",
-    "SCSS",
-    "React.js/Udemy React Course/2 - Hooks/4 - React Styling.md",
-    "React.js/Udemy React Course/1 - Basics/15 - Class Based Components.md",
-    "React.js/Udemy React Course/2 - Hooks/3 - Lists & Conditional Content.md",
-    "React.js/Udemy React Course/2 - Hooks/5 - Fragment, Portal, Refs.md",
-    "React.js/Udemy React Course/2 - Hooks/6 - Effects, Reducers & Context.md",
-    "React.js/Udemy React Course/2 - Hooks/7 - useEffect().md",
-    "React.js/Udemy React Course/2 - Hooks/8 - useReducer().md",
-    "React.js/Udemy React Course/2 - Hooks/10 - Hooks.md",
-    "React.js/Udemy React Course/2 - Hooks/13 - useCallback().md",
-    "React.js/Udemy React Course/2 - Hooks/14 - useMemo().md"
+    "SCSS"
   ]
 }
