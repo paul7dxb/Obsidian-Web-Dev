@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b980ff15b6f4a59",
+            "id": "69cc1937c298faa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React.js/Udemy React Course/9 - Authentication/37 - Using Login Tokens.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cca17552e282878c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React.js/Hooks.md",
+                "file": "React.js/Udemy React Course/10 - Animations/42 - ReactTransitionGroup.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React.js/Udemy React Course/9 - Authentication/37 - Using Login Tokens.md",
+                "file": "React.js/Udemy React Course/10 - Animations/42 - ReactTransitionGroup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React.js/Udemy React Course/9 - Authentication/37 - Using Login Tokens.md",
+                "file": "React.js/Udemy React Course/10 - Animations/42 - ReactTransitionGroup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React.js/Udemy React Course/9 - Authentication/37 - Using Login Tokens.md"
+                "file": "React.js/Udemy React Course/10 - Animations/42 - ReactTransitionGroup.md"
               }
             }
           }
@@ -158,13 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b980ff15b6f4a59",
+  "active": "69cc1937c298faa6",
   "lastOpenFiles": [
+    "React.js/Udemy React Course/10 - Animations/41 - React Animations.md",
+    "React.js/Udemy React Course/10 - Animations/42 - ReactTransitionGroup.md",
+    "CSS/Animations.md",
+    "CSS/Transitions.md",
+    "React.js/Udemy React Course/9 - Authentication/37 - Using Login Tokens.md",
+    "React.js/Udemy React Course/10 - Animations",
     "React.js/Udemy React Course/9 - Authentication/36 - Validation Errors.md",
     "React.js/Udemy React Course/9 - Authentication/35 - Login, Signup Action.md",
     "React.js/Udemy React Course/9 - Authentication/38 - Logout with React-Router.md",
     "React.js/Udemy React Course/9 - Authentication/40 - Route Protection.md",
-    "React.js/Udemy React Course/9 - Authentication/37 - Using Login Tokens.md",
     "React.js/Udemy React Course/9 - Authentication/33 - Authentication.md",
     "React.js/Udemy React Course/9 - Authentication/34 - Query Parameters.md",
     "React.js/Hooks.md",
@@ -188,11 +181,7 @@
     "Z - Images/NextJS_Parameter_File_Name.png",
     "Z - Images/NextJS_Pre_Rendering.png",
     "Next.js/3 - Routes.md",
-    "Next.js/4 - _app.js.md",
-    "React.js/LinkedIn Learning/2 - Hooks.md",
     "Z - Images/NextJS_Routing.png",
-    "VSCode/VSCode.md",
-    "VSCode/Extensions.md",
     "VSCode",
     "SCSS"
   ]
