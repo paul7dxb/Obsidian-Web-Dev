@@ -57,6 +57,11 @@ npm uninstall react-scripts
 npm install react-scripts
 ```
 
+# Updating to New version of React
+```bash
+npm install --save react@latest react-dom@latest
+```
+
 # Build Application
 
 ```bash

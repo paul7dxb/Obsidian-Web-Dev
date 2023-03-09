@@ -1,15 +1,4 @@
-- An unofficial package
-	- [Link to site](https://reactcommunity.org/react-transition-group/)
-- Widely used
-- Smoothly animate when adding / removing from the DOM
-
-```bash
-npm install react-transition-group --save
-```
-
-Exports Transition component
-- Import component
-- Wrap the component you want to animate
+# Transition Component
 
 - Poroperties
 	- in
@@ -30,7 +19,7 @@ Exports Transition component
 		- EXITING
 		- EXITED
 
-# Transition Component
+# Modal Example
 
 - Parent
 ```JSX
@@ -88,7 +77,7 @@ export default modal;
 ```
 
 CSS:
-```
+```CSS
 .Modal {
   position: fixed;
   z-index: 200;

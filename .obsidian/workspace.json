@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b043cfe98ca6a6b6",
+        "id": "f3468211cfd02bda",
         "type": "tabs",
         "children": [
           {
-            "id": "69cc1937c298faa6",
+            "id": "d4626f3d9451249c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React.js/Udemy React Course/10 - Animations/42 - ReactTransitionGroup.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React.js/Udemy React Course/10 - Animations/42 - ReactTransitionGroup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React.js/Udemy React Course/10 - Animations/42 - ReactTransitionGroup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "React.js/Udemy React Course/10 - Animations/42 - ReactTransitionGroup.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69cc1937c298faa6",
+  "active": "d4626f3d9451249c",
   "lastOpenFiles": [
+    "CSS/Responsive.md",
+    "React.js/Custom Hooks/Storage Using Hooks.md",
+    "React.js/Udemy React Course/11 - Replacing Redux/42 - Replacing Redux.md",
+    "VSCode/VSCode.md",
+    "VSCode/Extensions.md",
+    "React.js/Udemy React Course/11 - Replacing Redux",
+    "React.js/2 - Setup.md",
+    "React.js/1 - React.js.md",
+    "React.js/External Pacakages/ReactTransitionGroup/1 - ReactTransitionGroup.md",
     "React.js/Udemy React Course/10 - Animations/41 - React Animations.md",
-    "React.js/Udemy React Course/10 - Animations/42 - ReactTransitionGroup.md",
+    "React.js/External Pacakages/ReactTransitionGroup/5 - Animating Lists.md",
+    "React.js/External Pacakages/ReactTransitionGroup/4 - CSSTransition Component.md",
+    "React.js/External Pacakages/ReactTransitionGroup/2 - Transition Component.md",
+    "React.js/External Pacakages/ReactTransitionGroup/3 - Animation Callbacks.md",
+    "React.js/External Pacakages/ReactTransitionGroup",
+    "React.js/External Pacakages",
     "CSS/Animations.md",
     "CSS/Transitions.md",
     "React.js/Udemy React Course/9 - Authentication/37 - Using Login Tokens.md",
@@ -164,23 +170,12 @@
     "React.js/Udemy React Course/9 - Authentication/39 - UI based on Token.md",
     "JS/JS.md",
     "React.js/Udemy React Course/6 - React Router/26 - React Router Submitting Data.md",
-    "Next.js/6 - API routes.md",
     "React.js/Udemy React Course/8 - Optimisation",
     "React.js/Udemy React Course/7 - Deployments",
     "React.js/Udemy React Course/9 - Authentication",
-    "Next.js/8 - Deployment.md",
-    "Next.js/7 - Head Metadata.md",
-    "Next.js/9 - Fallback Pages.md",
-    "Deployments/Vercel/Vercel.md",
-    "Next.js/2 - Getting Started.md",
-    "Next.js/1 - Intro.md",
-    "Database/Firebase.md",
     "Deployments/Vercel",
-    "Database/MongoDB.md",
-    "Next.js/5 - Pre Rendering.md",
     "Z - Images/NextJS_Parameter_File_Name.png",
     "Z - Images/NextJS_Pre_Rendering.png",
-    "Next.js/3 - Routes.md",
     "Z - Images/NextJS_Routing.png",
     "VSCode",
     "SCSS"
