@@ -4,79 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d609d254ba398531",
+        "id": "401c3705bd5075ff",
         "type": "tabs",
         "children": [
           {
-            "id": "83791fbf2b439b75",
+            "id": "5c1cdf4026dcf73e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React.js/Udemy React Course/21 - React Router.md",
+                "file": "React.js/Udemy React Course/13 - TypeScript React/53 - Context.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "af0239cef7808689",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "75c047085d83e301",
+            "id": "03243454cf79ce9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React.js/Udemy React Course/22 - React Router Loading.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d286597a9d85e49a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React.js/Udemy React Course/23 - Error Handling With Custom Errors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83278b5d8f4d8af7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React.js/Udemy React Course/24 - React Router Dynamic Route Loader.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a57a1d738ee45014",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React.js/React-Router.md",
+                "file": "Future Study.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spread",
+                "query": "node",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 339.5
   },
   "right": {
     "id": "8105f6945468661d",
@@ -142,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React.js/Udemy React Course/24 - React Router Dynamic Route Loader.md",
+                "file": "Future Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React.js/Udemy React Course/24 - React Router Dynamic Route Loader.md",
+                "file": "Future Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React.js/Udemy React Course/24 - React Router Dynamic Route Loader.md"
+                "file": "Future Study.md"
               }
             }
           }
@@ -203,17 +159,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83278b5d8f4d8af7",
+  "active": "03243454cf79ce9f",
   "lastOpenFiles": [
-    "React.js/Udemy React Course/23 - Error Handling With Custom Errors.md",
+    "React.js/Udemy React Course/13 - TypeScript React/54 - tsconfig.json.md",
+    "React.js/Udemy React Course/13 - TypeScript React/53 - Context.md",
+    "React.js/Udemy React Course/13 - TypeScript React/52 - Function Props.md",
+    "React.js/Udemy React Course/13 - TypeScript React/51 - TypeScript Form.md",
+    "React.js/Udemy React Course/13 - TypeScript React/50 - Data Models.md",
+    "React.js/Udemy React Course/13 - TypeScript React/49 - Working with props.md",
+    "React.js/LinkedIn Learning/2 - Hooks.md",
+    "React.js/Udemy React Course/13 - TypeScript React/48 - TypeScript React.md",
+    "SVG/Path.md",
+    "SVG/SVG Path.md",
+    "Notes.md",
+    "Random Links.md",
     "README.md",
-    "React.js/Udemy React Course/22 - React Router Loading.md",
-    "Welcome.md",
-    "React.js/Udemy React Course/21 - React Router.md",
-    "React.js/React-Router.md",
-    "Z - Images/Image_React_router_Old_Routes.png",
-    "Z - Images/Image_React_router_structure.png",
-    "Z - Images/Image_Single_Page_App.png",
-    "React.js/Testing.md"
+    "Gmail App Password.md",
+    "JS/Algorthms/Arrays.md",
+    "NPM/Updating Packages.md",
+    "NPM",
+    "React.js/Udemy React Course/13 - TypeScript React",
+    "TypeScript/4 - Generics.md",
+    "Z - Images/TypeScript_Generics.png",
+    "TypeScript/3 - Functions.md",
+    "Z - Images/React/React_Types_Of_Test.png",
+    "Z - Images/TypeScript_Function_Inferred.png",
+    "TypeScript/2 - Types.md",
+    "TypeScript/1 - TypeScript.md",
+    "JS/Array Functions.md",
+    "JS/Algorthms",
+    "React.js/Udemy React Course/12 - Testing/43 - Testing.md",
+    "React.js/2 - Setup.md",
+    "TypeScript",
+    "React.js/Udemy React Course/12 - Testing/47 - Asynchronous Testing.md",
+    "React.js/Udemy React Course/12 - Testing/45 - Make a Test.md",
+    "React.js/Udemy React Course/12 - Testing/46 - Test Suites.md",
+    "Z - Images/React/React_Three_As_Of_Testing.png",
+    "Z - Images/React/React_Types_Of_Testing.png",
+    "React.js/Udemy React Course/12 - Testing",
+    "React.js/Udemy React Course/11 - Replacing Redux",
+    "React.js/External Pacakages/ReactTransitionGroup",
+    "React.js/External Pacakages",
+    "React.js/Udemy React Course/10 - Animations",
+    "React.js/Udemy React Course/8 - Optimisation",
+    "Z - Images/NextJS_Parameter_File_Name.png",
+    "Z - Images/NextJS_Pre_Rendering.png",
+    "Z - Images/NextJS_Routing.png"
   ]
 }

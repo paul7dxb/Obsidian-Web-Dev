@@ -12,7 +12,7 @@ Includes:
 
 # Set up
 
-Install Node.js
+## Install Node.js
 https://nodejs.org/en/
 
 Check Version:
@@ -55,6 +55,11 @@ npm install react-router-dom
 npm uninstall react-scripts
 
 npm install react-scripts
+```
+
+# Updating to New version of React
+```bash
+npm install --save react@latest react-dom@latest
 ```
 
 # Build Application

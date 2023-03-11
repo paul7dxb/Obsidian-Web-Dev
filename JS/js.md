@@ -233,3 +233,10 @@ fetch('https://react-http-6a1db-default-rtdb.firebaseio.com/movies.json', {
 - Should be a pure function
 	- Same input produces same output type
 	- No side effects in function (HTTP requests)
+
+# Get URL Search Params
+
+```JS
+const searchParams = new URL(request.url).searchParams
+searchParams.get('mode') //replace mode with desired parameter
+```

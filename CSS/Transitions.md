@@ -32,3 +32,20 @@ transition: var(--transitionTime) ease-out;
 		- step
 		- cubic-bezier - reverse in the middle for short time
 			- easeings.net for timings
+
+# Fly In From Top
+
+```CSS
+.Modal {
+    transition: all 0.3s ease-out;
+}
+
+.ModalOpen {
+    opacity: 1;
+    transform: translateY(0);
+}
+.ModalClosed {
+    opacity: 0;
+    transform: translateY(-100%);
+}
+```

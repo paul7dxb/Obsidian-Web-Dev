@@ -29,3 +29,10 @@
 	- Top of component tree with others sitting below
 	- Keep child components in a seperate folder but leave app.js at root
 
+# Deployments
+
+- A React SPA is a static website
+	- Only HTML, CSS & JS
+
+- Only  require Static Site Hosting
+

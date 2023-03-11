@@ -23,8 +23,10 @@ function App() {
 
 # useEffect Hook
 
-First argument function to happen
-Second, when effect is to be called. Can listen for changes in the array
+- First execution of the useEffect willl be done AFTER the component function is exececuted
+
+- First argument function to happen
+- Second, when effect is to be called. Can listen for changes in the array
 
 ```JS
   useEffect(functionToCall, [dependencies])
