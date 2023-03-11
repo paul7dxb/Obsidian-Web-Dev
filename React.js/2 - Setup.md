@@ -12,7 +12,7 @@ Includes:
 
 # Set up
 
-Install Node.js
+## Install Node.js
 https://nodejs.org/en/
 
 Check Version:

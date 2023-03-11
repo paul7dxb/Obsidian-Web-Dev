@@ -1,0 +1,16 @@
+- File for a TypeScript project
+- Target
+	- Target JS version
+	- Babel may transform it more so sometimes target value may not be accurate
+- lib
+	- Types known by TypeScript
+	- dom
+		- Example: HTMLInputElement
+- allowJS
+	- Mix and match project with regular JS files
+- strict
+	- ture: Strictest settings for project
+		- Can't have implicit values
+- jsx
+	- Support of JSX code
+- 

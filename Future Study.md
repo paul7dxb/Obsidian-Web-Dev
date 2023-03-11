@@ -15,7 +15,20 @@
 
 # React
 
-- Reacdt spring: animation
+- React spring: animation
+
+- Gatsby.js
+	- Builds up on React to make static sites
+	- Pre rendered in advance for SEO
+	- Alternative to Next.js
+
+- Preact
+	- React with smaller footprint
+	- Strips out internal functionality
+
+- React native
+	- Framework for react to build mobile apps with react
+
 ## JS Animation
 
 - GSAP
