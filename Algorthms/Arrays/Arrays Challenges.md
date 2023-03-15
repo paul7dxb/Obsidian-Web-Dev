@@ -1,16 +1,3 @@
-# Info
-- Positives:
-	- Array lookup time O(1)
-- Negatives:
-	- Adding or deleting elements to the array is `O(n)`, where `n` is the number of elements in the array.
-	- Slow rearrangement
-
-|Operation 	|Description 	|Time complexity 	|Mutates structure|
-| --- | --- | --- | --- |
-|append(item) 	|Adds item to the end of the list 	|O(n) 	|Yes
-|delete(index) 	|Removes item from list 	|O(n) 	|Yes
-|\[index\] 	|Retrieves element at index 	|O(1) 	|No
-
 ## Finding First duplicate number
 
 ```JS
@@ -25,6 +12,22 @@ solution = (a) => {
     }
 
     return -1   
+}
+```
+
+- contatinsDuplicates(a)
+```JS
+function solution(a) {
+dic = {}
+
+for(i=0; i< a.length ; i++){
+    if(dic[a[i]]){
+        return true
+    }
+    dic[a[i]] = 1
+}
+
+return false
 }
 ```
 
@@ -190,4 +193,27 @@ function solution(crypt, solution) {
     return (wordTotals[0] + wordTotals[1] === wordTotals[2])
     
 }
+```
+
+# Array holding longest values
+```JS
+const { words } = require("lodash");
+
+function solution(inputArray) {
+    // Find max
+    
+    //max = 0;
+    //inputArray.forEach((elem) => {console.log(elem.length);if(elem.length > max){max = elem.length}})
+	let max = Math.max(...inputArray.map(x => x.length));
+    
+    return inputArray.filter((elem) => (elem.length == max))
+}
+```
+
+# Check Similar array
+
+- a can be made into b with at most one swap
+
+```JS
+
 ```

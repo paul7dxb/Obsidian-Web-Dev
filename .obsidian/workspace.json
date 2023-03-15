@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "401c3705bd5075ff",
+        "id": "9916383ba6b1f096",
         "type": "tabs",
         "children": [
           {
-            "id": "5c1cdf4026dcf73e",
+            "id": "196998dec6239d59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React.js/Udemy React Course/13 - TypeScript React/53 - Context.md",
+                "file": "Algorthms/Backtracking/Backtracking Algorithm.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "03243454cf79ce9f",
+            "id": "b9d4a4f35ef186ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Future Study.md",
+                "file": "JS/Strings.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "node",
+                "query": "createpor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Future Study.md",
+                "file": "JS/Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Future Study.md",
+                "file": "JS/Strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Future Study.md"
+                "file": "JS/Strings.md"
               }
             }
           }
@@ -159,49 +159,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03243454cf79ce9f",
+  "active": "b9d4a4f35ef186ae",
   "lastOpenFiles": [
+    "Algorthms/Linked Lists/Linked List Challenges.md",
+    "Algorthms/Linked Lists/Linked List Methods.md",
+    "Algorthms/Arrays/Arrays Challenges.md",
+    "Algorthms/Arrays/Arrays.md",
+    "Algorthms/Sets/Sets Methods.md",
+    "Algorthms/Arrays/Arrays Methods.md",
+    "Algorthms/Sets/Sets Challenges.md",
+    "Algorthms/Backtracking/Backtracking Challenges.md",
+    "Algorthms/Backtracking/Backtracking Algorithm.md",
+    "Algorthms/Backtracking/Backtracking.md",
+    "JS/Strings.md",
+    "JS/Array Functions.md",
+    "Algorthms/Backtracking",
+    "Algorthms/Trees/Trees Challanges.md",
+    "Computer Science/Combinations.md",
+    "Algorthms/Dynamic Programming/Dynamic Programming Challenges.md",
+    "Algorthms/Dynamic Programming/Dynamic Programming.md",
+    "Algorthms/Dynamic Programming",
+    "Computer Science",
+    "Algorthms/Trees/Trees.md",
+    "Algorthms/Trees",
+    "Algorthms/Sets",
+    "Algorthms/Arrays",
+    "Algorthms/Hash , Key Value Pair.md",
+    "Algorthms/Linked Lists/Linked List.md",
+    "Algorthms/Linked Lists",
+    "Future Study.md",
+    "React.js/Custom Components/Modal/Modal.md",
+    "React.js/Udemy React Course/2 - Hooks/5 - Fragment, Portal, Refs.md",
     "React.js/Udemy React Course/13 - TypeScript React/54 - tsconfig.json.md",
     "React.js/Udemy React Course/13 - TypeScript React/53 - Context.md",
     "React.js/Udemy React Course/13 - TypeScript React/52 - Function Props.md",
     "React.js/Udemy React Course/13 - TypeScript React/51 - TypeScript Form.md",
-    "React.js/Udemy React Course/13 - TypeScript React/50 - Data Models.md",
-    "React.js/Udemy React Course/13 - TypeScript React/49 - Working with props.md",
-    "React.js/LinkedIn Learning/2 - Hooks.md",
-    "React.js/Udemy React Course/13 - TypeScript React/48 - TypeScript React.md",
-    "SVG/Path.md",
-    "SVG/SVG Path.md",
-    "Notes.md",
-    "Random Links.md",
-    "README.md",
-    "Gmail App Password.md",
-    "JS/Algorthms/Arrays.md",
-    "NPM/Updating Packages.md",
     "NPM",
     "React.js/Udemy React Course/13 - TypeScript React",
-    "TypeScript/4 - Generics.md",
     "Z - Images/TypeScript_Generics.png",
-    "TypeScript/3 - Functions.md",
     "Z - Images/React/React_Types_Of_Test.png",
     "Z - Images/TypeScript_Function_Inferred.png",
-    "TypeScript/2 - Types.md",
-    "TypeScript/1 - TypeScript.md",
-    "JS/Array Functions.md",
-    "JS/Algorthms",
-    "React.js/Udemy React Course/12 - Testing/43 - Testing.md",
-    "React.js/2 - Setup.md",
-    "TypeScript",
-    "React.js/Udemy React Course/12 - Testing/47 - Asynchronous Testing.md",
-    "React.js/Udemy React Course/12 - Testing/45 - Make a Test.md",
-    "React.js/Udemy React Course/12 - Testing/46 - Test Suites.md",
+    "Algorthms",
     "Z - Images/React/React_Three_As_Of_Testing.png",
     "Z - Images/React/React_Types_Of_Testing.png",
-    "React.js/Udemy React Course/12 - Testing",
-    "React.js/Udemy React Course/11 - Replacing Redux",
-    "React.js/External Pacakages/ReactTransitionGroup",
-    "React.js/External Pacakages",
-    "React.js/Udemy React Course/10 - Animations",
-    "React.js/Udemy React Course/8 - Optimisation",
     "Z - Images/NextJS_Parameter_File_Name.png",
     "Z - Images/NextJS_Pre_Rendering.png",
     "Z - Images/NextJS_Routing.png"
