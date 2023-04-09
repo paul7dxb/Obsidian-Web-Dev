@@ -1,6 +1,8 @@
 
 # Methods
 
+![[JS_Array_Methods_Cheatsheet.jpeg]]
+
 # Sort Array
 
 ```JS

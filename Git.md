@@ -16,6 +16,8 @@ __pycache__/
 
 Swith back to master and then merge from other branch
 
+[VSCode merge back to main](https://stackoverflow.com/questions/61755744/git-how-to-merge-feature-branch-into-master-using-vs-code-source-control)
+
 # Restoring
 
 ```bash

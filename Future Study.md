@@ -29,6 +29,9 @@
 - React native
 	- Framework for react to build mobile apps with react
 
+- PrimeReact
+	- 
+
 ## JS Animation
 
 - GSAP
@@ -49,3 +52,11 @@
 		- Monitor github to trigger and build
 		- Deploy code
 		- Send notifications of process
+
+# GraphQL
+
+# Scala
+
+# Containerisation
+
+waterfall -> agile

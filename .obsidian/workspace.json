@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9916383ba6b1f096",
+        "id": "f5b3234d109da2be",
         "type": "tabs",
         "children": [
           {
-            "id": "196998dec6239d59",
+            "id": "7c2a9523a12754c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorthms/Backtracking/Backtracking Algorithm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9d4a4f35ef186ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/Strings.md",
+                "file": "Deployments/Netlify/DNS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "createpor",
+                "query": "latest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Strings.md",
+                "file": "Deployments/Netlify/DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Strings.md",
+                "file": "Deployments/Netlify/DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/Strings.md"
+                "file": "Deployments/Netlify/DNS.md"
               }
             }
           }
@@ -159,47 +146,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9d4a4f35ef186ae",
+  "active": "7c2a9523a12754c8",
   "lastOpenFiles": [
-    "Algorthms/Linked Lists/Linked List Challenges.md",
-    "Algorthms/Linked Lists/Linked List Methods.md",
+    "Git.md",
+    "CSS/Text.md",
+    "CSS/Responsive.md",
+    "CSS/Images.md",
+    "Deployments/Netlify/DNS.md",
+    "Deployments/Netlify/Deploy React Application.md",
+    "HTML/Tags.md",
+    "HTML/Semantic Markup.md",
+    "React.js/Udemy React Course/9 - Authentication/36 - Validation Errors.md",
+    "React.js/Hooks.md",
+    "React.js/Udemy React Course/13 - TypeScript React/53 - Context.md",
+    "CSS/Global.md",
+    "CSS/Flex Box.md",
+    "React.js/LinkedIn Learning/3 - Forms.md",
+    "React.js/LinkedIn Learning/2 - Hooks.md",
+    "Future Study.md",
+    "React.js/LinkedIn Learning/7 - React Router.md",
+    "React.js/Udemy React Course/2 - Hooks/4 - React Styling.md",
+    "React.js/Custom Components/Card.md",
+    "JS/Objects.md",
+    "Algorthms/Arrays/Arrays Methods.md",
+    "Algorthms/Sets/Sets Methods.md",
+    "Algorthms/Sets/Sets Challenges.md",
+    "Algorthms/Sets/Sets.md",
     "Algorthms/Arrays/Arrays Challenges.md",
     "Algorthms/Arrays/Arrays.md",
-    "Algorthms/Sets/Sets Methods.md",
-    "Algorthms/Arrays/Arrays Methods.md",
-    "Algorthms/Sets/Sets Challenges.md",
-    "Algorthms/Backtracking/Backtracking Challenges.md",
-    "Algorthms/Backtracking/Backtracking Algorithm.md",
-    "Algorthms/Backtracking/Backtracking.md",
-    "JS/Strings.md",
-    "JS/Array Functions.md",
+    "Z - Images/DOM Manipulation Cheatsheet.jpeg",
+    "Libraries/ApexCharts",
+    "Z - Images/JS_Array_Methods_Cheatsheet.jpeg",
     "Algorthms/Backtracking",
-    "Algorthms/Trees/Trees Challanges.md",
-    "Computer Science/Combinations.md",
-    "Algorthms/Dynamic Programming/Dynamic Programming Challenges.md",
-    "Algorthms/Dynamic Programming/Dynamic Programming.md",
     "Algorthms/Dynamic Programming",
     "Computer Science",
-    "Algorthms/Trees/Trees.md",
     "Algorthms/Trees",
     "Algorthms/Sets",
     "Algorthms/Arrays",
-    "Algorthms/Hash , Key Value Pair.md",
-    "Algorthms/Linked Lists/Linked List.md",
     "Algorthms/Linked Lists",
-    "Future Study.md",
-    "React.js/Custom Components/Modal/Modal.md",
-    "React.js/Udemy React Course/2 - Hooks/5 - Fragment, Portal, Refs.md",
-    "React.js/Udemy React Course/13 - TypeScript React/54 - tsconfig.json.md",
-    "React.js/Udemy React Course/13 - TypeScript React/53 - Context.md",
-    "React.js/Udemy React Course/13 - TypeScript React/52 - Function Props.md",
-    "React.js/Udemy React Course/13 - TypeScript React/51 - TypeScript Form.md",
     "NPM",
     "React.js/Udemy React Course/13 - TypeScript React",
     "Z - Images/TypeScript_Generics.png",
     "Z - Images/React/React_Types_Of_Test.png",
     "Z - Images/TypeScript_Function_Inferred.png",
-    "Algorthms",
     "Z - Images/React/React_Three_As_Of_Testing.png",
     "Z - Images/React/React_Types_Of_Testing.png",
     "Z - Images/NextJS_Parameter_File_Name.png",

@@ -19,3 +19,12 @@ You can also write the equivalent:
     sendRequest
   }
 ```
+
+# Loop Through Array of objects
+
+```JS
+yourArray.forEach(function (arrayItem) {
+    var x = arrayItem.prop1 + 2;
+    console.log(x);
+})
+```

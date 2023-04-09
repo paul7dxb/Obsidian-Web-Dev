@@ -1,5 +1,6 @@
 - Used to create Single Page Applications (SPA)
-- [[React-Router|Main react-router notes]]
+- [[React-Router|Main react-router notes]] including installation
+
 - Example Projects:
 	- [Udemy Course Basics](https://github.com/paul7dxb/react-udemy-course/tree/master/react-router-basics)
 	- [Udemy Course Practice](https://github.com/paul7dxb/react-udemy-course/tree/master/react-router-practice)
