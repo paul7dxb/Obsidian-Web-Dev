@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "647476b8dadb5e57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Future Study.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af0484efee799a64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deployments/AWS/Elements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deployments/Netlify/DNS.md",
+                "file": "Deployments/AWS/Elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deployments/Netlify/DNS.md",
+                "file": "Deployments/AWS/Elements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deployments/Netlify/DNS.md"
+                "file": "Deployments/AWS/Elements.md"
               }
             }
           }
@@ -146,13 +171,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c2a9523a12754c8",
+  "active": "af0484efee799a64",
   "lastOpenFiles": [
+    "Deployments/AWS/S3 Buckets.md",
+    "Deployments/AWS/Elements.md",
+    "Algorthms/Arrays/Arrays Challenges.md",
+    "Algorthms/Arrays/Arrays Methods.md",
+    "Computer Science/Combinations.md",
+    "Future Study.md",
+    "Deployments/Firebase Hosting/Static Hosting.md",
+    "Deployments/Firebase Hosting/Domain Linking.md",
+    "Deployments/Netlify/Commands.md",
+    "Deployments/Netlify/DNS.md",
     "Git.md",
     "CSS/Text.md",
     "CSS/Responsive.md",
     "CSS/Images.md",
-    "Deployments/Netlify/DNS.md",
     "Deployments/Netlify/Deploy React Application.md",
     "HTML/Tags.md",
     "HTML/Semantic Markup.md",
@@ -163,17 +197,8 @@
     "CSS/Flex Box.md",
     "React.js/LinkedIn Learning/3 - Forms.md",
     "React.js/LinkedIn Learning/2 - Hooks.md",
-    "Future Study.md",
     "React.js/LinkedIn Learning/7 - React Router.md",
     "React.js/Udemy React Course/2 - Hooks/4 - React Styling.md",
-    "React.js/Custom Components/Card.md",
-    "JS/Objects.md",
-    "Algorthms/Arrays/Arrays Methods.md",
-    "Algorthms/Sets/Sets Methods.md",
-    "Algorthms/Sets/Sets Challenges.md",
-    "Algorthms/Sets/Sets.md",
-    "Algorthms/Arrays/Arrays Challenges.md",
-    "Algorthms/Arrays/Arrays.md",
     "Z - Images/DOM Manipulation Cheatsheet.jpeg",
     "Libraries/ApexCharts",
     "Z - Images/JS_Array_Methods_Cheatsheet.jpeg",

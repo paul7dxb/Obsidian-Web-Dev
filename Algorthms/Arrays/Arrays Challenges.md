@@ -217,3 +217,12 @@ function solution(inputArray) {
 ```JS
 
 ```
+
+
+# Array of Numbers into Ascending Order
+
+```JS
+// Sort numerically because default is lexicographical sort:
+[3, 8, -10, 23, 19, -4, -14, 27].sort((a,b)=>a-b)
+// Output: Array(8)  [ -14, -10, -4, 3, 8, 19, 23, 27 ]
+```

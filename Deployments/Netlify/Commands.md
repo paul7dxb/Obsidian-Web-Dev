@@ -1,0 +1,1 @@
+[Import environment variables](https://cli.netlify.com/commands/env#envimport) with `netlify env:import .env`.

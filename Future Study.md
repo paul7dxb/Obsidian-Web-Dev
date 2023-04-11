@@ -13,6 +13,9 @@
 
 - A noSQL database
 
+- GraphQL
+	- Make one api call to get the data you want
+
 # React
 
 - React spring: animation
@@ -58,5 +61,3 @@
 # Scala
 
 # Containerisation
-
-waterfall -> agile
