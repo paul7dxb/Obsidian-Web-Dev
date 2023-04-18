@@ -1,0 +1,43 @@
+# Ports
+- 21 FTP
+- 22 SSH
+- 22 SFTP
+- 3389 RDP
+
+
+# EC2 Purchasing
+
+- On demand
+	- Pay by the second
+	- Short workloads
+	- Highest cost but no upfront
+- Reserved Instances (1 & 3 years)
+	- For long workloads
+	- Reserve Instance type
+	- Payment options (no upfront, partial, all upfront)
+	- Convertible Reserved Instances
+		- Allow to change over time
+- Saving Plan (1 & 3 years)
+	- Commit to amount of usage instead of instance type
+	- Locked to instance type in a region
+	- Can vary instance size
+- Spot Instances
+	- Short workloads, cheap but can lose instances
+	- Define a spot price to work at. If it goes over you lose the instance
+	- Most cost efficient
+- Dedicated Hosts
+	- Entire physical server 
+	- Most expensive
+	- Used with specific BYOL (bring your own license)
+	- Meeting compliances
+- Deicated Instances
+	- Own instance on own hardware
+- Capacity Reservations
+	- Reserve on demand instances in a specific AZ for any duration
+	- No discount, only to make sure you get the capacity
+	- Charged by running instances or not
+
+![[AWS_Dedicated_Host_Vs_Instance.png]]
+
+- Hotel analogy
+![[AWS_Hotel_Analogy.png]]

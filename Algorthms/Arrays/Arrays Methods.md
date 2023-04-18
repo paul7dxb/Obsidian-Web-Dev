@@ -78,3 +78,56 @@ console.log(array.some(even));
 // Expected output: true
 
 ```
+
+
+# reduce()
+
+- callback function on each element of the array
+- In order passing return value from last element
+
+```JS
+const array1 = [1, 2, 3, 4];
+
+// 0 + 1 + 2 + 3 + 4
+const initialValue = 0;
+const sumWithInitial = array1.reduce(
+  (accumulator, currentValue) => accumulator + currentValue,
+  initialValue
+);
+
+console.log(sumWithInitial);
+// Expected output: 10
+```
+
+
+# Find if Array in another Array
+
+- Use JSON.stringify() to the be able to find the "string" array in the other
+- [SO Link](https://stackoverflow.com/questions/19543514/check-whether-an-array-exists-in-an-array-of-arrays)
+
+```JS
+ var a = [ [1,2] , [3,4] ];
+ var b = [1,2];
+ a = JSON.stringify(a);
+ b = JSON.stringify(b);
+
+//then you can do just an indexOf() to check if it is present
+
+var c = a.indexOf(b);
+if(c != -1){
+    console.log('element present');
+}
+
+```
+
+
+# filter()
+
+- return new array with elements that meet condition
+- Can use the element, index
+
+```JS
+function solution(inputArray, k) {
+    return inputArray.filter((elem,index) => ((index + 1) % k) )
+}
+```

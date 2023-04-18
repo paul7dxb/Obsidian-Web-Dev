@@ -1,3 +1,6 @@
+
+
+
 # Topics
 
 - Unit testing
@@ -34,6 +37,13 @@
 
 - PrimeReact
 	- 
+
+- SWR
+	- Cached data shows on page navigation while new fetch is made (list -> details transition) (next page -> previous page with cached data)
+	- Refetching data that fails
+	- Recognises replication of fetched data
+	- Avoid race features in useEffect
+	- Revalidation when clicking back to window
 
 ## JS Animation
 

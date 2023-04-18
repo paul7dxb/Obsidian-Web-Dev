@@ -21,6 +21,11 @@ Check Version:
 
 node -v
 npm -v
+```
+
+# Create New Project
+
+``` bash
 npx create-react-app react-app
 ```
 

@@ -1,4 +1,4 @@
-Install with [[2 - Setup#React Router Installation]]]
+Install with [[Frameworks - React.js/2 - Setup#React Router Installation]]]
 
 - Moving between components within a single page application
 - Move from page to page by displaying different components

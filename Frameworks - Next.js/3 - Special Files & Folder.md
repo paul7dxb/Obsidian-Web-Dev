@@ -1,0 +1,3 @@
+- Images are stored in the public folder
+	- Served statically by Nextjs as part of overall application
+	- So you can reference it easily

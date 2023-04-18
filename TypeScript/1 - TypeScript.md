@@ -13,7 +13,7 @@
 
 # Installation
 
-- Requires Node.js to be [[2 - Setup#Install Node.js|installed]]
+- Requires Node.js to be [[Frameworks - React.js/2 - Setup#Install Node.js|installed]]
 
 ```bash
 npm init -y

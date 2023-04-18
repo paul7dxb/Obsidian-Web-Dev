@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f5b3234d109da2be",
+        "id": "d0ef5dd181f51af8",
         "type": "tabs",
         "children": [
           {
-            "id": "7c2a9523a12754c8",
+            "id": "1e6e017cf087df34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deployments/Netlify/DNS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "647476b8dadb5e57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Future Study.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af0484efee799a64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deployments/AWS/Elements.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "latest",
+                "query": "useref",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deployments/AWS/Elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deployments/AWS/Elements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Deployments/AWS/Elements.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,53 +138,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af0484efee799a64",
+  "active": "1e6e017cf087df34",
   "lastOpenFiles": [
-    "Deployments/AWS/S3 Buckets.md",
-    "Deployments/AWS/Elements.md",
-    "Algorthms/Arrays/Arrays Challenges.md",
+    "JS/Classes.md",
+    "Algorthms/Regex/Regex.md",
+    "Algorthms/Regex/Regex Examples.md",
     "Algorthms/Arrays/Arrays Methods.md",
-    "Computer Science/Combinations.md",
+    "Algorthms/Regex",
+    "Frameworks - Next.js/Hooks/useRouter.md",
+    "Frameworks - Next.js/Udemy Course/1 - Routing/1 - Routing.md",
+    "Frameworks - React.js/LinkedIn Learning/2 - Hooks.md",
+    "Frameworks - React.js/Hooks.md",
+    "Frameworks - Next.js/2 - Setup.md",
+    "Frameworks - Next.js/3 - Special Files & Folder.md",
+    "Frameworks - Next.js/1 - Next.js.md",
+    "Deployments/AWS/AWS Developer/4 - IAM & CLI/6 - EC2 Storage.md",
+    "Deployments/AWS/AWS Developer/4 - IAM & CLI/5 - EC2 Fundamentals.md",
+    "Deployments/AWS/AWS Developer/4 - IAM & CLI/0 - Misc Exam Essentials.md",
+    "Deployments/AWS/AWS Developer/4 - IAM & CLI/6 - EC2 Storage",
+    "Z - Images/AWS_Dedicated_Host_Vs_Instance.png",
+    "Z - Images/AWS_Hotel_Analogy.png",
+    "Deployments/AWS/AWS Developer/4 - IAM & CLI/2 - CLI.md",
+    "Deployments/AWS/AWS Developer/4 - IAM & CLI/1 - IAM.md",
+    "JS/Strings.md",
+    "Z - Images/JS_String_Methods.png",
     "Future Study.md",
-    "Deployments/Firebase Hosting/Static Hosting.md",
-    "Deployments/Firebase Hosting/Domain Linking.md",
-    "Deployments/Netlify/Commands.md",
-    "Deployments/Netlify/DNS.md",
-    "Git.md",
-    "CSS/Text.md",
-    "CSS/Responsive.md",
-    "CSS/Images.md",
-    "Deployments/Netlify/Deploy React Application.md",
-    "HTML/Tags.md",
-    "HTML/Semantic Markup.md",
-    "React.js/Udemy React Course/9 - Authentication/36 - Validation Errors.md",
-    "React.js/Hooks.md",
-    "React.js/Udemy React Course/13 - TypeScript React/53 - Context.md",
-    "CSS/Global.md",
-    "CSS/Flex Box.md",
-    "React.js/LinkedIn Learning/3 - Forms.md",
-    "React.js/LinkedIn Learning/2 - Hooks.md",
-    "React.js/LinkedIn Learning/7 - React Router.md",
-    "React.js/Udemy React Course/2 - Hooks/4 - React Styling.md",
-    "Z - Images/DOM Manipulation Cheatsheet.jpeg",
-    "Libraries/ApexCharts",
-    "Z - Images/JS_Array_Methods_Cheatsheet.jpeg",
-    "Algorthms/Backtracking",
-    "Algorthms/Dynamic Programming",
-    "Computer Science",
-    "Algorthms/Trees",
-    "Algorthms/Sets",
-    "Algorthms/Arrays",
-    "Algorthms/Linked Lists",
-    "NPM",
-    "React.js/Udemy React Course/13 - TypeScript React",
-    "Z - Images/TypeScript_Generics.png",
-    "Z - Images/React/React_Types_Of_Test.png",
-    "Z - Images/TypeScript_Function_Inferred.png",
-    "Z - Images/React/React_Three_As_Of_Testing.png",
-    "Z - Images/React/React_Types_Of_Testing.png",
-    "Z - Images/NextJS_Parameter_File_Name.png",
-    "Z - Images/NextJS_Pre_Rendering.png",
-    "Z - Images/NextJS_Routing.png"
+    "Deployments/AWS/AWS Developer/4 - IAM & CLI/5 - EC2 Fundamentals",
+    "Z - Images/Next_JS_Slug_Multiple.png",
+    "Z - Images/NextJS_Slug.png",
+    "Z - Images/NextJS_Route_Structure_VSCode.png",
+    "Z - Images/NextJS_useRouter_Properties.png",
+    "Frameworks - Next.js/Hooks",
+    "Z - Images/Firebase/Image_Firebase_DB_Structure.png",
+    "Z - Images/NextJS/NextJS_Routing.png",
+    "Z - Images/Firebase",
+    "Z - Images/Next_JS_Routes.png",
+    "Z - Images/NextJS",
+    "Algorthms/Arrays/Arrays Challenges.md",
+    "Networking/HTTP responses.md",
+    "Single Page Applications.md",
+    "API/API.md",
+    "Z - Images/AWS",
+    "Deployments/AWS/AWS Developer/4 - IAM & CLI/4 - IAM Security.md",
+    "Deployments/AWS/AWS Developer/4 - IAM & CLI/3 - Cloudshell.md",
+    "Deployments/AWS/CLI Commands.md",
+    "Deployments/AWS/AWS Developer/4 - CLI/Untitled.md",
+    "Deployments/AWS/AWS Developer/4 - IAM & CLI",
+    "Deployments/AWS/AWS Developer",
+    "Frameworks - Next.js/Udemy Course/1 - Routing"
   ]
 }

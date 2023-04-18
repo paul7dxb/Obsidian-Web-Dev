@@ -1,5 +1,7 @@
 # Methods
 
+![[JS_String_Methods.png]]
+
 ## Looping through string
 
 ```JS
@@ -51,4 +53,23 @@ slice(indexStart)
 slice(indexStart, indexEnd)
 
 slice(-i) //Last i elements
+```
+
+# Strings to Ascii Conversions
+
+```JS
+function solution(inputString) {
+    
+    solString = ''
+
+for(let i = 0; i < inputString.length; i++){
+    letter = inputString[i]
+    console.log(letter)
+    asciiNum = letter.charCodeAt(0)
+
+    solString += String.fromCharCode(asciiNum)
+    
+}
+return solString
+}
 ```

@@ -1,0 +1,4 @@
+- IAM Credentials Report
+	- List all user accounts and status of their credentials
+- IAM Access advisor
+	- Shows permissions and when they were last accesseed

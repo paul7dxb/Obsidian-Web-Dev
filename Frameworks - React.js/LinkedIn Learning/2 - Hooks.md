@@ -99,8 +99,18 @@ import { useRef } from "react";
 
 - Access through the current property
 ```JS
-const nameInputRef = useRef();
-const enteredValue = nameInputRef.current.value
+const monthInputRef = useRef();
+const enteredValue = monthInputRef.current.value
+```
+
+- Tied to an element like a dropdown
+
+```JSX
+<label htmlFor="month" >Month</label>
+<select id="month" ref={monthInputRef}>
+	<option value="1">January</option>
+	<option value="2">February</option>
+	...
 ```
 
 # Custom Hook

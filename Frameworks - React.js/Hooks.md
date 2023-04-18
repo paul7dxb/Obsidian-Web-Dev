@@ -27,3 +27,8 @@
 ## useSubmit()
 
 - Programmatically submit a form
+
+## useRef()
+
+- Often used in forms where two way binding is not needed
+- [[2 - Hooks#useRef Hook|useRef notes]]
