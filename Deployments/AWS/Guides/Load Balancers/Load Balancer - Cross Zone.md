@@ -1,0 +1,18 @@
+- [[7.1 - ELB#Cross Zone Load Balancing|Cross Zone Load Balancing Notes]]
+
+- ALB
+	- EC2
+	- Target Group for ALB
+		- Attirbutes
+		- Cross Zone Load Balancing
+		- Change from inherit to off
+	- Load Balancer
+	- Attributes
+	- Edit
+	- Cross Zone Load Balancing
+		- Can't be disabled here
+- GWLB / NLB
+	- Load Balancer
+	- Attributes
+	- Edit
+	- Cross Zone Load Balancing

@@ -73,3 +73,14 @@ for(let i = 0; i < inputString.length; i++){
 return solString
 }
 ```
+
+# Unique characters in a string
+
+- Use set
+- Unordered
+
+```JS
+function solution(s) {
+    return new Set(s).size  
+}
+```

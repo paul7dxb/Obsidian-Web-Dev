@@ -4,15 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d0ef5dd181f51af8",
+        "id": "72f3f43f86882c76",
         "type": "tabs",
         "children": [
           {
-            "id": "1e6e017cf087df34",
+            "id": "eb8d9856a6f06aec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Deployments/AWS/AWS Developer/11.1 - S3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5e6a05bd802bf2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deployments/AWS/Guides/S3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Deployments/AWS/AWS Developer/11.1 - S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Deployments/AWS/AWS Developer/11.1 - S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Deployments/AWS/AWS Developer/11.1 - S3.md"
+              }
             }
           }
         ]
@@ -138,53 +158,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e6e017cf087df34",
+  "active": "95b9748c49d17fbd",
   "lastOpenFiles": [
-    "JS/Classes.md",
-    "Algorthms/Regex/Regex.md",
-    "Algorthms/Regex/Regex Examples.md",
-    "Algorthms/Arrays/Arrays Methods.md",
-    "Algorthms/Regex",
-    "Frameworks - Next.js/Hooks/useRouter.md",
-    "Frameworks - Next.js/Udemy Course/1 - Routing/1 - Routing.md",
-    "Frameworks - React.js/LinkedIn Learning/2 - Hooks.md",
-    "Frameworks - React.js/Hooks.md",
-    "Frameworks - Next.js/2 - Setup.md",
-    "Frameworks - Next.js/3 - Special Files & Folder.md",
-    "Frameworks - Next.js/1 - Next.js.md",
-    "Deployments/AWS/AWS Developer/4 - IAM & CLI/6 - EC2 Storage.md",
-    "Deployments/AWS/AWS Developer/4 - IAM & CLI/5 - EC2 Fundamentals.md",
-    "Deployments/AWS/AWS Developer/4 - IAM & CLI/0 - Misc Exam Essentials.md",
-    "Deployments/AWS/AWS Developer/4 - IAM & CLI/6 - EC2 Storage",
-    "Z - Images/AWS_Dedicated_Host_Vs_Instance.png",
-    "Z - Images/AWS_Hotel_Analogy.png",
-    "Deployments/AWS/AWS Developer/4 - IAM & CLI/2 - CLI.md",
-    "Deployments/AWS/AWS Developer/4 - IAM & CLI/1 - IAM.md",
-    "JS/Strings.md",
-    "Z - Images/JS_String_Methods.png",
-    "Future Study.md",
-    "Deployments/AWS/AWS Developer/4 - IAM & CLI/5 - EC2 Fundamentals",
-    "Z - Images/Next_JS_Slug_Multiple.png",
-    "Z - Images/NextJS_Slug.png",
-    "Z - Images/NextJS_Route_Structure_VSCode.png",
-    "Z - Images/NextJS_useRouter_Properties.png",
-    "Frameworks - Next.js/Hooks",
-    "Z - Images/Firebase/Image_Firebase_DB_Structure.png",
-    "Z - Images/NextJS/NextJS_Routing.png",
-    "Z - Images/Firebase",
-    "Z - Images/Next_JS_Routes.png",
-    "Z - Images/NextJS",
-    "Algorthms/Arrays/Arrays Challenges.md",
-    "Networking/HTTP responses.md",
-    "Single Page Applications.md",
-    "API/API.md",
-    "Z - Images/AWS",
-    "Deployments/AWS/AWS Developer/4 - IAM & CLI/4 - IAM Security.md",
-    "Deployments/AWS/AWS Developer/4 - IAM & CLI/3 - Cloudshell.md",
+    "AWS_S3_Access_JSON.png",
+    "Deployments/AWS/Guides/S3.md",
+    "Deployments/AWS/AWS Developer/11.1 - S3.md",
+    "Deployments/AWS/AWS Developer/10.1 - VPC.md",
+    "Z - Images/AWS_3_Tier_Solution.png",
+    "Z - Images/AWS_Wordpress_Simplified.png",
+    "Deployments/AWS/AWS Developer/6 - EC2 Storage.md",
+    "Z - Images/AWS_VPC_Summary.png",
+    "Z - Images/AWS_VPC_Peering.png",
+    "Z - Images/AWS_VPC_Endpoints.png",
+    "AWS_VPC_Endpoints1.png",
+    "Z - Images/AWS_NACL.png",
+    "Z - Images/AWS_VPC.png",
+    "Z - Images/AWS_NAT_Gateway.png",
+    "Z - Images/AWS_VPB_Region.png",
+    "Deployments/AWS/Guides/Route 53 DNS.md",
+    "Deployments/AWS/AWS Developer/9.1 - Route 53.md",
+    "Deployments/AWS/AWS Developer/0 - Misc Exam Essentials.md",
+    "Deployments/AWS/AWS Developer/8.1 - RDS.md",
+    "Deployments/AWS/Guides/RDS.md",
+    "Deployments/AWS/AWS Developer/8.3 - Elasticache.md",
+    "Deployments/AWS/AWS Developer/8.2 - Aurora.md",
+    "Deployments/AWS/Guides/Elasticache.md",
+    "Deployments/AWS/Guides/EFS.md",
+    "Deployments/AWS/AWS Developer/7.2 - ASG.md",
+    "Database/SQL Electron.md",
+    "Deployments/AWS/Guides/Target Group.md",
+    "Database/Firebase.md",
+    "Database/MongoDB.md",
+    "Deployments/AWS/AWS Developer/7.1 - ELB.md",
+    "Deployments/AWS/Guides/Auto Scaling Groups.md",
     "Deployments/AWS/CLI Commands.md",
-    "Deployments/AWS/AWS Developer/4 - CLI/Untitled.md",
-    "Deployments/AWS/AWS Developer/4 - IAM & CLI",
-    "Deployments/AWS/AWS Developer",
-    "Frameworks - Next.js/Udemy Course/1 - Routing"
+    "Deployments/AWS/Guides/Load Balancers/Load Balancer - Certificates.md",
+    "Deployments/AWS/Guides/Load Balancers/Load Balancer - NLB.md",
+    "Deployments/AWS/Guides/Load Balancers",
+    "Deployments/AWS/Guides/Load Balancers/Load Balancer - Cross Zone.md",
+    "Deployments/AWS/Guides/Load Balancers/Load Balancer - ALB.md",
+    "Deployments/AWS/Guides",
+    "Algorthms/Regex",
+    "Deployments/AWS/AWS Developer/4 - IAM & CLI/6 - EC2 Storage",
+    "Deployments/AWS/AWS Developer/4 - IAM & CLI/5 - EC2 Fundamentals",
+    "Frameworks - Next.js/Hooks",
+    "Z - Images/Firebase",
+    "Z - Images/NextJS",
+    "Z - Images/AWS",
+    "Deployments/AWS/AWS Developer/4 - IAM & CLI"
   ]
 }

@@ -41,3 +41,12 @@
 
 - Hotel analogy
 ![[AWS_Hotel_Analogy.png]]
+
+
+# RDS
+
+- Read replica Asynchronous
+- Multi AZ synchronous
+
+- Elasticache Redis Cluster maximum 5 read replicas when cluster mode disabled
+

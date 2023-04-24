@@ -1,0 +1,8 @@
+- Go to load balancer (EC2)
+- Add listener
+- HTTPS
+- Forward
+- Select target group
+- Set security policy (negotiation of certificates)
+- Choose certificate
+	- ACM (AWS Certificate management)
