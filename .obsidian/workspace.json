@@ -8,30 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb8d9856a6f06aec",
+            "id": "436f629e32997a51",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Z - Images/AWS/AWS_S3_VPC_Acess_Point_Policy.png"
+              }
+            }
+          },
+          {
+            "id": "4317f25f69dbd783",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deployments/AWS/AWS Developer/11.1 - S3.md",
+                "file": "Deployments/AWS/AWS Developer/16.1 - Docker.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b5e6a05bd802bf2f",
+            "id": "6b5f1e67f67f7792",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deployments/AWS/Guides/S3.md",
+                "file": "Deployments/AWS/AWS Developer/16.1 - Docker.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deployments/AWS/AWS Developer/11.1 - S3.md",
+                "file": "Deployments/AWS/AWS Developer/16.1 - Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deployments/AWS/AWS Developer/11.1 - S3.md",
+                "file": "Deployments/AWS/AWS Developer/16.1 - Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deployments/AWS/AWS Developer/11.1 - S3.md"
+                "file": "Deployments/AWS/AWS Developer/16.1 - Docker.md"
               }
             }
           }
@@ -158,45 +169,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95b9748c49d17fbd",
+  "active": "6b5f1e67f67f7792",
   "lastOpenFiles": [
-    "AWS_S3_Access_JSON.png",
-    "Deployments/AWS/Guides/S3.md",
-    "Deployments/AWS/AWS Developer/11.1 - S3.md",
-    "Deployments/AWS/AWS Developer/10.1 - VPC.md",
-    "Z - Images/AWS_3_Tier_Solution.png",
-    "Z - Images/AWS_Wordpress_Simplified.png",
-    "Deployments/AWS/AWS Developer/6 - EC2 Storage.md",
-    "Z - Images/AWS_VPC_Summary.png",
-    "Z - Images/AWS_VPC_Peering.png",
-    "Z - Images/AWS_VPC_Endpoints.png",
-    "AWS_VPC_Endpoints1.png",
-    "Z - Images/AWS_NACL.png",
-    "Z - Images/AWS_VPC.png",
-    "Z - Images/AWS_NAT_Gateway.png",
-    "Z - Images/AWS_VPB_Region.png",
-    "Deployments/AWS/Guides/Route 53 DNS.md",
-    "Deployments/AWS/AWS Developer/9.1 - Route 53.md",
-    "Deployments/AWS/AWS Developer/0 - Misc Exam Essentials.md",
-    "Deployments/AWS/AWS Developer/8.1 - RDS.md",
-    "Deployments/AWS/Guides/RDS.md",
-    "Deployments/AWS/AWS Developer/8.3 - Elasticache.md",
-    "Deployments/AWS/AWS Developer/8.2 - Aurora.md",
-    "Deployments/AWS/Guides/Elasticache.md",
-    "Deployments/AWS/Guides/EFS.md",
-    "Deployments/AWS/AWS Developer/7.2 - ASG.md",
-    "Database/SQL Electron.md",
-    "Deployments/AWS/Guides/Target Group.md",
-    "Database/Firebase.md",
-    "Database/MongoDB.md",
-    "Deployments/AWS/AWS Developer/7.1 - ELB.md",
-    "Deployments/AWS/Guides/Auto Scaling Groups.md",
+    "Z - Images/Image_SVG_Cubic_Curve.png",
+    "Z - Images/Image_CSS_vmin_vmax.png",
+    "Z - Images/AWS_ECS_Environment_Vars.png",
+    "Deployments/AWS/AWS Developer/16.1 - Docker.md",
+    "Z - Images/AWS/AWS_ECS_S3_Event.png",
+    "Z - Images/AWS/AWS_ECS_IAM_Role.png",
+    "Z - Images/AWS/AWS_ECS_Event_Schedule.png",
+    "Z - Images/AWS/AWS_ECS_Rolling_Update.png",
+    "Deployments/AWS/Guides/Docker.md",
+    "Z - Images/AWS/AWS_Docker_VS_VM.png",
+    "Z - Images/AWS/AWS_S3_VPC_Acess_Point_Policy.png",
+    "Z - Images/AWS/AWS_CloudFront_Allow_IPs.png",
+    "Deployments/AWS/AWS Developer/15 - CloudFront.md",
+    "Deployments/AWS/Guides/CloudFront.md",
+    "Gmail App Password.md",
+    "Pasted image 20230426170230.png.md",
+    "Deployments/AWS/AWS Developer/14 - S3 Security.md",
+    "Deployments/AWS/Guides/S3/S3 Security.md",
+    "Deployments/AWS/AWS Developer/13 - Advanced S3.md",
+    "Deployments/AWS/Guides/S3/S3 Static Website.md",
     "Deployments/AWS/CLI Commands.md",
-    "Deployments/AWS/Guides/Load Balancers/Load Balancer - Certificates.md",
-    "Deployments/AWS/Guides/Load Balancers/Load Balancer - NLB.md",
+    "Deployments/AWS/AWS Developer/12.1 - CLI.md",
+    "Deployments/AWS/Guides/S3/S3 CORS.md",
+    "README.md",
+    "Deployments/AWS/Guides/S3",
+    "Deployments/AWS/AWS Developer/11.1 - S3.md",
+    "Deployments/AWS/Guides/S3/S3.md",
+    "Deployments/AWS/Guides/SQS.md",
+    "Deployments/AWS/S3 Buckets.md",
+    "Deployments/AWS/AWS Developer/12.2 - SDK.md",
+    "Deployments/AWS/AWS Developer/12.3 - Service Limits.md",
+    "Deployments/AWS/AWS Developer/12.4 - API Signing.md",
+    "Deployments/AWS/AWS Developer/Untitled 1.md",
+    "Deployments/AWS/AWS Developer/11.2 - S3 Static Website.md",
+    "Deployments/AWS/AWS Developer/10.1 - VPC.md",
+    "Deployments/AWS/AWS Developer/6 - EC2 Storage.md",
     "Deployments/AWS/Guides/Load Balancers",
-    "Deployments/AWS/Guides/Load Balancers/Load Balancer - Cross Zone.md",
-    "Deployments/AWS/Guides/Load Balancers/Load Balancer - ALB.md",
     "Deployments/AWS/Guides",
     "Algorthms/Regex",
     "Deployments/AWS/AWS Developer/4 - IAM & CLI/6 - EC2 Storage",
@@ -204,7 +215,6 @@
     "Frameworks - Next.js/Hooks",
     "Z - Images/Firebase",
     "Z - Images/NextJS",
-    "Z - Images/AWS",
-    "Deployments/AWS/AWS Developer/4 - IAM & CLI"
+    "Z - Images/AWS"
   ]
 }
