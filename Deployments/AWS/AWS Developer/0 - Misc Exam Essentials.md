@@ -50,3 +50,8 @@
 
 - Elasticache Redis Cluster maximum 5 read replicas when cluster mode disabled
 
+# 
+
+- You have a Classic ECS cluster that you want to enable IAM roles for your ECS tasks so that they can make API requests to AWS services. Which ECS configuration option should you enable in `/etc/ecs/ecs.config`?
+
+- `ECS_ENABLE_TASK_IAM_ROLE`

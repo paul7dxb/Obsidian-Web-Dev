@@ -72,4 +72,4 @@ def get_absolute_url(self):
 ```
 # Create related templates for classes to use
 
-![[Pasted image 20230104205959.png]]
+![[Image_blog_file_structure.png]]

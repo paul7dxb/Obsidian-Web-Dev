@@ -49,4 +49,13 @@
 	- Long running
 - Task
 	- Runs and terminates
-- 
+
+# Create Task Definition
+
+- ECS
+-  Task definitions
+- Create
+	- Essential Container
+		- If task stops whole task stops
+- Storage
+	- Bind mount settings (Shared storage)
