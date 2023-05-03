@@ -55,3 +55,8 @@
 - You have a Classic ECS cluster that you want to enable IAM roles for your ECS tasks so that they can make API requests to AWS services. Which ECS configuration option should you enable in `/etc/ecs/ecs.config`?
 
 - `ECS_ENABLE_TASK_IAM_ROLE`
+
+# CloudWatch
+
+- CloudWatch Alarm set on a High-Resolution Custom Metric can be triggered as often as **10 seconds**
+- CloudWatch Logs, Log Retention Policy defined at **Log Groups** level.
