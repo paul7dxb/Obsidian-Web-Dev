@@ -26,3 +26,38 @@ aws lambda invoke --function-name demo-lambda --cli-binary-format raw-in-base64-
 # WINDOWS CMD
 aws lambda invoke --function-name demo-lambda --cli-binary-format raw-in-base64-out --payload "{""key1"":""value1"",""key2"":""value2"",""key3"":""value3""}" --invocation-type Event --region eu-west-1 response.json
 ```
+
+# Destinations
+
+- Create queues to be destinations
+	- e.g SQS
+- Lambda function
+	- Add destination with condition
+	- Permissions should be added to IAM role of the lambda function automatically
+		- Write to SQS queue with specified name
+
+# Lambda Environment Variables
+
+- Create lambda function
+- Import os
+```python
+import os
+
+def lambda_handler(event, context):
+    return os.getenv("ENVIRONMENT_NAME")
+```
+- Read in variable
+- Function configuration
+	- Environment variables
+	- Edit
+	- Add key value pair 
+		- (e.g ENVIRONMENT_NAME : dev)
+
+# Enable X Ray Tracing
+
+- Function
+- Configuration
+- Monitoring and operations tools
+- Edit
+	- Enable X-Ray tracing
+		- Permissions will add automatically (`AWSXRayDaemonWriteAccess`)
