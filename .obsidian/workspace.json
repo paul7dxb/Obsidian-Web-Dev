@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b7c52ce0da490f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deployments/AWS/Guides/Lambda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -154,18 +166,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45f9b25c4fd168d9",
+  "active": "95b9748c49d17fbd",
   "lastOpenFiles": [
+    "AWS_Lambda_connecitons.png",
+    "Deployments/AWS/Guides/Lambda.md",
+    "Deployments/AWS/AWS Developer/Serverless/22.0 - Lambda.md",
     "Future Study.md",
     "Z - Images/AWS/AWS_CloudFront_Lambda.png",
     "Z - Images/AWS/AWS_Lambda_SQS.png",
-    "Deployments/AWS/AWS Developer/Serverless/22.0 - Lambda.md",
     "Z - Images/AWS/AWS_Lambda_Private_And_Internet.png",
     "Z - Images/AWS/AWS_Lambda_ENI.png",
     "Z - Images/AWS/AWS_Lambda_Def_Access.png",
     "Z - Images/AWS/AWS_Lambda_CloudFront_Uses.png",
     "Z - Images/AWS/AWS_Lambda_Cloudfront_Func_Vs_Edge.png",
-    "Deployments/AWS/Guides/Lambda.md",
     "Z - Images/AWS/AWS_Lambda_Event_Context_Data.png",
     "Z - Images/AWS/AWS_Lambda_event_and_context.png",
     "Z - Images/AWS/AWS_Lambda_Parallel_Shard_Processing.png",
@@ -195,7 +208,6 @@
     "Deployments/AWS/AWS Developer/CloudFormation",
     "Deployments/AWS/AWS Developer/CloudFormation/19.1 - CloudFormation.md",
     "Deployments/AWS/AWS Developer/AWS Infrastructure/6 - EC2 Storage.md",
-    "Deployments/AWS/AWS Developer/AWS Infrastructure/5 - EC2 Fundamentals.md",
     "Deployments/AWS/Guides/CICD",
     "Deployments/AWS/AWS Developer/AWS Infrastructure",
     "Deployments/AWS/Guides/S3",

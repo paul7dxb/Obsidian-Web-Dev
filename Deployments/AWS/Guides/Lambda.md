@@ -61,3 +61,27 @@ def lambda_handler(event, context):
 - Edit
 	- Enable X-Ray tracing
 		- Permissions will add automatically (`AWSXRayDaemonWriteAccess`)
+
+# Create Security Group For Lambda function In VPC
+
+## Create Security Group for Lambda
+- EC2
+- Security Group
+- Create security Group
+
+### Give Permissions to function to 
+- Lambda
+- Configuration
+- Permissions
+- ROle
+- Add permissions
+- Add policy
+- `## AWSLambdaENIManagementAccess`
+
+## Add Functions to VPC
+- Lambda
+- VPC
+- Edit
+- Choose subnet
+- Use created security group
+- 
