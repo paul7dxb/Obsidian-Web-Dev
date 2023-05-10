@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "45f9b25c4fd168d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deployments/AWS/AWS Developer/Serverless/22.0 - Lambda.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9b7c52ce0da490f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deployments/AWS/Guides/Lambda.md",
+                "file": "Deployments/AWS/AWS Developer/Serverless/DynamoDB/23.1 - DynamoDB - Basic Operations.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deployments/AWS/AWS Developer/Serverless/22.0 - Lambda.md",
+                "file": "Deployments/AWS/AWS Developer/Serverless/DynamoDB/23.1 - DynamoDB - Basic Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deployments/AWS/AWS Developer/Serverless/22.0 - Lambda.md",
+                "file": "Deployments/AWS/AWS Developer/Serverless/DynamoDB/23.1 - DynamoDB - Basic Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deployments/AWS/AWS Developer/Serverless/22.0 - Lambda.md"
+                "file": "Deployments/AWS/AWS Developer/Serverless/DynamoDB/23.1 - DynamoDB - Basic Operations.md"
               }
             }
           }
@@ -166,22 +154,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95b9748c49d17fbd",
+  "active": "9b7c52ce0da490f0",
   "lastOpenFiles": [
-    "AWS_Lambda_connecitons.png",
+    "Deployments/AWS/AWS Developer/Serverless/DynamoDB/23.0 - DynamoDB.md",
+    "Z - Images/AWS/AWS_DynamoDB_Write_Types.png",
+    "Z - Images/AWS/AWS_DynamoDB_Fine_Grained_Access.png",
+    "Z - Images/AWS/AWS_DynamoDB_User_Access.png",
+    "Z - Images/AWS/AWS_DynamoDB_DataPipeline.png",
+    "Deployments/AWS/AWS Developer/Serverless/DynamoDB/23.1 - DynamoDB - Basic Operations.md",
+    "Deployments/AWS/AWS Developer/Serverless/DynamoDB/23.4 - DynamoDB - Solutions.md",
+    "Z - Images/AWS/AWS_DynamoDB_S3_Lambda_Metadata.png",
+    "Z - Images/AWS/AWS_DynamoDB_S3_Storage.png",
+    "Z - Images/AWS/AWS_DynamoDB_Write_Sharding.png",
+    "Z - Images/AWS/AWS_DynamoDB_Transactional_Example.png",
+    "Deployments/AWS/Guides/DynamoDB.md",
+    "Deployments/AWS/CLI Commands.md",
+    "Deployments/AWS/AWS Developer/Serverless/DynamoDB/23.3 - DynamoDB - Streams.md",
     "Deployments/AWS/Guides/Lambda.md",
-    "Deployments/AWS/AWS Developer/Serverless/22.0 - Lambda.md",
+    "Deployments/AWS/AWS Developer/Serverless/Lambda",
+    "Z - Images/AWS/AWS_DynamoDB_Streams_Lambda.png",
+    "Z - Images/AWS/AWS_DynamoDB_Streams_Architecture.png",
+    "Deployments/AWS/AWS Developer/Serverless/DynamoDB/23.2 - DynamoDB - DAX.md",
+    "Deployments/AWS/AWS Developer/Serverless/DynamoDB",
+    "Deployments/AWS/AWS Developer/Serverless/Lambda/22.0 - Lambda.md",
     "Future Study.md",
-    "Z - Images/AWS/AWS_CloudFront_Lambda.png",
-    "Z - Images/AWS/AWS_Lambda_SQS.png",
-    "Z - Images/AWS/AWS_Lambda_Private_And_Internet.png",
-    "Z - Images/AWS/AWS_Lambda_ENI.png",
-    "Z - Images/AWS/AWS_Lambda_Def_Access.png",
-    "Z - Images/AWS/AWS_Lambda_CloudFront_Uses.png",
-    "Z - Images/AWS/AWS_Lambda_Cloudfront_Func_Vs_Edge.png",
-    "Z - Images/AWS/AWS_Lambda_Event_Context_Data.png",
-    "Z - Images/AWS/AWS_Lambda_event_and_context.png",
-    "Z - Images/AWS/AWS_Lambda_Parallel_Shard_Processing.png",
     "Deployments/AWS/AWS Developer/AWS Infrastructure/7.1 - ELB.md",
     "Deployments/AWS/AWS Developer/Exam Feedbacks.md",
     "Deployments/AWS/AWS Developer/Serverless",
@@ -199,20 +195,11 @@
     "Deployments/AWS/AWS Developer/Monitoring",
     "Deployments/AWS/AWS Developer/Monitoring/20.1 - CloudWatch.md",
     "Deployments/AWS/AWS Developer/Monitoring/20.4 - CloudTrail.md",
-    "Deployments/AWS/AWS Developer/Monitoring/20.3 - X-Ray.md",
-    "Deployments/AWS/Guides/X-Ray.md",
-    "Deployments/AWS/AWS Developer/Monitoring/20.2 - Amazon EventBridge.md",
-    "Deployments/AWS/AWS Developer/CloudFormation/19.2 - CloudFormation Intrinsic Funcs.md",
-    "Deployments/AWS/AWS Developer/CICD/17.1 - Elastic Beanstalk.md",
     "Deployments/AWS/AWS Developer/CICD",
     "Deployments/AWS/AWS Developer/CloudFormation",
-    "Deployments/AWS/AWS Developer/CloudFormation/19.1 - CloudFormation.md",
-    "Deployments/AWS/AWS Developer/AWS Infrastructure/6 - EC2 Storage.md",
     "Deployments/AWS/Guides/CICD",
     "Deployments/AWS/AWS Developer/AWS Infrastructure",
     "Deployments/AWS/Guides/S3",
-    "Deployments/AWS/Guides/Load Balancers",
-    "Deployments/AWS/Guides",
-    "Algorthms/Regex"
+    "Deployments/AWS/Guides/Load Balancers"
   ]
 }

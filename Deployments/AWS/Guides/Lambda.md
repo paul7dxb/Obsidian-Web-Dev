@@ -1,3 +1,5 @@
+- [[22.0 - Lambda|Lambda Notes]]
+
 # CLI Invoke Lambda synchronous function
 
 ```bash
@@ -84,4 +86,23 @@ def lambda_handler(event, context):
 - Edit
 - Choose subnet
 - Use created security group
-- 
+
+# Add Lambda Layer
+
+- Function
+- Layers
+- Add Layer
+	- Choose package
+	- Call import in function code
+
+# Create Version
+
+- Lambda function
+- Action 
+- Publish new version
+
+# Create Alias
+
+- Create a version
+- Configuration
+- Create Alias

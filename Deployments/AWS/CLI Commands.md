@@ -51,3 +51,6 @@ eu-west-2
 - Switch between accounts
 	- Execute command using other account by adding `--profile other-aws-account`
 
+# DynamoDB CLI
+
+- [[DynamoDB#DynamoDB CLI|DynamoDB CLI commands]]
