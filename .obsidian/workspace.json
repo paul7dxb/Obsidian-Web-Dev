@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5c2faf9821c1eb48",
+        "id": "3fe31b02b5bdc0b8",
         "type": "tabs",
         "children": [
           {
-            "id": "9b7c52ce0da490f0",
+            "id": "f50e5e0aed5548c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deployments/AWS/AWS Developer/Serverless/DynamoDB/23.1 - DynamoDB - Basic Operations.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deployments/AWS/AWS Developer/Serverless/DynamoDB/23.1 - DynamoDB - Basic Operations.md",
+                "file": "Z - Images/AWS/AWS_CCDK_JS_Constructs.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deployments/AWS/AWS Developer/Serverless/DynamoDB/23.1 - DynamoDB - Basic Operations.md",
+                "file": "Z - Images/AWS/AWS_CCDK_JS_Constructs.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deployments/AWS/AWS Developer/Serverless/DynamoDB/23.1 - DynamoDB - Basic Operations.md"
+                "file": "Z - Images/AWS/AWS_CCDK_JS_Constructs.png"
               }
             }
           }
@@ -154,52 +150,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b7c52ce0da490f0",
+  "active": "95b9748c49d17fbd",
   "lastOpenFiles": [
-    "Deployments/AWS/AWS Developer/Serverless/DynamoDB/23.0 - DynamoDB.md",
-    "Z - Images/AWS/AWS_DynamoDB_Write_Types.png",
-    "Z - Images/AWS/AWS_DynamoDB_Fine_Grained_Access.png",
-    "Z - Images/AWS/AWS_DynamoDB_User_Access.png",
-    "Z - Images/AWS/AWS_DynamoDB_DataPipeline.png",
-    "Deployments/AWS/AWS Developer/Serverless/DynamoDB/23.1 - DynamoDB - Basic Operations.md",
-    "Deployments/AWS/AWS Developer/Serverless/DynamoDB/23.4 - DynamoDB - Solutions.md",
-    "Z - Images/AWS/AWS_DynamoDB_S3_Lambda_Metadata.png",
-    "Z - Images/AWS/AWS_DynamoDB_S3_Storage.png",
-    "Z - Images/AWS/AWS_DynamoDB_Write_Sharding.png",
-    "Z - Images/AWS/AWS_DynamoDB_Transactional_Example.png",
-    "Deployments/AWS/Guides/DynamoDB.md",
+    "Z - Images/AWS/AWS_SAM_SAR.png",
+    "Deployments/AWS/AWS Developer/Authentication/27.0 - Cognito.md",
+    "Z - Images/AWS/AWS_Cognito_Integration.png",
+    "Z - Images/AWS/AWS_Cognito_CUP.png",
+    "Deployments/AWS/AWS Developer/CDK/26.2 - CDK - Unit Testing.md",
+    "Deployments/AWS/AWS Developer/Authentication",
+    "Deployments/AWS/AWS Developer/CDK/26.0 - CDK.md",
+    "Z - Images/AWS/AWS_CDK_Bootstrap.png",
+    "Deployments/AWS/Guides/CDK.md",
+    "Deployments/AWS/AWS Developer/CDK/26.1 - CDK - Constructs.md",
+    "Deployments/AWS/Guides/Serverless/SAM.md",
     "Deployments/AWS/CLI Commands.md",
-    "Deployments/AWS/AWS Developer/Serverless/DynamoDB/23.3 - DynamoDB - Streams.md",
-    "Deployments/AWS/Guides/Lambda.md",
-    "Deployments/AWS/AWS Developer/Serverless/Lambda",
-    "Z - Images/AWS/AWS_DynamoDB_Streams_Lambda.png",
-    "Z - Images/AWS/AWS_DynamoDB_Streams_Architecture.png",
-    "Deployments/AWS/AWS Developer/Serverless/DynamoDB/23.2 - DynamoDB - DAX.md",
-    "Deployments/AWS/AWS Developer/Serverless/DynamoDB",
-    "Deployments/AWS/AWS Developer/Serverless/Lambda/22.0 - Lambda.md",
-    "Future Study.md",
-    "Deployments/AWS/AWS Developer/AWS Infrastructure/7.1 - ELB.md",
-    "Deployments/AWS/AWS Developer/Exam Feedbacks.md",
-    "Deployments/AWS/AWS Developer/Serverless",
-    "Deployments/AWS/AWS Developer/Javier Notes.md",
-    "Deployments/AWS/AWS Developer/21.4 - Kinesis.md",
-    "Deployments/AWS/AWS Developer/21.2 - SQS.md",
-    "Deployments/AWS/AWS Developer/21.3 - SNS.md",
-    "Deployments/AWS/AWS Developer/21.1 - Integration & Messaging.md",
-    "Deployments/AWS/Guides/Kinesis Data Stream.md",
-    "HTML/Semantic Markup.md",
-    "Deployments/AWS/Guides/SQS.md",
-    "Deployments/AWS/Guides/Untitled.md",
-    "Deployments/AWS/AWS Developer/Monitoring/20 - Monitoring.md",
+    "Z - Images/AWS/AWS_CDK_L3_Construct.png",
+    "Z - Images/AWS/AWS_CDK_L2_Construct.png",
+    "Z - Images/AWS/AWS_CDK_L1_Construct.png",
+    "Z - Images/AWS/AWS_CDK_SAM_Testing.png",
+    "Z - Images/AWS/AWS_CDK_Template_Flow.png",
+    "Z - Images/AWS/AWS_CCDK_JS_Constructs.png",
+    "Deployments/AWS/AWS Developer/AWS Infrastructure/16.4 - EKS.md",
+    "Deployments/AWS/AWS Developer/AWS Infrastructure/16.1 - Docker.md",
+    "Deployments/AWS/Guides/Serverless/SAR.md",
+    "Deployments/AWS/AWS Developer/CDK",
+    "Deployments/AWS/AWS Developer/Serverless/SAM/25.3 - SAM - SAR.md",
+    "Deployments/AWS/Guides/Serverless",
+    "Deployments/AWS/AWS Developer/Serverless/SAM/25.2 - SAM - Deployments.md",
+    "Deployments/AWS/AWS Developer/Serverless/SAM/25.0 - SAM.md",
+    "Deployments/AWS/AWS Developer/Serverless/SAM/25.1 - SAM - Local Capabilities.md",
     "Deployments/AWS/AWS Developer/0 - Misc Exam Essentials.md",
+    "Deployments/AWS/Elements.md",
+    "Deployments/AWS/S3 Buckets.md",
+    "Deployments/AWS/Guides/CoPilot.md",
+    "Deployments/AWS/Guides/CloudFront.md",
+    "Deployments/AWS/Guides/Beanstalk.md",
+    "Deployments/AWS/Guides/Auto Scaling Groups.md",
+    "Deployments/AWS/Guides/Untitled.md",
+    "Deployments/AWS/Guides/Serverless/API Gateway.md",
+    "Deployments/AWS/AWS Developer/Serverless/API Gateway/24.0 - API Gateway.md",
+    "Deployments/AWS/AWS Developer/Serverless/SAM",
+    "Deployments/AWS/AWS Developer/Serverless/API Gateway/24.4 - API GW - WebSocket.md",
+    "Deployments/AWS/AWS Developer/Serverless/API Gateway",
+    "Deployments/AWS/AWS Developer/Serverless/Lambda",
+    "Deployments/AWS/AWS Developer/Serverless/DynamoDB",
+    "Deployments/AWS/AWS Developer/Serverless",
     "Deployments/AWS/AWS Developer/Monitoring",
-    "Deployments/AWS/AWS Developer/Monitoring/20.1 - CloudWatch.md",
-    "Deployments/AWS/AWS Developer/Monitoring/20.4 - CloudTrail.md",
-    "Deployments/AWS/AWS Developer/CICD",
-    "Deployments/AWS/AWS Developer/CloudFormation",
-    "Deployments/AWS/Guides/CICD",
-    "Deployments/AWS/AWS Developer/AWS Infrastructure",
-    "Deployments/AWS/Guides/S3",
-    "Deployments/AWS/Guides/Load Balancers"
+    "Deployments/AWS/AWS Developer/CICD"
   ]
 }

@@ -51,6 +51,33 @@ eu-west-2
 - Switch between accounts
 	- Execute command using other account by adding `--profile other-aws-account`
 
+- List profiles
+```
+aws configure list-profiles
+```
+
+- Run command as other profile
+```bash
+aws s3 mb s3://<bucket-name> --profile default
+```
+
 # DynamoDB CLI
 
 - [[DynamoDB#DynamoDB CLI|DynamoDB CLI commands]]
+
+# S3 commands
+
+```bash
+# Create bucket
+aws s3 mb s3://<bucket-name> --profile default
+
+# Delete all files in bucket
+aws s3 rm s3://<your-bucket-name> --recursive
+```
+
+
+# Install nano
+
+```shell
+sudo yum install nano
+```

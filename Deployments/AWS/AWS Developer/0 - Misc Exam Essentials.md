@@ -60,3 +60,14 @@
 
 - CloudWatch Alarm set on a High-Resolution Custom Metric can be triggered as often as **10 seconds**
 - CloudWatch Logs, Log Retention Policy defined at **Log Groups** level.
+
+# SAM
+
+- SAM is built on CloudFormation  
+- SAM requires the Transform and Resources sections  
+- Commands to know:  
+- `sam build`: fetch dependencies and create local deployment artifacts  
+- `sam package`: package and upload to Amazon S3, generate CF template  
+- `sam deploy`: deploy to CloudFormation  
+- SAM Policy templates for easy IAM policy definition  
+- SAM is integrated with CodeDeploy to do deploy to Lambda aliases
