@@ -1,3 +1,11 @@
+# Udemy practice links
+
+- https://www.examtopics.com/
+- https://www.udemy.com/course/aws-certified-developer-associate-practice-exams-amazon-dva-c01/
+- https://www.knowledgehut.com/practice-tests/aws-certified-developer-associate
+- https://www.udemy.com/course/aws-certified-developer-associate-practice-tests-dva-c01/?data_h=BUAecVdUTHQ%3D&deal_code=NEWCOURSES_EMAIL150&utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.US&utm_content=deal4584&utm_term=_._ag_95911180068_._ad_436639626698_._kw__._de_c_._dm__._pl__._ti_dsa-841699837383_._li_9004939_._pd__._&matchtype=b&gclid=Cj0KCQiAvvKBBhCXARIsACTePW8HgIiZ7hJaXrBfqO_VcJU3v7KNgx4DI6EyjM6nt5MXTt0ybpkcTssaAss7EALw_wcB
+- 
+
 # Udemy1
 
 Got most of the questions (40+) from these topics:
