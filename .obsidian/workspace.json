@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deployments/AWS/AWS Developer/Security/30.0 - KMS.md",
+                "file": "Deployments/AWS/AWS Developer/AWS Infrastructure/1 - IAM.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deployments/AWS/AWS Developer/Security/30.0 - KMS.md",
+                "file": "Deployments/AWS/AWS Developer/AWS Infrastructure/1 - IAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deployments/AWS/AWS Developer/Security/30.0 - KMS.md",
+                "file": "Deployments/AWS/AWS Developer/AWS Infrastructure/1 - IAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deployments/AWS/AWS Developer/Security/30.0 - KMS.md"
+                "file": "Deployments/AWS/AWS Developer/AWS Infrastructure/1 - IAM.md"
               }
             }
           }
@@ -156,23 +156,35 @@
   },
   "active": "79ce67d7bcdd3026",
   "lastOpenFiles": [
-    "Z - Images/AWS/AWS_SSM_Tiers_Comparison.png",
-    "Deployments/AWS/AWS Developer/Security/30.0 - KMS.md",
-    "Z - Images/AWS/AWS_KMS_CloudWatch_Logs.png",
-    "Deployments/AWS/AWS Developer/Security/30.1 - KMS Security.md",
-    "Deployments/AWS/AWS Developer/Security/30.4 - Secrets Manager.md",
-    "Z - Images/AWS/AWS_SecM_SSM_Key_Rotation.png",
-    "Z - Images/AWS/AWS_SecM_CloudFormation_Dynamic_Ref.png",
-    "Z - Images/AWS/AWS_SecM_CloudFormation_RDS.png",
-    "Z - Images/AWS/AWS_SSM_Lambda_Example.png",
-    "Z - Images/AWS/AWS_SecM_Multi_Region.png",
-    "Deployments/AWS/AWS Developer/Security/30.3 - SSM Parameters.md",
-    "Deployments/AWS/AWS Developer/Authentication/27.1 - Cognito - User Pool.md",
-    "Pasted image 20230514194832.png",
-    "Z - Images/AWS/AWS_SSM_Allow_Path_Access.png",
     "Deployments/AWS/AWS Developer/0 - Misc Exam Essentials.md",
-    "Z - Images/AWS/AWS_SSM_Allow_Path_Access.png",
-    "Z - Images/AWS/AWS_SSM_EventBridge_Events.png",
+    "Deployments/AWS/AWS Developer/Exam Feedbacks.md",
+    "Deployments/AWS/AWS Developer/Javier Notes.md",
+    "Deployments/AWS/AWS Developer/CICD/31.7 - AppConfig.md",
+    "AWS_AppConfig_Connections.png",
+    "Deployments/AWS/AWS Developer/Security/31.6 - ACM - Certificate Manager.md",
+    "AWS_ACM_Private.png",
+    "Deployments/AWS/AWS Developer/Security/Untitled.md",
+    "Deployments/AWS/AWS Developer/31.5 - MSK.md",
+    "AWS_MSK_Consumers.png",
+    "AWS_MSK_Vs_Kinesis_Data_Streams.png",
+    "AWS_Apache_Kafka.png",
+    "Deployments/AWS/AWS Developer/Authentication/27.0 - Cognito.md",
+    "Deployments/AWS/AWS Developer/Authentication/27.2 - Cognito - Identity Pools.md",
+    "Deployments/AWS/AWS Developer/Authentication/27.1 - Cognito - User Pool.md",
+    "Deployments/AWS/AWS Developer/Serverless/API Gateway/24.2 - API GW - Security.md",
+    "Deployments/AWS/AWS Developer/Serverless/31.4 - Athena.md",
+    "AWS_Athena_partition.png",
+    "AWS_Athena.png",
+    "Deployments/AWS/AWS Developer/31.3 - OpenSearch.md",
+    "AWS_OpenSearch_CloudWatch_Logs.png",
+    "AWS_OpenSearch_Dynamo_DB_Flow.png",
+    "Deployments/AWS/AWS Developer/31.0 - SES.md",
+    "AWS_SES_Flow.png",
+    "Deployments/AWS/AWS Developer/Security/30.0 - KMS.md",
+    "Deployments/AWS/AWS Developer/Security/30.5 - Nitro Enclaves.md",
+    "Deployments/AWS/AWS Developer/Security/30.4 - Secrets Manager.md",
+    "Deployments/AWS/AWS Developer/Security/30.3 - SSM Parameters.md",
+    "Deployments/AWS/AWS Developer/Security/30.1 - KMS Security.md",
     "Deployments/AWS/AWS Developer/Security/30.2 - CloudHSM.md",
     "Deployments/AWS/AWS Developer/Authentication/29.1 - IAM.md",
     "Deployments/AWS/Guides/Lambda.md",
@@ -181,19 +193,7 @@
     "Deployments/AWS/AWS Developer/Authentication/29.0 - STS.md",
     "Deployments/AWS/AWS Developer/Serverless/28.2 - Amplify.md",
     "Deployments/AWS/AWS Developer/Serverless/28.1 - AppSync.md",
-    "Deployments/AWS/AWS Developer/Serverless/28.0 - Step Functions.md",
-    "Deployments/AWS/AWS Developer/Javier Notes.md",
-    "Deployments/AWS/AWS Developer/Authentication/27.2 - Cognito - Identity Pools.md",
-    "Deployments/AWS/AWS Developer/Exam Feedbacks.md",
-    "Gmail App Password.md",
-    "Deployments/AWS/AWS Developer/Authentication/27.3 - ALB Authentication.md",
-    "Deployments/AWS/AWS Developer/Authentication/27.0 - Cognito.md",
-    "Deployments/AWS/AWS Developer/CDK/26.2 - CDK - Unit Testing.md",
     "Deployments/AWS/AWS Developer/Authentication",
-    "Deployments/AWS/AWS Developer/CDK/26.0 - CDK.md",
-    "Deployments/AWS/Guides/CDK.md",
-    "Deployments/AWS/AWS Developer/CDK/26.1 - CDK - Constructs.md",
-    "Deployments/AWS/Guides/Serverless/SAM.md",
     "Deployments/AWS/AWS Developer/CDK",
     "Deployments/AWS/Guides/Serverless",
     "Deployments/AWS/AWS Developer/Serverless/SAM",

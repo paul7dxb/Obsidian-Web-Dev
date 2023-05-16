@@ -1,3 +1,11 @@
+https://aws.amazon.com/certification/certified-developer-associate/
+
+# Practice Exams
+
+- Free
+	- https://awslagi.com/course/aws-certified-developer-associate-dva-c02-practice-exam/lessons/aws-certified-developer-associate-dva-c02-practice-exam-part-1/
+- Paid
+	- https://awslagi.com/course/aws-certified-developer-associate-dva-c02-actual-exam/
 # Ports
 - 21 FTP
 - 22 SSH
@@ -90,3 +98,16 @@
 	- Users are mapped to IAM roles & policies, can leverage policy variables  
 
 - CUP + CIP = authentication + authorization
+
+# S3 Force SSL
+
+- IAM policy condition
+	- `aws:SecureTransport`
+
+# Things to revisit
+
+- CICD
+- AWS CLI commands
+- SDK
+- Containers / ECS = docker
+- Kinesis

@@ -3,7 +3,7 @@
 - Roles - Given to user to perform job temporarily
 - Usually given for EC2 or Lambda
 
-# Guidlines
+# Guidelines
 
 - Don't use root account
 - One AWS user per physical user
