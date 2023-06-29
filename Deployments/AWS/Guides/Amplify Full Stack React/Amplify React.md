@@ -1,0 +1,19 @@
+- https://docs.amplify.aws/lib/q/platform/js/
+	- Setup
+	- Analytics
+	- API
+		- GraphQL
+		- REST
+	- Authentication
+	- DataStore
+	- Geo
+	- In-App Messaging
+	- Interactions
+	- Prediction
+	- PubSub
+	- Storage
+	- Utilities
+	- Client config
+	- Server-Side-rendering
+	- Troubleshooting
+

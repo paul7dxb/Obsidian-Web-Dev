@@ -13,7 +13,7 @@
 # EBS Snapshot
 
 - Elastic Block Storage
-- Used to transfer data from one AZ to anaother
+- Used to transfer data from one AZ to another
 - EBS snapshot archive
 	- Move snapshot to archive tier
 	- 24 - 72 hours to restore archive
@@ -32,7 +32,7 @@
 
 # EC2 Instance Store
 
-- Storage pphysically attached to where the instance is running
+- Storage physically attached to where the instance is running
 - Better IO
 - Storage lost is EC2 terminated (ephemeral)
 - Loss of data if hardware fails and backups are your responsibility

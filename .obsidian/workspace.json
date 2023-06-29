@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3fe31b02b5bdc0b8",
+        "id": "b85e078288bc7211",
         "type": "tabs",
         "children": [
           {
-            "id": "79ce67d7bcdd3026",
+            "id": "223336aaa94fb644",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deployments/AWS/AWS Developer/AWS Infrastructure/1 - IAM.md",
+                "file": "Deployments/AWS/AWS Developer/Serverless/API Gateway/24.1 - API GW - Integrations.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rds",
+                "query": "9931-8264-4826",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deployments/AWS/AWS Developer/AWS Infrastructure/1 - IAM.md",
+                "file": "Deployments/AWS/AWS Developer/Serverless/API Gateway/24.1 - API GW - Integrations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deployments/AWS/AWS Developer/AWS Infrastructure/1 - IAM.md",
+                "file": "Deployments/AWS/AWS Developer/Serverless/API Gateway/24.1 - API GW - Integrations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deployments/AWS/AWS Developer/AWS Infrastructure/1 - IAM.md"
+                "file": "Deployments/AWS/AWS Developer/Serverless/API Gateway/24.1 - API GW - Integrations.md"
               }
             }
           }
@@ -154,53 +155,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79ce67d7bcdd3026",
+  "active": "1cf38fcf3617441f",
   "lastOpenFiles": [
-    "Deployments/AWS/AWS Developer/0 - Misc Exam Essentials.md",
-    "Deployments/AWS/AWS Developer/Exam Feedbacks.md",
-    "Deployments/AWS/AWS Developer/Javier Notes.md",
-    "Deployments/AWS/AWS Developer/CICD/31.7 - AppConfig.md",
-    "AWS_AppConfig_Connections.png",
-    "Deployments/AWS/AWS Developer/Security/31.6 - ACM - Certificate Manager.md",
-    "AWS_ACM_Private.png",
-    "Deployments/AWS/AWS Developer/Security/Untitled.md",
-    "Deployments/AWS/AWS Developer/31.5 - MSK.md",
-    "AWS_MSK_Consumers.png",
-    "AWS_MSK_Vs_Kinesis_Data_Streams.png",
-    "AWS_Apache_Kafka.png",
-    "Deployments/AWS/AWS Developer/Authentication/27.0 - Cognito.md",
-    "Deployments/AWS/AWS Developer/Authentication/27.2 - Cognito - Identity Pools.md",
-    "Deployments/AWS/AWS Developer/Authentication/27.1 - Cognito - User Pool.md",
-    "Deployments/AWS/AWS Developer/Serverless/API Gateway/24.2 - API GW - Security.md",
-    "Deployments/AWS/AWS Developer/Serverless/31.4 - Athena.md",
-    "AWS_Athena_partition.png",
-    "AWS_Athena.png",
-    "Deployments/AWS/AWS Developer/31.3 - OpenSearch.md",
-    "AWS_OpenSearch_CloudWatch_Logs.png",
-    "AWS_OpenSearch_Dynamo_DB_Flow.png",
-    "Deployments/AWS/AWS Developer/31.0 - SES.md",
-    "AWS_SES_Flow.png",
-    "Deployments/AWS/AWS Developer/Security/30.0 - KMS.md",
-    "Deployments/AWS/AWS Developer/Security/30.5 - Nitro Enclaves.md",
-    "Deployments/AWS/AWS Developer/Security/30.4 - Secrets Manager.md",
-    "Deployments/AWS/AWS Developer/Security/30.3 - SSM Parameters.md",
-    "Deployments/AWS/AWS Developer/Security/30.1 - KMS Security.md",
-    "Deployments/AWS/AWS Developer/Security/30.2 - CloudHSM.md",
-    "Deployments/AWS/AWS Developer/Authentication/29.1 - IAM.md",
-    "Deployments/AWS/Guides/Lambda.md",
+    "Deployments/AWS/Guides/Serverless/API Gateway.md",
+    "Deployments/AWS/AWS Developer/Serverless/Lambda/22.0 - Lambda.md",
+    "Deployments/AWS/Guides/Step Functions/Step Function - DynamoDB.md",
+    "Deployments/AWS/Guides/Step Functions/Step Functions.md",
+    "Deployments/AWS/Guides/Step Functions/Step Function - Lambda Start.md",
+    "Frameworks - React.js/Udemy React Course/13 - TypeScript React/51 - TypeScript Form.md",
+    "Frameworks - React.js/Custom Hooks/Form Validation.md",
+    "Frameworks - React.js/LinkedIn Learning/3 - Forms.md",
+    "Frameworks - React.js/Udemy React Course/2 - Hooks/3 - Lists & Conditional Content.md",
+    "Frameworks - React.js/Udemy React Course/1 - Basics/1 - Components.md",
+    "Deployments/AWS/AWS Developer/Serverless/28.0 - Step Functions.md",
+    "Pasted image 20230614173634.png",
+    "Deployments/AWS/Guides/API Gateway Web Socket.md",
+    "Random Links.md",
+    "Z - Images/AWS_API_GW_WebSocket_Route.png",
+    "Frameworks - React.js/Udemy React Course/5 - Redux/20 - Redux Side Effects.md",
+    "Deployments/AWS/Guides/Step Functions",
+    "Frameworks - React.js/Udemy React Course/5 - Redux/18 - Redux.md",
+    "Frameworks - React.js/Udemy React Course/6 - React Router/21 - React Router.md",
+    "Frameworks - Next.js/Basics from React Course/3 - Routes.md",
+    "Frameworks - Next.js/Udemy Course/1 - Routing/1 - Routing.md",
+    "Frameworks - React.js/Udemy React Course/13 - TypeScript React/50 - Data Models.md",
+    "Frameworks - React.js/Udemy React Course/4 - APIs/16 - HTTP Requests.md",
+    "Frameworks - React.js/Resources/React Tutorial.md",
+    "Frameworks - React.js/LinkedIn Learning/1 - Creating Components.md",
+    "Frameworks - React.js/1 - React.js.md",
+    "Frameworks - React.js/Udemy React Course/1 - Basics/11 - Images.md",
+    "Frameworks - React.js/Udemy React Course/1 - Basics/2 - States.md",
+    "Frameworks - React.js/2 - Setup.md",
+    "Deployments/AWS/Examples",
+    "Deployments/AWS/Guides/Amplify Full Stack React/AWS Tutorial",
+    "Deployments/AWS/Guides/Authentication",
+    "Z - Images/AWS_Cognito_API_Test.png",
+    "Z - Images/AWS/AWS_XRay_Segment_Subsegment.png",
+    "Z - Images/AWS/AWS_CICD_Process 1.png",
+    "Z - Images/AWS/CDK_Lambda_Layer_TS.png",
+    "Deployments/AWS/Guides/CDK",
+    "Z - Images/AWS/AWS_Cloudwatch_Thresholds.png",
+    "Z - Images/AWS/AWS_State_Machine.png",
+    "Z - Images/AWS/AWS_SQS_Vs_SNS_Vs_EventBridge.png",
+    "Z - Images/AWS/AWS_SES_Flow.png",
     "Deployments/AWS/AWS Developer/Security",
-    "Deployments/AWS/AWS Developer/Authentication/29.2 - AWS Directory Services.md",
-    "Deployments/AWS/AWS Developer/Authentication/29.0 - STS.md",
-    "Deployments/AWS/AWS Developer/Serverless/28.2 - Amplify.md",
-    "Deployments/AWS/AWS Developer/Serverless/28.1 - AppSync.md",
     "Deployments/AWS/AWS Developer/Authentication",
     "Deployments/AWS/AWS Developer/CDK",
     "Deployments/AWS/Guides/Serverless",
-    "Deployments/AWS/AWS Developer/Serverless/SAM",
-    "Deployments/AWS/AWS Developer/Serverless/API Gateway",
-    "Deployments/AWS/AWS Developer/Serverless/Lambda",
-    "Deployments/AWS/AWS Developer/Serverless/DynamoDB",
-    "Deployments/AWS/AWS Developer/Serverless",
-    "Deployments/AWS/AWS Developer/Monitoring"
+    "Deployments/AWS/AWS Developer/Serverless/SAM"
   ]
 }

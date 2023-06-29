@@ -63,7 +63,7 @@ aws s3 mb s3://<bucket-name> --profile default
 
 # DynamoDB CLI
 
-- [[DynamoDB#DynamoDB CLI|DynamoDB CLI commands]]
+- [[Deployments/AWS/Guides/Serverless/DynamoDB#DynamoDB CLI|DynamoDB CLI commands]]
 
 # S3 commands
 

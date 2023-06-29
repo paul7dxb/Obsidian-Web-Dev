@@ -1,3 +1,21 @@
+# Intro
+
+- Levels
+	- 1 - Cloudformation 1:1
+	- 2 - Improved L1 with helper methods and defaults
+	- 3 - Combinations of constructs
+
+- Assets
+	- Files bundled into the apps
+		- Docker, lambda handlers
+		- Get output to cdk.out
+- Bootstrapping
+	- Creates S3 bucket to store assets
+
+- Aspects
+	- Apply an operation to all constructs in a given scope
+		- e.g all buckets to be encrypted
+
 # Commands
 
 |Command| Description|
@@ -9,7 +27,17 @@
 |cdk deploy |Deploy the Stack(s)
 |cdk diff |View differences of local CDK and deployed Stack
 |cdk destroy |Destroy the Stack(s)
+| cdk deploy --hotswap | Drift Cloudformation instead of redeploying (dev) |
+| cdk deploy --outputs-file \<filename> | Output Stack outputs to a file |
 
+- May require npx and --profile
+	- `npx cdk deploy --profile default`
+
+# New App
+
+```bash
+cdk init sample-app --language typescript
+```
 
 # Deploy stack from CDK
 
@@ -51,4 +79,26 @@ cdk deploy
 # 7. empty the s3 bucket
 # 8. destroy the stack
 cdk destroy
+```
+
+# CDK Watch
+
+- Monitors code and assets for changes
+	- Attempts to deploy changes automatically
+- Default uses `--hotswap`
+	- Disable with `cdk watch --no-hotswap`
+
+- Watched files determined by the `cdk.json` file
+
+```JSON
+{
+  "app": "python3 app.py",
+  "watch": {
+    "include": [
+      "**"
+    ],
+    "exclude": [
+      "README.md",
+      "cdk*.json",
+      ...
 ```

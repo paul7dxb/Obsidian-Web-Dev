@@ -39,7 +39,7 @@
 - Go to location of RSA key
 
 ```powershell
-ssh -i '.\EC2 Tutorial.pem' ec2-user@13.40.109.26
+ssh -i '.\EC2Tutorial.pem' ec2-user@12.34.56.78
 ```
 
 - Requires .pem file to have you as owner and the ONLY principal with any permissions on it. Give full control
