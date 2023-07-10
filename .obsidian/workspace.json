@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deployments/AWS/AWS Developer/Serverless/API Gateway/24.1 - API GW - Integrations.md",
+                "file": "Git/Branches.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c1257191577aadb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Random Links.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "9931-8264-4826",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,12 +86,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 240.5
   },
   "right": {
     "id": "8105f6945468661d",
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deployments/AWS/AWS Developer/Serverless/API Gateway/24.1 - API GW - Integrations.md",
+                "file": "Random Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deployments/AWS/AWS Developer/Serverless/API Gateway/24.1 - API GW - Integrations.md",
+                "file": "Random Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deployments/AWS/AWS Developer/Serverless/API Gateway/24.1 - API GW - Integrations.md"
+                "file": "Random Links.md"
               }
             }
           }
@@ -155,37 +167,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cf38fcf3617441f",
+  "active": "2c1257191577aadb",
   "lastOpenFiles": [
-    "Deployments/AWS/Guides/Serverless/API Gateway.md",
-    "Deployments/AWS/AWS Developer/Serverless/Lambda/22.0 - Lambda.md",
-    "Deployments/AWS/Guides/Step Functions/Step Function - DynamoDB.md",
-    "Deployments/AWS/Guides/Step Functions/Step Functions.md",
-    "Deployments/AWS/Guides/Step Functions/Step Function - Lambda Start.md",
-    "Frameworks - React.js/Udemy React Course/13 - TypeScript React/51 - TypeScript Form.md",
-    "Frameworks - React.js/Custom Hooks/Form Validation.md",
-    "Frameworks - React.js/LinkedIn Learning/3 - Forms.md",
-    "Frameworks - React.js/Udemy React Course/2 - Hooks/3 - Lists & Conditional Content.md",
-    "Frameworks - React.js/Udemy React Course/1 - Basics/1 - Components.md",
-    "Deployments/AWS/AWS Developer/Serverless/28.0 - Step Functions.md",
+    "Git/Git Commands.md",
+    "Git/Git.md",
+    "JS/Error Handling.md",
+    "Libraries/date-fns.md",
+    "NPM/Updating Packages.md",
+    "NPM/NPM Setup.md",
+    "JS/Logging.md",
+    "Z - Images/whenToCatchError.png",
     "Pasted image 20230614173634.png",
-    "Deployments/AWS/Guides/API Gateway Web Socket.md",
-    "Random Links.md",
+    "C Sharp/Strings.md",
+    "Git/Branches.md",
+    "Git/GitIgnore.md",
+    "Git/Sharing.md",
+    "JS/User Inputs.md",
+    "JS/Fetch.md",
+    "JS/Functions.md",
+    "Algorithms/Regex/Regex Examples.md",
+    "Algorithms/Regex/Regex.md",
+    "Computer Science/Combinations.md",
+    "Git",
+    "Gmail App Password.md",
+    "C Sharp/Syntax.md",
+    "C Sharp/Arrays.md",
+    "C Sharp",
+    "JS/JS - Type Conversions.md",
+    "JS/Type Conversions 1.md",
+    "JS/JSX.md",
+    "JS/js.md",
+    "JS/Strings.md",
+    "Deployments/AWS/AWS Developer/Serverless/API Gateway/24.1 - API GW - Integrations.md",
     "Z - Images/AWS_API_GW_WebSocket_Route.png",
-    "Frameworks - React.js/Udemy React Course/5 - Redux/20 - Redux Side Effects.md",
     "Deployments/AWS/Guides/Step Functions",
-    "Frameworks - React.js/Udemy React Course/5 - Redux/18 - Redux.md",
-    "Frameworks - React.js/Udemy React Course/6 - React Router/21 - React Router.md",
-    "Frameworks - Next.js/Basics from React Course/3 - Routes.md",
-    "Frameworks - Next.js/Udemy Course/1 - Routing/1 - Routing.md",
-    "Frameworks - React.js/Udemy React Course/13 - TypeScript React/50 - Data Models.md",
-    "Frameworks - React.js/Udemy React Course/4 - APIs/16 - HTTP Requests.md",
-    "Frameworks - React.js/Resources/React Tutorial.md",
-    "Frameworks - React.js/LinkedIn Learning/1 - Creating Components.md",
-    "Frameworks - React.js/1 - React.js.md",
-    "Frameworks - React.js/Udemy React Course/1 - Basics/11 - Images.md",
-    "Frameworks - React.js/Udemy React Course/1 - Basics/2 - States.md",
-    "Frameworks - React.js/2 - Setup.md",
     "Deployments/AWS/Examples",
     "Deployments/AWS/Guides/Amplify Full Stack React/AWS Tutorial",
     "Deployments/AWS/Guides/Authentication",
@@ -197,11 +212,8 @@
     "Z - Images/AWS/AWS_Cloudwatch_Thresholds.png",
     "Z - Images/AWS/AWS_State_Machine.png",
     "Z - Images/AWS/AWS_SQS_Vs_SNS_Vs_EventBridge.png",
-    "Z - Images/AWS/AWS_SES_Flow.png",
     "Deployments/AWS/AWS Developer/Security",
     "Deployments/AWS/AWS Developer/Authentication",
-    "Deployments/AWS/AWS Developer/CDK",
-    "Deployments/AWS/Guides/Serverless",
-    "Deployments/AWS/AWS Developer/Serverless/SAM"
+    "Deployments/AWS/AWS Developer/CDK"
   ]
 }

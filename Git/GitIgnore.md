@@ -1,7 +1,3 @@
-
-# Deployments
-- Used to push code to [[Heroku Web Server]]
-
 # gitignore
 
 Ignore folders. Add to gitignore ending /
@@ -11,20 +7,8 @@ Ignore all __pycache__ folders
 __pycache__/
 ```
 
-# Branches
-[Git Branches](https://geo-jobe.com/mapthis/git-good-with-visual-studio-code/)
 
-Swith back to master and then merge from other branch
 
-[VSCode merge back to main](https://stackoverflow.com/questions/61755744/git-how-to-merge-feature-branch-into-master-using-vs-code-source-control)
-
-# Restoring
-
-```bash
-git log
-#Get commit hash
-git reset 687f929
-```
 
 # Gitignore Templates
 
@@ -193,4 +177,3 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 ```
-
