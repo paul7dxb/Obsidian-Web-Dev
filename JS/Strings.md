@@ -58,6 +58,22 @@ slice(-i) //Last i elements
 # Strings to Ascii Conversions
 
 ```JS
+const asciiA = 65
+const asciia = 97
+const asciiz = 122
+const asciim = 109
+const asciin = 110
+
+const toAsciiNum = (char) => {
+    return char.charCodeAt(0)
+}
+
+const numToAscii = (asciiNum) => {
+    return String.fromCharCode(asciiNum)
+}
+```
+
+```JS
 function solution(inputString) {
     
     solString = ''
@@ -72,6 +88,8 @@ for(let i = 0; i < inputString.length; i++){
 }
 return solString
 }
+
+
 ```
 
 # Unique characters in a string
@@ -82,5 +100,13 @@ return solString
 ```JS
 function solution(s) {
     return new Set(s).size  
+}
+```
+
+# Reverse a string
+
+```JS
+function reverse(s){
+    return s.split("").reverse().join("");
 }
 ```

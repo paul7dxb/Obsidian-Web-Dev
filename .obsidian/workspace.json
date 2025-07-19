@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b85e078288bc7211",
+        "id": "10db85c483067406",
         "type": "tabs",
         "children": [
           {
-            "id": "223336aaa94fb644",
+            "id": "8a7de531d6eedcfd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Branches.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c1257191577aadb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Random Links.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 249.5
   },
   "right": {
     "id": "8105f6945468661d",
@@ -106,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,8 +126,18 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "a8c368b1bcd7b8f1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
               "state": {
-                "file": "Random Links.md"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -154,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -167,53 +158,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c1257191577aadb",
+  "active": "8a7de531d6eedcfd",
   "lastOpenFiles": [
-    "Git/Git Commands.md",
-    "Git/Git.md",
-    "JS/Error Handling.md",
-    "Libraries/date-fns.md",
-    "NPM/Updating Packages.md",
-    "NPM/NPM Setup.md",
-    "JS/Logging.md",
-    "Z - Images/whenToCatchError.png",
-    "Pasted image 20230614173634.png",
-    "C Sharp/Strings.md",
-    "Git/Branches.md",
-    "Git/GitIgnore.md",
-    "Git/Sharing.md",
-    "JS/User Inputs.md",
-    "JS/Fetch.md",
-    "JS/Functions.md",
-    "Algorithms/Regex/Regex Examples.md",
-    "Algorithms/Regex/Regex.md",
-    "Computer Science/Combinations.md",
-    "Git",
-    "Gmail App Password.md",
-    "C Sharp/Syntax.md",
-    "C Sharp/Arrays.md",
-    "C Sharp",
-    "JS/JS - Type Conversions.md",
-    "JS/Type Conversions 1.md",
-    "JS/JSX.md",
     "JS/js.md",
+    "Algorithms/Object/Objects.md",
+    "Algorithms/Sets/Sets Methods.md",
+    "Algorithms/Object",
+    "Algorithms/Sets/Sets Challenges.md",
+    "Algorithms/Sets/Sets.md",
     "JS/Strings.md",
-    "Deployments/AWS/AWS Developer/Serverless/API Gateway/24.1 - API GW - Integrations.md",
-    "Z - Images/AWS_API_GW_WebSocket_Route.png",
-    "Deployments/AWS/Guides/Step Functions",
-    "Deployments/AWS/Examples",
-    "Deployments/AWS/Guides/Amplify Full Stack React/AWS Tutorial",
-    "Deployments/AWS/Guides/Authentication",
-    "Z - Images/AWS_Cognito_API_Test.png",
-    "Z - Images/AWS/AWS_XRay_Segment_Subsegment.png",
-    "Z - Images/AWS/AWS_CICD_Process 1.png",
-    "Z - Images/AWS/CDK_Lambda_Layer_TS.png",
-    "Deployments/AWS/Guides/CDK",
-    "Z - Images/AWS/AWS_Cloudwatch_Thresholds.png",
-    "Z - Images/AWS/AWS_State_Machine.png",
-    "Z - Images/AWS/AWS_SQS_Vs_SNS_Vs_EventBridge.png",
-    "Deployments/AWS/AWS Developer/Security",
-    "Deployments/AWS/AWS Developer/Authentication",
-    "Deployments/AWS/AWS Developer/CDK"
+    "Algorithms/Regex/Regex Examples.md",
+    "JS/Array Functions.md",
+    "C Sharp/Arrays.md",
+    "Algorithms/Linked Lists/Linked List Challenges.md",
+    "JS/JS - Type Conversions.md",
+    "Algorithms/Numbers/Number Methods.md",
+    "Algorithms/Linked Lists/Linked List.md",
+    "Algorithms/Hash , Key Value Pair.md",
+    "Algorithms/Hash Tables/Hash Table Challenges.md",
+    "Computer Science/Combinations.md",
+    "Deployments/Netlify/DNS.md",
+    "Deployments/Netlify/Commands.md",
+    "JS/WebSocket.md",
+    "Deployments/AWS/Guides/CDK/CDK Lambda Layers.md",
+    "Frameworks - React.js/Udemy React Course/1 - Basics/2 - States.md",
+    "Frameworks - React.js/Udemy React Course/2 - Hooks/8 - useReducer().md",
+    "Frameworks - React.js/Custom Components/Card.md",
+    "Frameworks - React.js/Custom Hooks/Form Validation.md",
+    "Springwood Fishery/CLI Setup.md",
+    "Springwood Fishery/Github Token for AWS.md",
+    "Pasted image 20231018194402.png",
+    "Pasted image 20231018142931.png",
+    "Pasted image 20231018142907.png",
+    "Pasted image 20231018142825.png",
+    "Pasted image 20231018142547.png",
+    "Pasted image 20231018142458.png",
+    "Pasted image 20231018141816.png",
+    "Pasted image 20231018141640.png",
+    "Pasted image 20231018141618.png",
+    "Pasted image 20231016212753.png",
+    "Springwood Fishery",
+    "TechSwitch/Hackathon",
+    "Deployments/GitHub Pages",
+    "TechSwitch/Deployments",
+    "TechSwitch/Lightning Talk",
+    "TechSwitch/TFL",
+    "TechSwitch/Bookish",
+    "Z - Images/CSharp",
+    "TechSwitch/Images"
   ]
 }

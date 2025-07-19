@@ -19,4 +19,4 @@ const toggleParagraphHandler = useCallback(() => {
 - Second Argument is the dependencies of the function
 	- Empty means no dependencies so the same function component should be used on each render
 
-- When there are more arguments involved you must be aware of the  [[Functions#Functions are Closures|function's closure]]
+- When there are more arguments involved you must be aware of the  [[JS/Functions#Functions are Closures|function's closure]]

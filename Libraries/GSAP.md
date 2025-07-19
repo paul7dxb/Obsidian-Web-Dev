@@ -1,3 +1,4 @@
+- https://greensock.com/
 - Advanced animations
 
 # Installation
@@ -15,3 +16,4 @@ Add
 ```bash
 npm install gsap@npm:@gsap/member
 ```
+

@@ -105,3 +105,11 @@ console.log('reversed:', reversed);
 console.log('array1:', array1);
 // Expected output: "array1:" Array ["three", "two", "one"]
 ```
+
+# of
+
+```js
+for ( let item of items){
+	// work on item
+}
+```

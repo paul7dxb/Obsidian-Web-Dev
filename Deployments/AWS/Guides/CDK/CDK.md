@@ -37,6 +37,7 @@
 
 ```bash
 cdk init sample-app --language typescript
+
 ```
 
 # Deploy stack from CDK

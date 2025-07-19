@@ -126,3 +126,6 @@ exports.handler = async (event) => {
 };
 ```
 
+# Lambda Node with package
+
+- https://repost.aws/knowledge-center/lambda-deployment-package-nodejs

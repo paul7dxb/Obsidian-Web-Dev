@@ -135,3 +135,16 @@ def lambda_handler(event, context):
     return { "statusCode": 200  }
 
 ```
+
+
+# Websocket Info
+
+- [Link]([https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-websocket-api-route-keys-connect-disconnect.html](https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-websocket-api-route-keys-connect-disconnect.html))
+```
+{
+    "connectionId": "$context.connectionId",
+    "domain": "$context.domainName",
+    "stage": "$context.stage",
+    "params": "$input.params()"
+}
+```

@@ -1,0 +1,3 @@
+- How to make tests
+- Null checks
+- 

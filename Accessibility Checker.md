@@ -1,0 +1,11 @@
+- Go to Github repo (your forked repo)
+	- Settings
+	- Pages (left hand side)
+	- Build and deployment
+		- Deploy from branch (default)
+		- Branch
+			- main
+			- /root
+			- save
+	- ![[Pasted image 20230718072419.png]]
+	- Takes a couple of minutes to build

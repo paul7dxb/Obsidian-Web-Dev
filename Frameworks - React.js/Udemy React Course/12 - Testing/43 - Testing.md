@@ -21,6 +21,7 @@
 	- Expectations
 	- Testing Async code
 	- Mock functions
+	- [Jest testing functions](https://jestjs.io/docs/expect)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 	- Query methods
 	- API

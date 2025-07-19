@@ -1,0 +1,4 @@
+- [CDK three tier serverless freecodecamp](https://www.freecodecamp.org/news/aws-cdk-v2-three-tier-serverless-application/)
+- [Jest Testing](https://github.com/aws-samples/aws-cdk-lambda-automated-testing/blob/main/jest.config.js)
+	- [AWS example](https://docs.aws.amazon.com/cdk/v2/guide/testing.html)
+- 

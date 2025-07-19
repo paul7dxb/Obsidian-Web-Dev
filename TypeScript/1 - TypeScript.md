@@ -35,3 +35,5 @@ npx tsc .\with-typescript.ts
 ```
 
 - Will create a new .js file
+
+# Create Typescript React project

@@ -29,6 +29,12 @@ npm -v
 npx create-react-app react-app
 ```
 
+## Typescript Project
+
+```bash
+npm create vite@latest <your-app-name> -- --template react-ts
+```
+
 # Starting the development server
 ``` bash
 cd react-app

@@ -1,0 +1,12 @@
+- Install CLI
+	- Check with `aws --verison` should give you a version number
+- Login to your user account
+	- IAM
+	- Users
+	- Click on your user
+	- Security Credentials
+	- Access Keys
+		- Create
+		- CLI
+
+- cdk --profile springwood-admin deploy

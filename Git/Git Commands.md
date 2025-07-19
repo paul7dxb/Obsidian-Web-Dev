@@ -24,6 +24,11 @@ git branch <branchName>
 git checkout <branchName>
 ```
 
+```bash
+# One line to create and checkout
+git checkout -b <branchName>
+```
+
 ## Git Merge
 
 ```bash
@@ -64,4 +69,41 @@ git status
 
 ```bash
 git reset --hard
+```
+
+
+# Git Review Requests
+
+- Pull
+
+# Get latest changes
+
+```bash
+
+git checkout main
+git pull
+git checkout <your-branch-name>
+git merge main
+
+git checkout -b mm-38-404-page-2
+
+git checkout -b mm-65-quiz-answer-hover
+
+git checkout -b mm-64-quiz-over-button
+
+git checkout MM-31-Quiz-page
+git checkout mm-38-404-page-2
+git merge mm-51-area-51-page
+
+git checkout mm-51-area-51-page
+
+git merge MM-31-Quiz-page
+
+journey-planner-map
+```
+
+# Git Get All branches
+
+```
+git branch -a
 ```

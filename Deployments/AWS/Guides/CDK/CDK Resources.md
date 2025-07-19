@@ -37,3 +37,8 @@
 				- CloudFront distribution and build step
 				- Custom resource to provide API URL to web application
 - Host React app on Amplify using CDK
+
+# CDK Security
+
+- [CDK nag](https://aws.amazon.com/blogs/devops/manage-application-security-and-compliance-with-the-aws-cloud-development-kit-and-cdk-nag/)
+- 

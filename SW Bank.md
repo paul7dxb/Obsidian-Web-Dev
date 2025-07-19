@@ -1,0 +1,3 @@
+- How to parse the CSV into program memory
+- Structure for accounts
+- 
